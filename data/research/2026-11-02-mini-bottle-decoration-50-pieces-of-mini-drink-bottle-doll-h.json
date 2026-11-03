@@ -1,0 +1,124 @@
+{
+  "generatedAt": "2026-11-02T19:51:30.870Z",
+  "trend": {
+    "id": "t_9a77a99cef",
+    "title": "Wholesale Mini Bicycle Bottle Opener Keychain Pendant Gift Car Repair Tool",
+    "source": "aliexpress",
+    "geo": "GLOBAL",
+    "score": 85.51084275689499,
+    "keywords": [
+      "wholesale",
+      "mini",
+      "bicycle",
+      "bottle",
+      "opener",
+      "keychain",
+      "pendant",
+      "gift"
+    ],
+    "query": "wholesale mini bicycle bottle",
+    "category": "kitchen",
+    "url": "https://www.aliexpress.com/item/1005001780890110.html",
+    "traffic": "4000 sold",
+    "eligible": true,
+    "observedAt": "2026-11-02T19:50:57.779Z",
+    "signals": [
+      {
+        "source": "aliexpress",
+        "title": "Wholesale Mini Bicycle Bottle Opener Keychain Pendant Gift Car Repair Tool",
+        "url": "https://www.aliexpress.com/item/1005001780890110.html",
+        "traffic": "4000 sold",
+        "score": 85.51084275689499
+      }
+    ]
+  },
+  "offers": [
+    {
+      "supplier": "AliExpress",
+      "title": "Bicycle Water Bottle Portable 750ML Capacity Ideal for Cycling Mountain Biking Outdoor Sports Camping Drink Flask Water Bottle",
+      "url": "https://www.aliexpress.com/item/1005013473808563.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S7350d275bf904c529aa1f126dd9843f62.jpg"
+      ],
+      "costZar": 119,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "ThinkRider Bicycle 650ml Aerodynamic Water Bottle Bracket Set Bike Water Bottle MTB Road Frame Down Tube Riding Water Kettle",
+      "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005012221818288:12000057789491085&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/Saf348cb670a74346b1b65373f67f7b873.jpg"
+      ],
+      "costZar": 160,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "Sports Water Bottle 550ML 650ML PP5 Ultra-Light Outdoor Running Cycling Squeeze Mug Bicycle Kettle Portable Bike Cup",
+      "url": "https://www.aliexpress.com/item/1005012525849072.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S662e170e6d704bc8a5203c1e3ee1dcc8Q.jpg"
+      ],
+      "costZar": 105,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "Mini Bottle decoration 50 Pieces of Mini Drink Bottle Doll House Decoration, DIY Mobile Phone Case Wine Bottle Doll House Decoration",
+      "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005008811901531:12000046767939353&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S214d134ab8714d8fa898d9fe47684bbbq.jpg"
+      ],
+      "costZar": 34,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    }
+  ],
+  "chosen": {
+    "supplier": "AliExpress",
+    "title": "Mini Bottle decoration 50 Pieces of Mini Drink Bottle Doll House Decoration, DIY Mobile Phone Case Wine Bottle Doll House Decoration",
+    "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005008811901531:12000046767939353&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+    "images": [
+      "https://ae-pic-a1.aliexpress-media.com/kf/S214d134ab8714d8fa898d9fe47684bbbq.jpg"
+    ],
+    "costZar": 34,
+    "shippingZar": 65,
+    "deliveryDays": [
+      10,
+      18
+    ],
+    "inStock": true,
+    "confidence": "high",
+    "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+  },
+  "decision": "Saved as draft (high confidence). Verify supplier and image before publishing.",
+  "localLeads": []
+}

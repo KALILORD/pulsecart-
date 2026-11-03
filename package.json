@@ -1,0 +1,27 @@
+{
+  "name": "pulsecart",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Zero-cost automated trending-product storefront for South Africa",
+  "workspaces": [
+    "pipeline",
+    "storefront"
+  ],
+  "scripts": {
+    "pipeline": "npm run -w @pulsecart/pipeline start",
+    "scan": "npm run -w @pulsecart/pipeline scan",
+    "research": "npm run -w @pulsecart/pipeline research",
+    "content": "npm run -w @pulsecart/pipeline content",
+    "publish": "npm run -w @pulsecart/pipeline publish",
+    "dev": "npm run -w @pulsecart/storefront dev",
+    "build": "npm run -w @pulsecart/storefront build",
+    "preview": "node scripts/serve-static.mjs storefront/out",
+    "typecheck": "npm run -w @pulsecart/pipeline typecheck && npm run -w @pulsecart/storefront typecheck"
+  },
+  "engines": {
+    "node": ">=22"
+  },
+  "allowScripts": {
+    "esbuild@0.28.2": true
+  }
+}

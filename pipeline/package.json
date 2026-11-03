@@ -1,0 +1,25 @@
+{
+  "name": "@pulsecart/pipeline",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "description": "Trend detection, supplier research, content generation and distribution pipeline",
+  "scripts": {
+    "start": "tsx src/run.ts all",
+    "scan": "tsx src/run.ts scan",
+    "research": "tsx src/run.ts research",
+    "content": "tsx src/run.ts content",
+    "publish": "tsx src/run.ts publish",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "cheerio": "^1.2.0",
+    "fast-xml-parser": "^5.11.2",
+    "zod": "^4.6.7"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.6",
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2"
+  }
+}

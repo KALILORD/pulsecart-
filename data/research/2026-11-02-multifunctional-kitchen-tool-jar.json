@@ -1,0 +1,53 @@
+{
+  "generatedAt": "2026-11-02T19:51:30.870Z",
+  "trend": {
+    "id": "t_2895fe3c9f",
+    "title": "Multifunctional 4-in-1 Kitchen Tool Jar Gripper Lid Opener Can Opener Bottle Opener…",
+    "source": "aliexpress",
+    "geo": "GLOBAL",
+    "score": 83.9,
+    "keywords": [
+      "multifunctional",
+      "kitchen",
+      "tool",
+      "jar",
+      "gripper",
+      "lid",
+      "opener",
+      "opener"
+    ],
+    "query": "multifunctional kitchen tool jar",
+    "category": "kitchen",
+    "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005006904452836:12000038670871307&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+    "traffic": "30000 sold",
+    "eligible": true,
+    "observedAt": "2026-11-02T19:50:57.779Z",
+    "signals": [
+      {
+        "source": "aliexpress",
+        "title": "Multifunctional 4-in-1 Kitchen Tool Jar Gripper Lid Opener Can Opener Bottle Opener…",
+        "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005006904452836:12000038670871307&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+        "traffic": "30000 sold",
+        "score": 83.9
+      }
+    ]
+  },
+  "offers": [],
+  "chosen": {
+    "supplier": "Estimated — verify supplier",
+    "title": "multifunctional kitchen tool jar",
+    "url": "",
+    "images": [],
+    "costZar": 260,
+    "shippingZar": 65,
+    "deliveryDays": [
+      10,
+      18
+    ],
+    "inStock": true,
+    "confidence": "low",
+    "notes": "No verifiable supplier price found automatically. Confirm a supplier, landed cost, and image before publishing."
+  },
+  "decision": "Saved as draft (low confidence). Verify supplier and image before publishing.",
+  "localLeads": []
+}

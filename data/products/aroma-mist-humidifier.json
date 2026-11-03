@@ -1,0 +1,51 @@
+{
+  "id": "p_aroma_mist_humidifier",
+  "slug": "aroma-mist-humidifier",
+  "title": "Aroma Mist Humidifier",
+  "tagline": "Desk-sized calm, on demand.",
+  "description": [
+    "A mini mist maker that turns a dry room into a soft-focus spa. It is the little desk upgrade everyone keeps asking about.",
+    "Add water and a few drops of your favourite essential oil. The quiet mist keeps your desk, nursery or bedside feeling fresh, and the warm glow doubles as a night light when the room goes dark.",
+    "Delivered nationwide in 7–14 working days. Backed by our 7-day returns policy."
+  ],
+  "bullets": [
+    "Whisper-quiet mist for desks and bedside tables",
+    "Warm ambient glow doubles as a night light",
+    "USB-powered — works with a laptop or power bank",
+    "180 ml tank runs for hours between refills",
+    "A few drops of oil is all it takes"
+  ],
+  "priceZar": 327.99,
+  "currency": "ZAR",
+  "images": ["/products/humidifier.webp"],
+  "category": "home",
+  "tags": ["Home & Living", "humidifier", "aroma diffuser", "mist", "desk", "South Africa", "trending"],
+  "trend": {
+    "id": "t_b601173c9a",
+    "title": "Mini USB aroma diffusers and mist makers",
+    "source": "aliexpress",
+    "score": 86
+  },
+  "supplier": {
+    "supplier": "AliExpress",
+    "title": "Home Diffuser Steam Mini Mist Maker Negative Ion Humidifier Donuts Humidifier Features Negative Ion Humidifier",
+    "url": "https://www.aliexpress.com/item/1005010460493935.html",
+    "images": ["/products/humidifier.webp"],
+    "costZar": 61,
+    "shippingZar": 65,
+    "deliveryDays": [10, 18],
+    "inStock": true,
+    "confidence": "high",
+    "notes": "Launch catalogue item. Supplier price and stock re-checked before dispatch.",
+    "checkedAt": "2026-11-02T20:00:00.000Z"
+  },
+  "seo": {
+    "title": "Aroma Mist Humidifier | PulseCart",
+    "description": "A desk-sized aroma mist humidifier with a warm night-light glow. Quiet, USB-powered and delivered across South Africa.",
+    "keywords": ["aroma humidifier", "mist maker", "desk humidifier", "essential oil diffuser", "South Africa"]
+  },
+  "status": "published",
+  "demo": true,
+  "createdAt": "2026-11-02T20:01:00.000Z",
+  "updatedAt": "2026-11-02T20:01:00.000Z"
+}

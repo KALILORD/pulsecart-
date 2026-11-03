@@ -1,0 +1,51 @@
+{
+  "id": "p_mini_bottle_charm_set",
+  "slug": "mini-bottle-charm-set",
+  "title": "Mini Bottle Charm Set — 50 Pieces",
+  "tagline": "Tiny bottles. Big craft energy.",
+  "description": [
+    "Fifty miniature bottles for phone cases, dollhouses, resin projects and party favours. This is the tiny trend filling up craft feeds.",
+    "Each set has a mix of shapes and colours, so no two projects look the same. They are small, detailed and surprisingly addictive to arrange.",
+    "Delivered nationwide in 7–14 working days. Backed by our 7-day returns policy."
+  ],
+  "bullets": [
+    "50 assorted mini bottles per set",
+    "Perfect for phone cases, resin and dollhouses",
+    "Tiny details that make a big difference",
+    "A fun add-on for craft nights and party favours",
+    "Easy to sort and store between projects"
+  ],
+  "priceZar": 256.99,
+  "currency": "ZAR",
+  "images": ["/products/bottle-charms.webp"],
+  "category": "home",
+  "tags": ["Home & Living", "mini bottles", "craft", "charms", "diy", "South Africa", "trending"],
+  "trend": {
+    "id": "t_demo_bottle_charms",
+    "title": "Miniature bottle charms for phone cases and crafts",
+    "source": "manual",
+    "score": 82
+  },
+  "supplier": {
+    "supplier": "AliExpress",
+    "title": "Mini Bottle decoration 50 Pieces of Mini Drink Bottle Doll House Decoration, DIY Mobile Phone Case Wine Bottle Doll House Decoration",
+    "url": "https://www.aliexpress.com/item/1005008811901531.html",
+    "images": ["/products/bottle-charms.webp"],
+    "costZar": 34,
+    "shippingZar": 65,
+    "deliveryDays": [10, 18],
+    "inStock": true,
+    "confidence": "high",
+    "notes": "Launch catalogue item. Supplier price and stock re-checked before dispatch.",
+    "checkedAt": "2026-11-02T20:02:00.000Z"
+  },
+  "seo": {
+    "title": "Mini Bottle Charm Set — 50 Pieces | PulseCart",
+    "description": "Fifty assorted miniature bottle charms for phone cases, resin, dollhouses and craft projects. Delivered across South Africa.",
+    "keywords": ["mini bottle charms", "craft supplies", "phone case charms", "dollhouse bottles", "South Africa"]
+  },
+  "status": "published",
+  "demo": true,
+  "createdAt": "2026-11-02T20:02:00.000Z",
+  "updatedAt": "2026-11-02T20:02:00.000Z"
+}

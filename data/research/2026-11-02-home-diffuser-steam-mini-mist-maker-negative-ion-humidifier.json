@@ -1,0 +1,124 @@
+{
+  "generatedAt": "2026-11-02T19:51:30.870Z",
+  "trend": {
+    "id": "t_b601173c9a",
+    "title": "Home Mini Mist Maker Lights 180ML Mini Air Humidifier USB Electric Aroma Diffuser…",
+    "source": "aliexpress",
+    "geo": "GLOBAL",
+    "score": 85.8,
+    "keywords": [
+      "home",
+      "mini",
+      "mist",
+      "maker",
+      "lights",
+      "180ml",
+      "mini",
+      "air"
+    ],
+    "query": "home mini mist maker",
+    "category": "home",
+    "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005007527811142:12000041164357497&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+    "traffic": "100000 sold",
+    "eligible": true,
+    "observedAt": "2026-11-02T19:50:57.779Z",
+    "signals": [
+      {
+        "source": "aliexpress",
+        "title": "Home Mini Mist Maker Lights 180ML Mini Air Humidifier USB Electric Aroma Diffuser…",
+        "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005007527811142:12000041164357497&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+        "traffic": "100000 sold",
+        "score": 85.8
+      }
+    ]
+  },
+  "offers": [
+    {
+      "supplier": "AliExpress",
+      "title": "Home Diffuser Steam Mini Mist Maker Negative Ion Humidifier Donuts Humidifier Features Negative Ion Humidifier",
+      "url": "https://www.aliexpress.com/item/1005010460493935.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S1100ef92dabf4c5cbcda7beba891893dE.jpeg"
+      ],
+      "costZar": 61,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "180ML Mini Air Humidifier USB Electric Aroma Diffuser Essential Oil Purifier Aromatherapy Mist Maker Lights For Car Home Bedroom",
+      "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005007240353619:12000039918829357&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S110db4df6d3a4cd6892ede566abdbcbd0.jpg"
+      ],
+      "costZar": 165,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "45mm Ultrasonic Mini Humidifier Mist Maker Fogger Water Fountain Pond Atomizer Nebulizer Head Air Humidifier EU Plug For Home",
+      "url": "https://www.aliexpress.com/item/1005006282274086.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/Ha37b10e2113142b39f5eff3173dd3cd52.jpg"
+      ],
+      "costZar": 63,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "Home Mini Mist Maker Lights 180ML Mini Air Humidifier USB Electric Aroma Diffuser Essential Oil Purifier Aromatherapy Mist Maker Lights For Car Home Bedroom",
+      "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005007527811142:12000041164357497&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S110db4df6d3a4cd6892ede566abdbcbd0.jpg"
+      ],
+      "costZar": 119,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    }
+  ],
+  "chosen": {
+    "supplier": "AliExpress",
+    "title": "Home Diffuser Steam Mini Mist Maker Negative Ion Humidifier Donuts Humidifier Features Negative Ion Humidifier",
+    "url": "https://www.aliexpress.com/item/1005010460493935.html",
+    "images": [
+      "https://ae-pic-a1.aliexpress-media.com/kf/S1100ef92dabf4c5cbcda7beba891893dE.jpeg"
+    ],
+    "costZar": 61,
+    "shippingZar": 65,
+    "deliveryDays": [
+      10,
+      18
+    ],
+    "inStock": true,
+    "confidence": "high",
+    "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+  },
+  "decision": "Saved as draft (high confidence). Verify supplier and image before publishing.",
+  "localLeads": []
+}

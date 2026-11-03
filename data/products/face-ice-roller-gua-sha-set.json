@@ -1,0 +1,51 @@
+{
+  "id": "p_face_ice_roller_gua_sha",
+  "slug": "face-ice-roller-gua-sha-set",
+  "title": "Face Ice Roller & Gua Sha Set",
+  "tagline": "The five-minute morning de-puff.",
+  "description": [
+    "The cold-therapy ritual that took over our feed. A chilled roller and a smooth gua sha stone, ready before your coffee is.",
+    "Keep the roller in the freezer, glide it over clean skin for a few minutes, then use the gua sha edge along your jaw and cheekbones. It feels like a spa detour without leaving the bathroom.",
+    "Delivered nationwide in 7–14 working days. Backed by our 7-day returns policy."
+  ],
+  "bullets": [
+    "Chills fast — keep it in the freezer, ready to go",
+    "Gua sha edge sculpts while the roller de-puffs",
+    "Smooth, skin-friendly silicone head",
+    "Compact enough for a gym bag or carry-on",
+    "Rinse-and-go cleanup in seconds"
+  ],
+  "priceZar": 230.99,
+  "currency": "ZAR",
+  "images": ["/products/ice-roller.webp"],
+  "category": "beauty",
+  "tags": ["Beauty & Wellness", "ice roller", "gua sha", "skincare", "self care", "South Africa", "trending"],
+  "trend": {
+    "id": "t_2fc25de2f2",
+    "title": "Facial ice rollers and gua sha sets",
+    "source": "aliexpress",
+    "score": 88
+  },
+  "supplier": {
+    "supplier": "AliExpress",
+    "title": "1pc Ice Roller For Face And Eye Facial Beauty Ice Roller Skin Care Tools Ice Facial Cube Silicone Ice Mold Beauty Accessories",
+    "url": "https://www.aliexpress.com/item/1005008106912760.html",
+    "images": ["/products/ice-roller.webp"],
+    "costZar": 24,
+    "shippingZar": 65,
+    "deliveryDays": [10, 18],
+    "inStock": true,
+    "confidence": "high",
+    "notes": "Launch catalogue item. Supplier price and stock re-checked before dispatch.",
+    "checkedAt": "2026-11-02T20:00:00.000Z"
+  },
+  "seo": {
+    "title": "Face Ice Roller & Gua Sha Set | PulseCart",
+    "description": "The five-minute morning de-puff. Shop the face ice roller and gua sha set, delivered nationwide across South Africa.",
+    "keywords": ["face ice roller", "gua sha set", "skincare tools", "de-puff", "South Africa"]
+  },
+  "status": "published",
+  "demo": true,
+  "createdAt": "2026-11-02T20:00:00.000Z",
+  "updatedAt": "2026-11-02T20:00:00.000Z"
+}

@@ -1,0 +1,89 @@
+name: Daily trend pipeline
+
+on:
+  schedule:
+    # 04:23 UTC — 06:23 SAST, before the South African shopping day starts.
+    - cron: "23 4 * * *"
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "Which stage to run"
+        required: true
+        default: pipeline
+        type: choice
+        options:
+          - pipeline
+          - scan
+          - research
+          - content
+          - publish
+
+permissions:
+  contents: write
+
+concurrency:
+  group: pulsecart-pipeline
+  cancel-in-progress: false
+
+jobs:
+  run-pipeline:
+    name: Scan, research, write and publish
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version-file: .nvmrc
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Typecheck every workspace
+        run: npm run typecheck
+
+      - name: Run the pipeline
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_MODEL: ${{ secrets.GEMINI_MODEL }}
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          GROQ_MODEL: ${{ secrets.GROQ_MODEL }}
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+          OPENROUTER_MODEL: ${{ secrets.OPENROUTER_MODEL }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          BLUESKY_HANDLE: ${{ secrets.BLUESKY_HANDLE }}
+          BLUESKY_APP_PASSWORD: ${{ secrets.BLUESKY_APP_PASSWORD }}
+          MASTODON_INSTANCE: ${{ secrets.MASTODON_INSTANCE }}
+          MASTODON_TOKEN: ${{ secrets.MASTODON_TOKEN }}
+          REDDIT_CLIENT_ID: ${{ secrets.REDDIT_CLIENT_ID }}
+          REDDIT_CLIENT_SECRET: ${{ secrets.REDDIT_CLIENT_SECRET }}
+          REDDIT_USER_AGENT: ${{ secrets.REDDIT_USER_AGENT }}
+          USD_ZAR_RATE: ${{ secrets.USD_ZAR_RATE }}
+        run: npm run "${{ github.event.inputs.mode || 'pipeline' }}"
+
+      - name: Commit updated data
+        if: always()
+        run: |
+          git config user.name "pulsecart-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          if [ -z "$(git status --porcelain data)" ]; then
+            echo "No data changes to commit."
+            exit 0
+          fi
+
+          git add data
+          git commit -m "chore(data): pipeline run $(date -u +%Y-%m-%d)"
+          git push
+
+      - name: Trigger Cloudflare Pages deploy
+        if: env.CLOUDFLARE_DEPLOY_HOOK != ''
+        env:
+          CLOUDFLARE_DEPLOY_HOOK: ${{ secrets.CLOUDFLARE_DEPLOY_HOOK }}
+        run: curl --fail --silent --show-error -X POST "$CLOUDFLARE_DEPLOY_HOOK"

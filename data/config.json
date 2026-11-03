@@ -1,0 +1,53 @@
+{
+  "brand": {
+    "name": "PulseCart",
+    "tagline": "What's trending. Delivered.",
+    "description": "South Africa's trend-driven store. We watch what the internet is talking about, find the products behind the hype, and deliver them to your door.",
+    "domain": "https://pulsecart.pages.dev",
+    "email": "hello@pulsecart.co.za",
+    "whatsapp": "",
+    "currency": "ZAR",
+    "market": "ZA",
+    "locale": "en-ZA"
+  },
+  "pipeline": {
+    "trendGeo": "ZA",
+    "dailyProductLimit": 4,
+    "minTrendScore": 55,
+    "autoPublish": false,
+    "requireSupplierConfidence": "medium",
+    "markup": {
+      "under200": 2.6,
+      "under500": 2.2,
+      "over500": 1.9
+    },
+    "social": {
+      "maxPostsPerChannelPerRun": 1,
+      "captionLength": {
+        "telegram": 800,
+        "bluesky": 280,
+        "mastodon": 480,
+        "pinterest": 480,
+        "instagram": 2000,
+        "tiktok": 2000,
+        "x": 260
+      }
+    }
+  },
+  "channels": {
+    "telegram": { "enabled": true },
+    "bluesky": { "enabled": true },
+    "mastodon": { "enabled": true },
+    "pinterest": { "enabled": false, "mode": "manual" },
+    "instagram": { "enabled": false, "mode": "manual" },
+    "tiktok": { "enabled": false, "mode": "manual" },
+    "x": { "enabled": false, "mode": "manual" }
+  },
+  "legal": {
+    "companyName": "PulseCart (Pty) Ltd",
+    "registrationNumber": "TODO",
+    "address": "Johannesburg, South Africa",
+    "returnsDays": 7,
+    "deliveryEstimate": "7-14 working days"
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "generatedAt": "2026-11-02T19:51:30.870Z",
+  "trend": {
+    "id": "t_2fc25de2f2",
+    "title": "Facial Beauty Ice Roller And Gua Sha Set Eye And Face Massager Skin Care Tool Cold…",
+    "source": "aliexpress",
+    "geo": "GLOBAL",
+    "score": 87.7,
+    "keywords": [
+      "facial",
+      "beauty",
+      "ice",
+      "roller",
+      "gua",
+      "sha",
+      "set",
+      "eye"
+    ],
+    "query": "facial beauty ice roller",
+    "category": "beauty",
+    "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005010653334708:12000053087766296&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+    "traffic": "10000 sold",
+    "eligible": true,
+    "observedAt": "2026-11-02T19:50:57.779Z",
+    "signals": [
+      {
+        "source": "aliexpress",
+        "title": "Facial Beauty Ice Roller And Gua Sha Set Eye And Face Massager Skin Care Tool Cold…",
+        "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005010653334708:12000053087766296&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+        "traffic": "10000 sold",
+        "score": 87.7
+      }
+    ]
+  },
+  "offers": [
+    {
+      "supplier": "AliExpress",
+      "title": "1pc Ice Roller For Face And Eye Facial Beauty Ice Roller Skin Care Tools Ice Facial Cube Silicone Ice Mold Beauty Accessories",
+      "url": "https://www.aliexpress.com/item/1005008106912760.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/Sda9ca7cf255c4e348d2dc545fdb6c0a28.jpg"
+      ],
+      "costZar": 24,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "Facial Beauty Ice Roller And Gua Sha Set Eye And Face Massager Skin Care Tool Cold Therapy Facial Cube for Skin Care SPA",
+      "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005010653334708:12000053087766296&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S4f985211b28946e9b11f8af688747a74t.jpg"
+      ],
+      "costZar": 52,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "2Pcs Ice Globes Facial Massager Cooling Cryo Roller for Face Eyes Dark Circles Puffiness Relief Skin Care Anti-Aging Beauty Tool",
+      "url": "https://www.aliexpress.com/item/1005013337923280.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S70e167e5f893449184cd962855e22c69T.jpg"
+      ],
+      "costZar": 244,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "Facial Beauty Massager ANLAN Multifunction Skincare Device Pro 18K Gold Face Radio Frequency With Hot Cold EMS Facial Lifting Beauty Skin Care Massager",
+      "url": "https://www.aliexpress.com/item/1005006293432092.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S79e431d6d18148b4b075bdbbfc388268K.png"
+      ],
+      "costZar": 2337,
+      "shippingZar": 0,
+      "deliveryDays": [
+        7,
+        14
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    }
+  ],
+  "chosen": {
+    "supplier": "AliExpress",
+    "title": "1pc Ice Roller For Face And Eye Facial Beauty Ice Roller Skin Care Tools Ice Facial Cube Silicone Ice Mold Beauty Accessories",
+    "url": "https://www.aliexpress.com/item/1005008106912760.html",
+    "images": [
+      "https://ae-pic-a1.aliexpress-media.com/kf/Sda9ca7cf255c4e348d2dc545fdb6c0a28.jpg"
+    ],
+    "costZar": 24,
+    "shippingZar": 65,
+    "deliveryDays": [
+      10,
+      18
+    ],
+    "inStock": true,
+    "confidence": "high",
+    "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+  },
+  "decision": "Saved as draft (high confidence). Verify supplier and image before publishing.",
+  "localLeads": []
+}
