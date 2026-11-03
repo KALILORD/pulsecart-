@@ -3,35 +3,16 @@
 import { useState } from "react";
 import type { Product } from "@/lib/types";
 import { AddToCart } from "./AddToCart";
-import { MailIcon, MinusIcon, PlusIcon, WhatsAppIcon } from "./Icons";
+import { MinusIcon, PlusIcon } from "./Icons";
 import { formatZar } from "@/lib/format";
-import { whatsappLink } from "@/lib/contact";
 
 interface ProductBuyBoxProps {
   product: Product;
-  whatsapp: string;
-  email: string;
-  domain: string;
 }
 
-export function ProductBuyBox({ product, whatsapp, email, domain }: ProductBuyBoxProps) {
+export function ProductBuyBox({ product }: ProductBuyBoxProps) {
   const [quantity, setQuantity] = useState(1);
   const total = product.priceZar * quantity;
-  const productUrl = `${domain.replace(/\/+$/, "")}/products/${product.slug}/`;
-
-  const message = [
-    `Hi PulseCart — I'd like to order:`,
-    ``,
-    `${quantity} × ${product.title}`,
-    `Total: ${formatZar(total)}`,
-    ``,
-    productUrl,
-  ].join("\n");
-
-  const wa = whatsappLink(whatsapp, message);
-  const orderHref =
-    wa ||
-    `mailto:${email}?subject=${encodeURIComponent(`Order: ${product.title}`)}&body=${encodeURIComponent(message)}`;
 
   return (
     <div className="mt-7">
@@ -59,20 +40,9 @@ export function ProductBuyBox({ product, whatsapp, email, domain }: ProductBuyBo
         <AddToCart product={product} quantity={quantity} className="h-12 flex-1" />
       </div>
 
-      <a
-        href={orderHref}
-        target={wa ? "_blank" : undefined}
-        rel={wa ? "noreferrer" : undefined}
-        className="btn-ghost mt-3 h-12 w-full border-ink/20 text-sm"
-      >
-        {wa ? <WhatsAppIcon className="h-4 w-4" /> : <MailIcon className="h-4 w-4" />}
-        {wa ? "Order on WhatsApp" : "Order by email"}
-      </a>
-
       <p className="mt-3 text-center text-[11px] leading-relaxed text-slate sm:text-left">
-        {wa
-          ? "Checkout is confirmed on WhatsApp. We check stock, then send a secure payment link."
-          : "Checkout is confirmed by email. We check stock, then send a secure payment link."}
+        Add to cart, then checkout to place your order. We will confirm stock and send payment
+        instructions.
       </p>
     </div>
   );

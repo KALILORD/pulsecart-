@@ -1,8 +1,7 @@
 "use client";
 
 import { useState, type FormEvent } from "react";
-import { CheckIcon, MailIcon, WhatsAppIcon } from "@/components/Icons";
-import { whatsappLink } from "@/lib/contact";
+import { CheckIcon, MailIcon } from "@/components/Icons";
 import { cx } from "@/lib/format";
 import type { BrandConfig } from "@/lib/types";
 
@@ -29,7 +28,6 @@ export function ContactForm({ brand }: ContactFormProps) {
     `Email: ${email}`,
   ].join("\n");
 
-  const wa = whatsappLink(brand.whatsapp, composed);
   const mailto = `mailto:${brand.email}?subject=${encodeURIComponent(
     `[${topic}] Message from ${name || "website visitor"}`,
   )}&body=${encodeURIComponent(composed)}`;
@@ -42,7 +40,7 @@ export function ContactForm({ brand }: ContactFormProps) {
     }
     setError("");
     setSent(true);
-    window.location.href = wa || mailto;
+    window.location.href = mailto;
   }
 
   return (
@@ -115,8 +113,8 @@ export function ContactForm({ brand }: ContactFormProps) {
 
         <div className="sm:col-span-2">
           <button type="submit" className={cx("btn-signal w-full", sent && "bg-ink text-paper")}>
-            {sent ? <CheckIcon className="h-4 w-4" /> : wa ? <WhatsAppIcon className="h-4 w-4" /> : <MailIcon className="h-4 w-4" />}
-            {sent ? "Message ready — send it in the app" : wa ? "Send on WhatsApp" : "Send by email"}
+            {sent ? <CheckIcon className="h-4 w-4" /> : <MailIcon className="h-4 w-4" />}
+            {sent ? "Message ready — send it in the app" : "Send by email"}
           </button>
           {sent && (
             <p className="mt-3 text-center text-xs leading-relaxed text-slate">

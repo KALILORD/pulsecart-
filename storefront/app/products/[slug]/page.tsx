@@ -211,12 +211,7 @@ export default async function ProductPage({ params }: ProductPageProps) {
               ))}
             </ul>
 
-            <ProductBuyBox
-              product={product}
-              whatsapp={site.brand.whatsapp}
-              email={site.brand.email}
-              domain={site.brand.domain}
-            />
+            <ProductBuyBox product={product} />
 
             <div className="mt-7 grid gap-3 sm:grid-cols-3">
               <MiniTrust

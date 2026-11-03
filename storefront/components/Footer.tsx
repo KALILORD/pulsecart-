@@ -7,7 +7,6 @@ import {
   MailIcon,
   TelegramIcon,
   TikTokIcon,
-  WhatsAppIcon,
 } from "./Icons";
 
 interface FooterProps {
@@ -69,17 +68,6 @@ export function Footer({ brand, legal }: FooterProps) {
               >
                 <TikTokIcon className="h-4 w-4" />
               </a>
-              {whatsapp && (
-                <a
-                  href={whatsapp}
-                  target="_blank"
-                  rel="noreferrer"
-                  aria-label="PulseCart on WhatsApp"
-                  className="grid h-9 w-9 place-items-center rounded-full border border-paper/15 text-paper/70 transition hover:border-acid hover:text-acid"
-                >
-                  <WhatsAppIcon className="h-4 w-4" />
-                </a>
-              )}
             </div>
           </div>
 
@@ -115,19 +103,6 @@ export function Footer({ brand, legal }: FooterProps) {
                   {brand.email}
                 </a>
               </li>
-              {whatsapp && (
-                <li>
-                  <a
-                    href={whatsapp}
-                    target="_blank"
-                    rel="noreferrer"
-                    className="inline-flex items-center gap-2 text-paper/70 transition hover:text-acid"
-                  >
-                    <WhatsAppIcon className="h-4 w-4" />
-                    WhatsApp orders
-                  </a>
-                </li>
-              )}
               <li>
                 <Link href="/privacy/" className="text-paper/70 transition hover:text-acid">
                   Privacy policy

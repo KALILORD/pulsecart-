@@ -6,13 +6,10 @@ import { useCart } from "@/components/CartProvider";
 import {
   ArrowRightIcon,
   CheckIcon,
-  MailIcon,
   ShieldIcon,
   TruckIcon,
-  WhatsAppIcon,
 } from "@/components/Icons";
 import { ProductImage } from "@/components/ProductImage";
-import { whatsappLink } from "@/lib/contact";
 import { cx, formatZar, shippingFor } from "@/lib/format";
 import type { BrandConfig, LegalConfig } from "@/lib/types";
 
@@ -82,7 +79,10 @@ export function CheckoutClient({ brand, legal }: CheckoutClientProps) {
   const { items, hydrated, subtotal, count } = useCart();
   const [form, setForm] = useState<FormState>(INITIAL_STATE);
   const [errors, setErrors] = useState<Errors>({});
-  const [submitted, setSubmitted] = useState(false);
+  const [paymentStatus, setPaymentStatus] = useState<
+    "idle" | "processing" | "success" | "error"
+  >("idle");
+  const [paymentError, setPaymentError] = useState<string | null>(null);
 
   const shipping = shippingFor(subtotal);
   const total = subtotal + shipping;
@@ -96,7 +96,7 @@ export function CheckoutClient({ brand, legal }: CheckoutClientProps) {
     [items],
   );
 
-  const message = useMemo(() => {
+  const orderPayload = useMemo(() => {
     const address = [
       form.street,
       form.suburb,
@@ -107,43 +107,34 @@ export function CheckoutClient({ brand, legal }: CheckoutClientProps) {
       .filter((part) => part.trim())
       .join(", ");
 
-    return [
-      "Hi PulseCart — I'd like to place an order.",
-      "",
-      "ORDER",
-      ...orderLines,
-      "",
-      `Subtotal: ${formatZar(subtotal)}`,
-      `Delivery: ${shipping === 0 ? "Free" : formatZar(shipping)}`,
-      `Total: ${formatZar(total)}`,
-      "",
-      "DELIVERY DETAILS",
-      `Name: ${form.name}`,
-      `Email: ${form.email}`,
-      `Phone: ${form.phone}`,
-      `Address: ${address}`,
-      form.notes.trim() ? `Notes: ${form.notes}` : "",
-      "",
-      `Payment preference: ${form.payment === "card" ? "Card payment link" : "EFT / bank transfer"}`,
-      "",
-      "Please confirm stock and send payment instructions.",
-    ]
-      .filter((line, index, lines) => !(line === "" && lines[index - 1] === ""))
-      .join("\n");
-  }, [form, orderLines, shipping, subtotal, total]);
-
-  const wa = whatsappLink(brand.whatsapp, message);
-  const mailto = `mailto:${brand.email}?subject=${encodeURIComponent(
-    `PulseCart order — ${form.name || "new order"}`,
-  )}&body=${encodeURIComponent(message)}`;
-  const handoff = wa || mailto;
+    return {
+      items: items.map((item) => ({
+        slug: item.slug,
+        title: item.title,
+        quantity: item.quantity,
+        priceZar: item.priceZar,
+        totalZar: item.priceZar * item.quantity,
+      })),
+      subtotal,
+      shipping,
+      total,
+      customer: {
+        name: form.name,
+        email: form.email,
+        phone: form.phone,
+        address,
+        notes: form.notes.trim() || undefined,
+      },
+      payment: form.payment,
+    };
+  }, [form, items, orderLines, shipping, subtotal, total]);
 
   function update<K extends keyof FormState>(key: K, value: FormState[K]) {
     setForm((current) => ({ ...current, [key]: value }));
     setErrors((current) => ({ ...current, [key]: undefined }));
   }
 
-  function handleSubmit(event: FormEvent<HTMLFormElement>) {
+  async function handleSubmit(event: FormEvent<HTMLFormElement>) {
     event.preventDefault();
     const nextErrors = validate(form);
     setErrors(nextErrors);
@@ -153,11 +144,33 @@ export function CheckoutClient({ brand, legal }: CheckoutClientProps) {
       }, 0);
       return;
     }
-    setSubmitted(true);
-    if (wa) {
-      window.open(wa, "_blank", "noopener,noreferrer");
-    } else {
-      window.location.href = mailto;
+
+    setPaymentError(null);
+    setPaymentStatus("processing");
+
+    try {
+      const response = await fetch("/api/checkout", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify(orderPayload),
+      });
+
+      const result = await response.json();
+
+      if (!response.ok) {
+        throw new Error(result.error || "Payment request failed.");
+      }
+
+      if (result.paymentUrl) {
+        window.location.href = result.paymentUrl;
+      } else {
+        setPaymentStatus("success");
+      }
+    } catch (error) {
+      setPaymentStatus("error");
+      setPaymentError(
+        error instanceof Error ? error.message : "Unable to process payment.",
+      );
     }
   }
 
@@ -185,44 +198,48 @@ export function CheckoutClient({ brand, legal }: CheckoutClientProps) {
     );
   }
 
-  if (submitted) {
+  if (paymentStatus === "success") {
     return (
       <div className="grid gap-10 lg:grid-cols-[1.4fr_0.8fr] lg:items-start">
         <div className="rounded-[1.5rem] border border-ink/10 bg-white p-7 sm:p-10">
           <span className="grid h-14 w-14 place-items-center rounded-full bg-acid text-ink">
             <CheckIcon className="h-7 w-7" />
           </span>
-          <h2 className="mt-6 font-display text-3xl font-bold">Order ready to send.</h2>
+          <h2 className="mt-6 font-display text-3xl font-bold">Order placed.</h2>
           <p className="mt-3 max-w-lg text-sm leading-relaxed text-slate">
-            Your order summary has been prepared. If the message did not open automatically, use the
-            button below to send it to us. We will confirm stock and reply with payment
-            instructions.
+            Your order has been submitted. We will confirm stock and send payment instructions
+            to {form.email}. Check your inbox (and spam folder) for the secure payment link.
           </p>
 
           <div className="mt-6 rounded-2xl border border-ink/10 bg-paper p-5">
+            <h3 className="text-xs font-bold uppercase tracking-[0.14em] text-slate">
+              Order summary
+            </h3>
             <pre className="whitespace-pre-wrap break-words font-sans text-xs leading-relaxed text-ink/80">
-              {message}
+              ORDER
+              {orderLines.join("\n")}
+              Subtotal: {formatZar(subtotal)}
+              Delivery: {shipping === 0 ? "Free" : formatZar(shipping)}
+              Total: {formatZar(total)}
+
+              DELIVERY DETAILS
+              Name: {form.name}
+              Email: {form.email}
+              Phone: {form.phone}
+              Address: {[form.street, form.suburb, form.city, form.province, form.postalCode].filter((part) => part.trim()).join(", ")}
+              {form.notes.trim() ? `Notes: ${form.notes}` : ""}
             </pre>
           </div>
 
           <div className="mt-6 flex flex-col gap-3 sm:flex-row">
-            <a
-              href={handoff}
-              target={wa ? "_blank" : undefined}
-              rel={wa ? "noreferrer" : undefined}
-              className="btn-primary flex-1"
-            >
-              {wa ? <WhatsAppIcon className="h-4 w-4" /> : <MailIcon className="h-4 w-4" />}
-              {wa ? "Send on WhatsApp" : "Send by email"}
-            </a>
             <Link href="/cart/" className="btn-ghost flex-1">
               Back to cart
             </Link>
           </div>
 
           <p className="mt-4 text-[11px] leading-relaxed text-slate">
-            No payment has been taken. Orders are confirmed manually so we can check stock before
-            you pay.
+            No payment has been taken yet. We will confirm stock before sending your payment
+            link.
           </p>
         </div>
 
@@ -233,6 +250,34 @@ export function CheckoutClient({ brand, legal }: CheckoutClientProps) {
           total={total}
           count={count}
         />
+      </div>
+    );
+  }
+
+  if (paymentStatus === "error") {
+    return (
+      <div className="grid gap-10 lg:grid-cols-[1.4fr_0.8fr] lg:items-start">
+        <div className="rounded-[1.5rem] border border-ink/10 bg-white p-7 sm:p-10">
+          <h2 className="mt-6 font-display text-3xl font-bold">Payment failed.</h2>
+          <p className="mt-3 text-sm leading-relaxed text-signal-deep">
+            {paymentError}
+          </p>
+          <p className="mt-3 max-w-lg text-sm leading-relaxed text-slate">
+            Please try again or contact us at {brand.email}.
+          </p>
+          <div className="mt-6 flex flex-col gap-3 sm:flex-row">
+            <button
+              type="button"
+              onClick={() => setPaymentStatus("idle")}
+              className="btn-signal h-12 flex-1"
+            >
+              Try again
+            </button>
+            <Link href="/cart/" className="btn-ghost h-12 flex-1">
+              Back to cart
+            </Link>
+          </div>
+        </div>
       </div>
     );
   }
@@ -432,10 +477,20 @@ export function CheckoutClient({ brand, legal }: CheckoutClientProps) {
         </section>
 
         <div className="flex flex-col gap-3 sm:flex-row sm:items-center">
-          <button type="submit" className="btn-signal h-12 flex-1">
-            Review order on {wa ? "WhatsApp" : "email"}
-            <ArrowRightIcon className="h-4 w-4" />
-          </button>
+          {paymentStatus === "processing" ? (
+            <button
+              type="button"
+              disabled
+              className="btn-signal h-12 flex-1 opacity-70 cursor-not-allowed"
+            >
+              Placing order…
+            </button>
+          ) : (
+            <button type="submit" className="btn-signal h-12 flex-1">
+              Place order
+              <ArrowRightIcon className="h-4 w-4" />
+            </button>
+          )}
           <Link href="/cart/" className="btn-ghost h-12 flex-1">
             Back to cart
           </Link>
