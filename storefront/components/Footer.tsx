@@ -2,6 +2,7 @@ import Link from "next/link";
 import type { BrandConfig, LegalConfig } from "@/lib/types";
 import { Logo } from "./Logo";
 import {
+  FacebookIcon,
   InstagramIcon,
   MailIcon,
   TelegramIcon,
@@ -42,7 +43,7 @@ export function Footer({ brand, legal }: FooterProps) {
                 <TelegramIcon className="h-4 w-4" />
               </a>
               <a
-                href="https://www.instagram.com/pulsecart"
+                href="https://www.instagram.com/pulsecart101/"
                 target="_blank"
                 rel="noreferrer"
                 aria-label="PulseCart on Instagram"
@@ -51,7 +52,16 @@ export function Footer({ brand, legal }: FooterProps) {
                 <InstagramIcon className="h-4 w-4" />
               </a>
               <a
-                href="https://www.tiktok.com/@pulsecart"
+                href="https://web.facebook.com/profile.php?id=61596123963849"
+                target="_blank"
+                rel="noreferrer"
+                aria-label="PulseCart on Facebook"
+                className="grid h-9 w-9 place-items-center rounded-full border border-paper/15 text-paper/70 transition hover:border-acid hover:text-acid"
+              >
+                <FacebookIcon className="h-4 w-4" />
+              </a>
+              <a
+                href="https://www.tiktok.com/@pulsecart3"
                 target="_blank"
                 rel="noreferrer"
                 aria-label="PulseCart on TikTok"
