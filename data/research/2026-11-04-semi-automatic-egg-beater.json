@@ -1,0 +1,53 @@
+{
+  "generatedAt": "2026-11-04T12:20:17.337Z",
+  "trend": {
+    "id": "t_fe6d18647a",
+    "title": "Semi Automatic Egg Beater Manual Rotating Cream Mixer Household Baking Tool Kitchen…",
+    "source": "aliexpress",
+    "geo": "GLOBAL",
+    "score": 84.49528427273833,
+    "keywords": [
+      "semi",
+      "automatic",
+      "egg",
+      "beater",
+      "manual",
+      "rotating",
+      "cream",
+      "mixer"
+    ],
+    "query": "semi automatic egg beater",
+    "category": "home",
+    "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005007344871537:12000040353637863&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+    "traffic": "5000 sold",
+    "eligible": true,
+    "observedAt": "2026-11-04T12:20:05.201Z",
+    "signals": [
+      {
+        "source": "aliexpress",
+        "title": "Semi Automatic Egg Beater Manual Rotating Cream Mixer Household Baking Tool Kitchen…",
+        "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005007344871537:12000040353637863&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+        "traffic": "5000 sold",
+        "score": 84.49528427273833
+      }
+    ]
+  },
+  "offers": [],
+  "chosen": {
+    "supplier": "Estimated — verify supplier",
+    "title": "semi automatic egg beater",
+    "url": "",
+    "images": [],
+    "costZar": 230,
+    "shippingZar": 65,
+    "deliveryDays": [
+      10,
+      18
+    ],
+    "inStock": true,
+    "confidence": "low",
+    "notes": "No verifiable supplier price found automatically. Confirm a supplier, landed cost, and image before publishing."
+  },
+  "decision": "Saved as draft (low confidence). Verify supplier and image before publishing.",
+  "localLeads": []
+}

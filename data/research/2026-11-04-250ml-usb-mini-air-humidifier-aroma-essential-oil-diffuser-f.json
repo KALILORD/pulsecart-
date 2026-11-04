@@ -1,0 +1,124 @@
+{
+  "generatedAt": "2026-11-04T12:20:17.337Z",
+  "trend": {
+    "id": "t_cd6dfb522d",
+    "title": "250ML Mini USB Air Humidifier Aroma Diffuser Essential Oil Cool Mist Maker RGB LED Night…",
+    "source": "aliexpress",
+    "geo": "GLOBAL",
+    "score": 85.01084275689499,
+    "keywords": [
+      "250ml",
+      "mini",
+      "usb",
+      "air",
+      "humidifier",
+      "aroma",
+      "diffuser",
+      "essential"
+    ],
+    "query": "250ml mini usb air",
+    "category": "tech",
+    "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005006904748093:12000038670983299&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+    "traffic": "4000 sold",
+    "eligible": true,
+    "observedAt": "2026-11-04T12:20:05.201Z",
+    "signals": [
+      {
+        "source": "aliexpress",
+        "title": "250ML Mini USB Air Humidifier Aroma Diffuser Essential Oil Cool Mist Maker RGB LED Night…",
+        "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005006904748093:12000038670983299&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+        "traffic": "4000 sold",
+        "score": 85.01084275689499
+      }
+    ]
+  },
+  "offers": [
+    {
+      "supplier": "AliExpress",
+      "title": "250ML Mini USB Air Humidifier Aroma Diffuser Essential Oil Cool Mist Maker RGB LED Night Light Quiet for Home Car Office Bedroom",
+      "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005006904748093:12000038670983299&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S795d460953224600821b19f6f6949e2cR.png"
+      ],
+      "costZar": 33,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "250ML USB Mini Air Humidifier Aroma Essential Oil Diffuser For Home Car Ultrasonic Mute Mist Maker Diffuser with LED Color Lamp",
+      "url": "https://www.aliexpress.com/item/3256807355640023.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S229b61cb1b1841299beb9f8f05754e47R.jpg"
+      ],
+      "costZar": 18,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "250ML Mini Air Humidifier Cute Aromatherapy Humidifiers Diffusers Essential Oil Diffuser Home Car Air Purifier Humificador",
+      "url": "https://www.aliexpress.com/item/3256808699950487.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S776f8b7cb3594d3eb751b56675a5e1eaq.jpg"
+      ],
+      "costZar": 18,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "250ml Flip Top Bottle Travel Bottles 15ml 30ml 50ml 100ml 150ml 200ml 250ml 500ml Lotion Bottle Clear Plastic PET Vial Flip Top Cosmetic Container",
+      "url": "https://www.aliexpress.com/item/3256807791901324.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/Sb2ee6ed098b24572b0d7f3bf36d868d2J.png"
+      ],
+      "costZar": 164,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    }
+  ],
+  "chosen": {
+    "supplier": "AliExpress",
+    "title": "250ML USB Mini Air Humidifier Aroma Essential Oil Diffuser For Home Car Ultrasonic Mute Mist Maker Diffuser with LED Color Lamp",
+    "url": "https://www.aliexpress.com/item/3256807355640023.html",
+    "images": [
+      "https://ae-pic-a1.aliexpress-media.com/kf/S229b61cb1b1841299beb9f8f05754e47R.jpg"
+    ],
+    "costZar": 18,
+    "shippingZar": 65,
+    "deliveryDays": [
+      10,
+      18
+    ],
+    "inStock": true,
+    "confidence": "high",
+    "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+  },
+  "decision": "Saved as draft (high confidence). Verify supplier and image before publishing.",
+  "localLeads": []
+}

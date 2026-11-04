@@ -1,0 +1,124 @@
+{
+  "generatedAt": "2026-11-04T12:20:17.337Z",
+  "trend": {
+    "id": "t_60c8358017",
+    "title": "Mobile Phone Cooling Fan Portable Mini Hand USB Fan Type‑C Gadget Cooler for Power Bank…",
+    "source": "aliexpress",
+    "geo": "GLOBAL",
+    "score": 84.81084275689498,
+    "keywords": [
+      "mobile",
+      "phone",
+      "cooling",
+      "fan",
+      "portable",
+      "mini",
+      "hand",
+      "usb"
+    ],
+    "query": "mobile phone cooling fan",
+    "category": "tech",
+    "url": "https://www.aliexpress.com/item/3256812731969690.html",
+    "traffic": "4000 sold",
+    "eligible": true,
+    "observedAt": "2026-11-04T12:20:05.201Z",
+    "signals": [
+      {
+        "source": "aliexpress",
+        "title": "Mobile Phone Cooling Fan Portable Mini Hand USB Fan Type‑C Gadget Cooler for Power Bank…",
+        "url": "https://www.aliexpress.com/item/3256812731969690.html",
+        "traffic": "4000 sold",
+        "score": 84.81084275689498
+      }
+    ]
+  },
+  "offers": [
+    {
+      "supplier": "AliExpress",
+      "title": "2025 New FS01 Dual - Fan Mobile Phone Cooler, Cools Down In 10 Seconds + Wireless Battery Life, Relieves Heat For Your Phone",
+      "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005007306756348:12000040177382954&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/Saf7ccd3e9768484b979b603868e04a01G.png"
+      ],
+      "costZar": 80,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "K51 AI Mobile Cooler Magnetic Back-clip Ice Cooling Radiator Digital Display RGB Light Gaming Cooler Temperature Control",
+      "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005012479612692:12000058501756057&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S71b7631b17cd4f9cb62f4c573e54f3fai.jpg"
+      ],
+      "costZar": 72,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "Semiconductor Phone Cooler Fast Cooling Radiator with Fan Low Noise For iPhone Android Gaming Live Streaming Mobile Phone Heat",
+      "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005010332328688:12000052001071614&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/Sfd24d6d24a424c568de91f21f6424e04n.jpg"
+      ],
+      "costZar": 5,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "Mobile Phone Cooling Fan for Phone Cooler Fan Gaming Portable Phone Cooling Fan for Mobile Phone Cooler Magnetic Cell Phone Cooler for Phone Cooler Gaming",
+      "url": "https://www.aliexpress.com/item/3256812045674061.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/Sb5da73182c8e4f5d924bf3b8bcc23aadl.jpg"
+      ],
+      "costZar": 18,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    }
+  ],
+  "chosen": {
+    "supplier": "AliExpress",
+    "title": "Semiconductor Phone Cooler Fast Cooling Radiator with Fan Low Noise For iPhone Android Gaming Live Streaming Mobile Phone Heat",
+    "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005010332328688:12000052001071614&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+    "images": [
+      "https://ae-pic-a1.aliexpress-media.com/kf/Sfd24d6d24a424c568de91f21f6424e04n.jpg"
+    ],
+    "costZar": 5,
+    "shippingZar": 65,
+    "deliveryDays": [
+      10,
+      18
+    ],
+    "inStock": true,
+    "confidence": "high",
+    "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+  },
+  "decision": "Saved as draft (high confidence). Verify supplier and image before publishing.",
+  "localLeads": []
+}

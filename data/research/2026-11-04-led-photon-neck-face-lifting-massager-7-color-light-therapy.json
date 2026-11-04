@@ -1,0 +1,124 @@
+{
+  "generatedAt": "2026-11-04T12:20:17.337Z",
+  "trend": {
+    "id": "t_8bb8797006",
+    "title": "Neck Face Lifting Massager 7 Colors Light LED Photon Therapy Skin Tighten Wrinkle Remove…",
+    "source": "aliexpress",
+    "geo": "GLOBAL",
+    "score": 87,
+    "keywords": [
+      "neck",
+      "face",
+      "lifting",
+      "massager",
+      "colors",
+      "light",
+      "led",
+      "photon"
+    ],
+    "query": "neck face lifting massager",
+    "category": "tech",
+    "url": "https://www.aliexpress.com/item/3256810205886808.html",
+    "traffic": "20000 sold",
+    "eligible": true,
+    "observedAt": "2026-11-04T12:20:05.201Z",
+    "signals": [
+      {
+        "source": "aliexpress",
+        "title": "Neck Face Lifting Massager 7 Colors Light LED Photon Therapy Skin Tighten Wrinkle Remove…",
+        "url": "https://www.aliexpress.com/item/3256810205886808.html",
+        "traffic": "20000 sold",
+        "score": 87
+      }
+    ]
+  },
+  "offers": [
+    {
+      "supplier": "AliExpress",
+      "title": "LED Photon Neck Face Lifting Massager, 7 Color Light Therapy, Heating Vibration Skin Tightening Device",
+      "url": "https://www.aliexpress.com/item/3256813301029688.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S9c29b8f45bf0497285dd494fab65712b1.jpg"
+      ],
+      "costZar": 202,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "Wireless 7 Colors LED Face Neck Mask Rechargeable Photon Therapy Mask Red Light Skin Tightening Lifting Facial Beauty Device Home SPA Facial Care Machine",
+      "url": "https://www.aliexpress.com/item/3256812402512799.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S29ced11a4ea54df9ac84b73037b35d6f1.jpg"
+      ],
+      "costZar": 244,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "7 in 1 Face Neck Beauty Device EMS Microcurrent Face Lifting Massager 7 Colors LED Light Therapy Anti Aging Wrinkle Removal Double Chin Reducer Thermal Skin Tightening Tool",
+      "url": "https://www.aliexpress.com/item/3256813190243653.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/A54598bd1f5ec49bc9e6440db894418552.jpeg"
+      ],
+      "costZar": 570,
+      "shippingZar": 0,
+      "deliveryDays": [
+        7,
+        14
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "Neck Face Lifting Massager 7 Colors Light LED Photon Therapy Skin Tighten Wrinkle Remove Heating Vibration Massage Beauty Device",
+      "url": "https://www.aliexpress.com/item/3256812691790982.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S28c778fdd29d493b860a57c0293bebe5q.jpg"
+      ],
+      "costZar": 289,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    }
+  ],
+  "chosen": {
+    "supplier": "AliExpress",
+    "title": "LED Photon Neck Face Lifting Massager, 7 Color Light Therapy, Heating Vibration Skin Tightening Device",
+    "url": "https://www.aliexpress.com/item/3256813301029688.html",
+    "images": [
+      "https://ae-pic-a1.aliexpress-media.com/kf/S9c29b8f45bf0497285dd494fab65712b1.jpg"
+    ],
+    "costZar": 202,
+    "shippingZar": 65,
+    "deliveryDays": [
+      10,
+      18
+    ],
+    "inStock": true,
+    "confidence": "high",
+    "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+  },
+  "decision": "Saved as draft (high confidence). Verify supplier and image before publishing.",
+  "localLeads": []
+}
