@@ -1,0 +1,124 @@
+{
+  "generatedAt": "2026-11-05T12:34:09.734Z",
+  "trend": {
+    "id": "t_8a6525e9a3",
+    "title": "Creative Gun Shape Can Opener Spring Cap Catapult Launcher Beer Bottle Opener Kitchen…",
+    "source": "aliexpress",
+    "geo": "GLOBAL",
+    "score": 88.79111813383048,
+    "keywords": [
+      "creative",
+      "gun",
+      "shape",
+      "opener",
+      "spring",
+      "cap",
+      "catapult",
+      "launcher"
+    ],
+    "query": "creative gun shape opener",
+    "category": "kitchen",
+    "url": "https://www.aliexpress.com/item/3256810620179505.html",
+    "traffic": "6000 sold",
+    "eligible": true,
+    "observedAt": "2026-11-05T12:33:57.737Z",
+    "signals": [
+      {
+        "source": "aliexpress",
+        "title": "Creative Gun Shape Can Opener Spring Cap Catapult Launcher Beer Bottle Opener Kitchen…",
+        "url": "https://www.aliexpress.com/item/3256810620179505.html",
+        "traffic": "6000 sold",
+        "score": 88.79111813383048
+      }
+    ]
+  },
+  "offers": [
+    {
+      "supplier": "AliExpress",
+      "title": "Portable Cap Gun Creative Flying Cap Launcher Beer Opener Bar Tools Beverage Opener Shaped Cap Opener Tool Kitchen Accessories",
+      "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005010044014192:12000050929576974&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/Sd3f77555d9854dcf82aac0e9146282afp.jpg"
+      ],
+      "costZar": 18,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "Beer Opener Launcher Bottle Portable Cap Gun Creative Flying Cap Bar Tool Drink Opening Gun Shaped Bottle Lids Shooter Red Gray",
+      "url": "https://www.aliexpress.com/item/3256808189449511.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/Sabb59563606843eab26390779e404250A.jpg"
+      ],
+      "costZar": 18,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "Shark And AK47 Gun Shape Carbon Fiber Beer Wine Bottle Opener Kitchen Gadgets For Men Gift",
+      "url": "https://www.aliexpress.com/item/3256804716889771.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/Sf3f467cfd43e43698265e9b06d5e00b56.jpg"
+      ],
+      "costZar": 18,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "Gun Opener 4Pcs Cap Gun Bottle Opener Pistol, Crown Cap Gun, Beer Cap Gun with Bottle Opener, for Home, Bottle Opener",
+      "url": "https://www.aliexpress.com/item/3256813085214124.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S7adb2f3814444dd48e180b73d5e12810V.jpg"
+      ],
+      "costZar": 153,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    }
+  ],
+  "chosen": {
+    "supplier": "AliExpress",
+    "title": "Portable Cap Gun Creative Flying Cap Launcher Beer Opener Bar Tools Beverage Opener Shaped Cap Opener Tool Kitchen Accessories",
+    "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005010044014192:12000050929576974&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+    "images": [
+      "https://ae-pic-a1.aliexpress-media.com/kf/Sd3f77555d9854dcf82aac0e9146282afp.jpg"
+    ],
+    "costZar": 18,
+    "shippingZar": 65,
+    "deliveryDays": [
+      10,
+      18
+    ],
+    "inStock": true,
+    "confidence": "high",
+    "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+  },
+  "decision": "Saved as draft (high confidence). Verify supplier and image before publishing.",
+  "localLeads": []
+}

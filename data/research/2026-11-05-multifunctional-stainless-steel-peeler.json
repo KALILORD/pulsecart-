@@ -1,0 +1,53 @@
+{
+  "generatedAt": "2026-11-05T12:34:09.734Z",
+  "trend": {
+    "id": "t_af958a540c",
+    "title": "Multifunctional 3-in-1 Stainless Steel Peeler Durable Kitchen Peeling Tool For Slicer…",
+    "source": "aliexpress",
+    "geo": "GLOBAL",
+    "score": 84,
+    "keywords": [
+      "multifunctional",
+      "stainless",
+      "steel",
+      "peeler",
+      "durable",
+      "kitchen",
+      "peeling",
+      "tool"
+    ],
+    "query": "multifunctional stainless steel peeler",
+    "category": "home",
+    "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005012519221948:12000058621734612&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+    "traffic": "10000 sold",
+    "eligible": true,
+    "observedAt": "2026-11-05T12:33:57.737Z",
+    "signals": [
+      {
+        "source": "aliexpress",
+        "title": "Multifunctional 3-in-1 Stainless Steel Peeler Durable Kitchen Peeling Tool For Slicer…",
+        "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005012519221948:12000058621734612&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+        "traffic": "10000 sold",
+        "score": 84
+      }
+    ]
+  },
+  "offers": [],
+  "chosen": {
+    "supplier": "Estimated — verify supplier",
+    "title": "multifunctional stainless steel peeler",
+    "url": "",
+    "images": [],
+    "costZar": 230,
+    "shippingZar": 65,
+    "deliveryDays": [
+      10,
+      18
+    ],
+    "inStock": true,
+    "confidence": "low",
+    "notes": "No verifiable supplier price found automatically. Confirm a supplier, landed cost, and image before publishing."
+  },
+  "decision": "Saved as draft (low confidence). Verify supplier and image before publishing.",
+  "localLeads": []
+}
