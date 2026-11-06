@@ -1,0 +1,124 @@
+{
+  "generatedAt": "2026-11-06T12:17:27.961Z",
+  "trend": {
+    "id": "t_915f48b39f",
+    "title": "300ml Aromatherapy Diffuser Humidifier Air Purifier Car Home Use Seven-color Light…",
+    "source": "aliexpress",
+    "geo": "GLOBAL",
+    "score": 82.00217038739659,
+    "keywords": [
+      "300ml",
+      "aromatherapy",
+      "diffuser",
+      "humidifier",
+      "air",
+      "purifier",
+      "car",
+      "home"
+    ],
+    "query": "300ml aromatherapy diffuser humidifier",
+    "category": "home",
+    "url": "https://www.aliexpress.com/item/3256810501559244.html",
+    "traffic": "1000 sold",
+    "eligible": true,
+    "observedAt": "2026-11-06T12:17:16.991Z",
+    "signals": [
+      {
+        "source": "aliexpress",
+        "title": "300ml Aromatherapy Diffuser Humidifier Air Purifier Car Home Use Seven-color Light…",
+        "url": "https://www.aliexpress.com/item/3256810501559244.html",
+        "traffic": "1000 sold",
+        "score": 82.00217038739659
+      }
+    ]
+  },
+  "offers": [
+    {
+      "supplier": "AliExpress",
+      "title": "300ml Aromatherapy Diffuser Humidifier Air Purifier Car Home Use Seven-color Light Aromatherapy Essential Oil",
+      "url": "https://www.aliexpress.com/item/3256810501559244.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/Ae2aa6d7e4398497c84fa0f73ea8933f08.jpg"
+      ],
+      "costZar": 18,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "Automatic Room Fragrance Spray 300ml Elegant Aroma Diffuser Long Lasting Scent for Home Bathroom Bedroom Toilet",
+      "url": "https://www.aliexpress.com/item/3256813318231632.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S75d32c0e098c4ca9aae48110010e2e1aO.jpg"
+      ],
+      "costZar": 219,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "Namste Bluetooth Diffuser Aromatherapy 300ML Capacity Air Purifier Essential Oil Fresheners for Home 1000m³ HVAC 8W Power",
+      "url": "https://www.aliexpress.com/item/3256813246154620.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S3c4a0cf3f6ba4aeaa02068d3338c04b4v.png"
+      ],
+      "costZar": 941,
+      "shippingZar": 0,
+      "deliveryDays": [
+        7,
+        14
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "Aromatherapy Diffuser Humidifier Aroma Wood Grain Aromatherapy Diffuser USB Humidifier Desktop Air Purifier Aroma Cool Mist Difusor/Essential Oil Set",
+      "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005009972631514:12000050729140871&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S1c65e4357dcf45e18bd48eda93c39308m.png"
+      ],
+      "costZar": 186,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    }
+  ],
+  "chosen": {
+    "supplier": "AliExpress",
+    "title": "300ml Aromatherapy Diffuser Humidifier Air Purifier Car Home Use Seven-color Light Aromatherapy Essential Oil",
+    "url": "https://www.aliexpress.com/item/3256810501559244.html",
+    "images": [
+      "https://ae-pic-a1.aliexpress-media.com/kf/Ae2aa6d7e4398497c84fa0f73ea8933f08.jpg"
+    ],
+    "costZar": 18,
+    "shippingZar": 65,
+    "deliveryDays": [
+      10,
+      18
+    ],
+    "inStock": true,
+    "confidence": "high",
+    "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+  },
+  "decision": "Saved as draft (high confidence). Verify supplier and image before publishing.",
+  "localLeads": []
+}

@@ -1,0 +1,124 @@
+{
+  "generatedAt": "2026-11-06T12:17:27.961Z",
+  "trend": {
+    "id": "t_42ab3d21a5",
+    "title": "Multifunctional 4-in-1 Kitchen Tool Jar Gripper Lid Opener Can Opener Bottle Opener…",
+    "source": "aliexpress",
+    "geo": "GLOBAL",
+    "score": 83.9,
+    "keywords": [
+      "multifunctional",
+      "kitchen",
+      "tool",
+      "jar",
+      "gripper",
+      "lid",
+      "opener",
+      "opener"
+    ],
+    "query": "multifunctional kitchen tool jar",
+    "category": "kitchen",
+    "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005006904452836:12000038670871307&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+    "traffic": "30000 sold",
+    "eligible": true,
+    "observedAt": "2026-11-06T12:17:16.991Z",
+    "signals": [
+      {
+        "source": "aliexpress",
+        "title": "Multifunctional 4-in-1 Kitchen Tool Jar Gripper Lid Opener Can Opener Bottle Opener…",
+        "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005006904452836:12000038670871307&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+        "traffic": "30000 sold",
+        "score": 83.9
+      }
+    ]
+  },
+  "offers": [
+    {
+      "supplier": "AliExpress",
+      "title": "5/10/15/20PC Jars for spices Salt and Pepper Shaker Seasoning Jar spice organizer Plastic Barbecue Condiment Kitchen Gadget Tool",
+      "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005006861822286:12000061434426721&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S67f5eaa1bca04ffabcab151b96e2cd83t.jpg"
+      ],
+      "costZar": 22,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "4 In 1 Transparent Spice Dispenser Jar with Lids 4 Compartment Seasoning Container for Kitchen Convenient to Use Safe Tool Home",
+      "url": "https://www.aliexpress.com/item/3256813285616787.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S838fb90f109d4d7eab64d2c299bbfa57E.jpg"
+      ],
+      "costZar": 193,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "Multifunctional Seasoning Bottle Quantitative Seasoning Dispenser Measuring Salt Shaker Spice Jar Kitchen Storage Tools",
+      "url": "https://www.aliexpress.com/item/3256813158501357.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S341280079c124bb2960145a1b639c6e6J.jpg"
+      ],
+      "costZar": 18,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "Kitchen Tool Jar Coffee Bean Storage Vacuum Coffee Bean Storage Container Stainless Steel Airtight Canister Coffee Grinder Spice Food Storage Jar Kitchen Tool",
+      "url": "https://www.aliexpress.com/item/3256809038398533.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S43f6f731284e437cb0b97792be1b98b0R.jpg"
+      ],
+      "costZar": 240,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    }
+  ],
+  "chosen": {
+    "supplier": "AliExpress",
+    "title": "Multifunctional Seasoning Bottle Quantitative Seasoning Dispenser Measuring Salt Shaker Spice Jar Kitchen Storage Tools",
+    "url": "https://www.aliexpress.com/item/3256813158501357.html",
+    "images": [
+      "https://ae-pic-a1.aliexpress-media.com/kf/S341280079c124bb2960145a1b639c6e6J.jpg"
+    ],
+    "costZar": 18,
+    "shippingZar": 65,
+    "deliveryDays": [
+      10,
+      18
+    ],
+    "inStock": true,
+    "confidence": "high",
+    "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+  },
+  "decision": "Saved as draft (high confidence). Verify supplier and image before publishing.",
+  "localLeads": []
+}

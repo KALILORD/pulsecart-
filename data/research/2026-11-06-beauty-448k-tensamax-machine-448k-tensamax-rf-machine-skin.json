@@ -1,0 +1,124 @@
+{
+  "generatedAt": "2026-11-06T12:17:27.961Z",
+  "trend": {
+    "id": "t_2156ef2e3f",
+    "title": "Beauty 448K Tensamax RF Machine Skin Rejuvenation Face Lift Wrinkle Remove Body…",
+    "source": "aliexpress",
+    "geo": "GLOBAL",
+    "score": 82.2,
+    "keywords": [
+      "beauty",
+      "448k",
+      "tensamax",
+      "machine",
+      "skin",
+      "rejuvenation",
+      "face",
+      "lift"
+    ],
+    "query": "beauty 448k tensamax machine",
+    "category": "beauty",
+    "url": "https://www.aliexpress.com/item/3256812825371358.html",
+    "traffic": "10000 sold",
+    "eligible": true,
+    "observedAt": "2026-11-06T12:17:16.991Z",
+    "signals": [
+      {
+        "source": "aliexpress",
+        "title": "Beauty 448K Tensamax RF Machine Skin Rejuvenation Face Lift Wrinkle Remove Body…",
+        "url": "https://www.aliexpress.com/item/3256812825371358.html",
+        "traffic": "10000 sold",
+        "score": 82.2
+      }
+    ]
+  },
+  "offers": [
+    {
+      "supplier": "AliExpress",
+      "title": "448K Tensamax Radiofrecuencia Skin Tightening and Rejuvenation Face Lift Wrinkle Removal Body Contouring Device",
+      "url": "https://www.aliexpress.com/item/3256812330770574.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S79ee2452b1e04cfb8b953b2978732d022.jpg"
+      ],
+      "costZar": 9558,
+      "shippingZar": 0,
+      "deliveryDays": [
+        7,
+        14
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "Portable 3 in 1 Tensamax Aesthetic Equipment Multifunctional 448K Physio Therapy Beauty Product",
+      "url": "https://www.aliexpress.com/item/3256812490645171.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/Sf362943c668a4a85b848475f5733a314L.jpg"
+      ],
+      "costZar": 7533,
+      "shippingZar": 0,
+      "deliveryDays": [
+        7,
+        14
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "448K Tensamax Radiofrecuencia Skin Tightening and Rejuvenation Face Lift Wrinkle Removal Body Contouring Device",
+      "url": "https://www.aliexpress.com/item/3256812816373514.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S0694b48d5d0749c98afccc92d753bed3a.jpg"
+      ],
+      "costZar": 5813,
+      "shippingZar": 0,
+      "deliveryDays": [
+        7,
+        14
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "Beauty 448K Tensamax Machine 448K Tensamax RF Machine Skin Rejuvenation Face Lift Wrinkle Remove Body Contouring Anti‑Aging Beauty Equipment",
+      "url": "https://www.aliexpress.com/item/3256812825371358.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S7a45e246731f4ee5962e5950c7be10f02.jpg"
+      ],
+      "costZar": 5294,
+      "shippingZar": 0,
+      "deliveryDays": [
+        7,
+        14
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    }
+  ],
+  "chosen": {
+    "supplier": "AliExpress",
+    "title": "Beauty 448K Tensamax Machine 448K Tensamax RF Machine Skin Rejuvenation Face Lift Wrinkle Remove Body Contouring Anti‑Aging Beauty Equipment",
+    "url": "https://www.aliexpress.com/item/3256812825371358.html",
+    "images": [
+      "https://ae-pic-a1.aliexpress-media.com/kf/S7a45e246731f4ee5962e5950c7be10f02.jpg"
+    ],
+    "costZar": 5294,
+    "shippingZar": 0,
+    "deliveryDays": [
+      7,
+      14
+    ],
+    "inStock": true,
+    "confidence": "high",
+    "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+  },
+  "decision": "Saved as draft (high confidence). Verify supplier and image before publishing.",
+  "localLeads": []
+}

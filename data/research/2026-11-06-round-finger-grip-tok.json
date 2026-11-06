@@ -1,0 +1,53 @@
+{
+  "generatedAt": "2026-11-06T12:17:27.961Z",
+  "trend": {
+    "id": "t_b3e99d2b9d",
+    "title": "Round finger grip Tok cellphone holder foldable expanding phone stand mobile accessories…",
+    "source": "aliexpress",
+    "geo": "GLOBAL",
+    "score": 81.9,
+    "keywords": [
+      "round",
+      "finger",
+      "grip",
+      "tok",
+      "cellphone",
+      "holder",
+      "foldable",
+      "expanding"
+    ],
+    "query": "round finger grip tok",
+    "category": "tech",
+    "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005013266120873:12000060651333226&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+    "traffic": "10000 sold",
+    "eligible": true,
+    "observedAt": "2026-11-06T12:17:16.991Z",
+    "signals": [
+      {
+        "source": "aliexpress",
+        "title": "Round finger grip Tok cellphone holder foldable expanding phone stand mobile accessories…",
+        "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005013266120873:12000060651333226&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+        "traffic": "10000 sold",
+        "score": 81.9
+      }
+    ]
+  },
+  "offers": [],
+  "chosen": {
+    "supplier": "Estimated — verify supplier",
+    "title": "round finger grip tok",
+    "url": "",
+    "images": [],
+    "costZar": 255,
+    "shippingZar": 65,
+    "deliveryDays": [
+      10,
+      18
+    ],
+    "inStock": true,
+    "confidence": "low",
+    "notes": "No verifiable supplier price found automatically. Confirm a supplier, landed cost, and image before publishing."
+  },
+  "decision": "Saved as draft (low confidence). Verify supplier and image before publishing.",
+  "localLeads": []
+}
