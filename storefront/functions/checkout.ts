@@ -1,3 +1,5 @@
+import md5 from "md5";
+
 interface OrderItem {
   slug: string;
   title: string;
@@ -139,9 +141,9 @@ async function createPayFastPayment(
     custom_str2: payload.customer.notes || "",
   };
 
-  // PayFast requires a signature. This is computed server-side so the
-  // customer never sees the merchant key.
-  const signature = await computePayFastSignature(payfastPayload, config.passphrase);
+  // PayFast requires an MD5 signature. It is computed server-side so the
+  // buyer never sees the merchant key or passphrase.
+  const signature = computePayFastSignature(payfastPayload, config.passphrase);
 
   // Redirect the customer to PayFast's secure hosted payment page.
   const params = new URLSearchParams({
@@ -208,23 +210,27 @@ async function createPaystackPayment(
   );
 }
 
-async function computePayFastSignature(
+// PayFast expects the parameter string to mirror PHP's urlencode():
+// spaces become "+", and characters JavaScript leaves unencoded must also be percent-encoded.
+function pfEncode(value: string): string {
+  return encodeURIComponent(value.trim())
+    .replace(/%20/g, "+")
+    .replace(/[!'()*~]/g, (char) => `%${char.charCodeAt(0).toString(16).toUpperCase()}`);
+}
+
+function computePayFastSignature(
   params: Record<string, string>,
   passphrase?: string,
-): Promise<string> {
-  const keys = Object.keys(params).sort();
-  const unsignedString = keys
-    .map((key) => `${key}=${encodeURIComponent(params[key])}`)
-    .join("&");
-  const stringToSign = passphrase
-    ? `${unsignedString}&passphrase=${passphrase}`
-    : unsignedString;
+): string {
+  // Parameters are hashed in the order they appear, exactly like the official
+  // PayFast integration examples.
+  const lines = Object.entries(params)
+    .filter(([key, value]) => key !== "signature" && value !== "")
+    .map(([key, value]) => `${key}=${pfEncode(value)}`);
 
-  // PayFast uses MD5 for signatures. SHA-256 is used here as a placeholder;
-  // replace with an MD5 implementation (e.g., js-md5) before production.
-  const encoder = new TextEncoder();
-  const data = encoder.encode(stringToSign);
-  const hashBuffer = await crypto.subtle.digest("SHA-256", data);
-  const hashArray = Array.from(new Uint8Array(hashBuffer));
-  return hashArray.map((b) => b.toString(16).padStart(2, "0")).join("");
+  if (passphrase) {
+    lines.push(`passphrase=${pfEncode(passphrase)}`);
+  }
+
+  return md5(lines.join("&"));
 }
