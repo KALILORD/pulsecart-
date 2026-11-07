@@ -1,0 +1,131 @@
+{
+  "generatedAt": "2026-11-07T11:12:35.228Z",
+  "trend": {
+    "id": "t_881e740776",
+    "title": "Portable Fruit Juice Blenders Summer Personal Electric Mini Bottle Home USB 6 Blades…",
+    "source": "aliexpress",
+    "geo": "GLOBAL",
+    "score": 86.22580038825973,
+    "keywords": [
+      "portable",
+      "fruit",
+      "juice",
+      "blenders",
+      "summer",
+      "personal",
+      "electric",
+      "mini"
+    ],
+    "query": "portable fruit juice blenders",
+    "category": "tech",
+    "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005010036528204:12000050905691405&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+    "traffic": "7000 sold",
+    "eligible": true,
+    "observedAt": "2026-11-07T11:12:24.063Z",
+    "signals": [
+      {
+        "source": "aliexpress",
+        "title": "Portable Fruit Juice Blenders Summer Personal Electric Mini Bottle Home USB 6 Blades…",
+        "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005010036528204:12000050905691405&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+        "traffic": "7000 sold",
+        "score": 83.22580038825973
+      },
+      {
+        "source": "aliexpress",
+        "title": "Portable Fruit Juice Blenders Summer Personal Electric Mini Bottle Home USB 6 Blades…",
+        "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005010036528204:12000050905691405&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+        "traffic": "5000 sold",
+        "score": 80.69528427273833
+      }
+    ]
+  },
+  "offers": [
+    {
+      "supplier": "AliExpress",
+      "title": "2 Sets Portable USB Rechargeable Double Cup Blender & Juicer - Personal Mixer with Cups & Motor Base, 1500mAh Battery Suitable for Smoothies, Milkshakes, -the- Blending, Ideal Gift for, Travel, for Making Drinks",
+      "url": "https://www.aliexpress.com/item/3256813342573462.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/Sbd46593c1392446794d3ad1e7613198cw.jpg"
+      ],
+      "costZar": 123,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "ZHENMI J27 BPA-Free Cordless Portable Personal Blender – 24oz Ice Crushing Blender for Shakes & Smoothies, USB Rechargeable, Lightweight & Compact Design with Modern Look, Easy to Clean, Fits Most Cup Holders & Backpacks, Dishwasher Safe. On-the-Go",
+      "url": "https://www.aliexpress.com/item/3256813290295776.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/Sa792c58f80e549d2b030b4432da2da48x.jpg"
+      ],
+      "costZar": 265,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "1000ML Portable Juicer Blender Fruit Juicer USB Charging Lemon Orange Fruit Juicing Cup Smoothie Blender Machine Kitchen Tools",
+      "url": "https://www.aliexpress.com/item/3256811494746343.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S4aae1bf168b4499d9a40c3c000962d1ef.jpg"
+      ],
+      "costZar": 124,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "Portable Fruit Blender Electric Portable Juicer Fresh Fruit Mixer 700ML Multifunctional USB Rechargeable Shakes Smoothie Blender Outdoor Mixing Cup",
+      "url": "https://www.aliexpress.com/item/3256807428488644.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/Sdb92fbf4644e441abccbcc7df10484eaD.png"
+      ],
+      "costZar": 422,
+      "shippingZar": 0,
+      "deliveryDays": [
+        7,
+        14
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    }
+  ],
+  "chosen": {
+    "supplier": "AliExpress",
+    "title": "2 Sets Portable USB Rechargeable Double Cup Blender & Juicer - Personal Mixer with Cups & Motor Base, 1500mAh Battery Suitable for Smoothies, Milkshakes, -the- Blending, Ideal Gift for, Travel, for Making Drinks",
+    "url": "https://www.aliexpress.com/item/3256813342573462.html",
+    "images": [
+      "https://ae-pic-a1.aliexpress-media.com/kf/Sbd46593c1392446794d3ad1e7613198cw.jpg"
+    ],
+    "costZar": 123,
+    "shippingZar": 65,
+    "deliveryDays": [
+      10,
+      18
+    ],
+    "inStock": true,
+    "confidence": "high",
+    "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+  },
+  "decision": "Saved as draft (high confidence). Verify supplier and image before publishing.",
+  "localLeads": []
+}

@@ -1,0 +1,53 @@
+{
+  "generatedAt": "2026-11-07T11:12:35.228Z",
+  "trend": {
+    "id": "t_c7a0b7bfd8",
+    "title": "Kitchen Gadget Oil Sprayer 250ML Oil Sprayer, High Borosilicate Glass BPA Free Cooking…",
+    "source": "aliexpress",
+    "geo": "GLOBAL",
+    "score": 84.01084275689499,
+    "keywords": [
+      "kitchen",
+      "gadget",
+      "oil",
+      "sprayer",
+      "250ml",
+      "oil",
+      "sprayer",
+      "high"
+    ],
+    "query": "kitchen gadget oil sprayer",
+    "category": "tech",
+    "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005008290767582:12000044500686091&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+    "traffic": "4000 sold",
+    "eligible": true,
+    "observedAt": "2026-11-07T11:12:24.063Z",
+    "signals": [
+      {
+        "source": "aliexpress",
+        "title": "Kitchen Gadget Oil Sprayer 250ML Oil Sprayer, High Borosilicate Glass BPA Free Cooking…",
+        "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005008290767582:12000044500686091&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+        "traffic": "4000 sold",
+        "score": 84.01084275689499
+      }
+    ]
+  },
+  "offers": [],
+  "chosen": {
+    "supplier": "Estimated — verify supplier",
+    "title": "kitchen gadget oil sprayer",
+    "url": "",
+    "images": [],
+    "costZar": 255,
+    "shippingZar": 65,
+    "deliveryDays": [
+      10,
+      18
+    ],
+    "inStock": true,
+    "confidence": "low",
+    "notes": "No verifiable supplier price found automatically. Confirm a supplier, landed cost, and image before publishing."
+  },
+  "decision": "Saved as draft (low confidence). Verify supplier and image before publishing.",
+  "localLeads": []
+}

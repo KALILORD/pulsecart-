@@ -1,0 +1,124 @@
+{
+  "generatedAt": "2026-11-07T11:12:35.228Z",
+  "trend": {
+    "id": "t_c5cad62196",
+    "title": "Wall-mounted Oil Aromatherapy Machine Air Purifying Automatic Diffuser Toilet…",
+    "source": "aliexpress",
+    "geo": "GLOBAL",
+    "score": 84.38632997712426,
+    "keywords": [
+      "wall",
+      "mounted",
+      "oil",
+      "aromatherapy",
+      "machine",
+      "air",
+      "purifying",
+      "automatic"
+    ],
+    "query": "wall mounted oil aromatherapy",
+    "category": "home",
+    "url": "https://www.aliexpress.com/item/3256807209396429.html",
+    "traffic": "3000 sold",
+    "eligible": true,
+    "observedAt": "2026-11-07T11:12:24.063Z",
+    "signals": [
+      {
+        "source": "aliexpress",
+        "title": "Wall-mounted Oil Aromatherapy Machine Air Purifying Automatic Diffuser Toilet…",
+        "url": "https://www.aliexpress.com/item/3256807209396429.html",
+        "traffic": "3000 sold",
+        "score": 84.38632997712426
+      }
+    ]
+  },
+  "offers": [
+    {
+      "supplier": "AliExpress",
+      "title": "300m³ Wall Mounted Bluetooth Control Perfume Fragrance Diffuser Home Flavoring Air Freshener Air Purifier Oil Diffuser",
+      "url": "https://www.aliexpress.com/item/3256813247732595.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/Sa11b46310e4e4b58a4a038eb994f1af8i.png"
+      ],
+      "costZar": 320,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "Portable Aroma Diffuser Fragrance Essential Oil Aromatherapy Machine Wall Mounted Humidifier Machine Air Freshener",
+      "url": "https://www.aliexpress.com/item/3256810099305262.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/Sc98b91628b0345469eea3f909f8a4734a.jpg"
+      ],
+      "costZar": 59,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "Ultrasonic Essential Oil Diffuser Wall Mounted USB Portable Aromatherapy Air Freshening Deodorization for Home Office",
+      "url": "https://www.aliexpress.com/item/3256812551866882.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S79141a46cb984cf588c4a93555be0444H.jpg"
+      ],
+      "costZar": 18,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "Oil aromatherapy diffuser 7 colors of essential oil fireplace diffuser mini flame aromatherapy fireplace humidifier aromatherapy oil diffuser AG-HY05",
+      "url": "https://www.aliexpress.com/item/3256808726335886.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S42e24bc99d814bf8affbd90578833488T.jpg"
+      ],
+      "costZar": 352,
+      "shippingZar": 0,
+      "deliveryDays": [
+        7,
+        14
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    }
+  ],
+  "chosen": {
+    "supplier": "AliExpress",
+    "title": "Ultrasonic Essential Oil Diffuser Wall Mounted USB Portable Aromatherapy Air Freshening Deodorization for Home Office",
+    "url": "https://www.aliexpress.com/item/3256812551866882.html",
+    "images": [
+      "https://ae-pic-a1.aliexpress-media.com/kf/S79141a46cb984cf588c4a93555be0444H.jpg"
+    ],
+    "costZar": 18,
+    "shippingZar": 65,
+    "deliveryDays": [
+      10,
+      18
+    ],
+    "inStock": true,
+    "confidence": "high",
+    "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+  },
+  "decision": "Saved as draft (high confidence). Verify supplier and image before publishing.",
+  "localLeads": []
+}

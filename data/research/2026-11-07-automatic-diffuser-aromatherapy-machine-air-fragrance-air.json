@@ -1,0 +1,124 @@
+{
+  "generatedAt": "2026-11-07T11:12:35.228Z",
+  "trend": {
+    "id": "t_b3a5d12d69",
+    "title": "Automatic Diffuser Aromatherapy Machine Air Fragrance Air Freshener Toilet Bathroom…",
+    "source": "aliexpress",
+    "geo": "GLOBAL",
+    "score": 86.22580038825973,
+    "keywords": [
+      "automatic",
+      "diffuser",
+      "aromatherapy",
+      "machine",
+      "air",
+      "fragrance",
+      "air",
+      "freshener"
+    ],
+    "query": "automatic diffuser aromatherapy machine",
+    "category": "home",
+    "url": "https://www.aliexpress.com/item/3256807498716941.html",
+    "traffic": "7000 sold",
+    "eligible": true,
+    "observedAt": "2026-11-07T11:12:24.063Z",
+    "signals": [
+      {
+        "source": "aliexpress",
+        "title": "Automatic Diffuser Aromatherapy Machine Air Fragrance Air Freshener Toilet Bathroom…",
+        "url": "https://www.aliexpress.com/item/3256807498716941.html",
+        "traffic": "7000 sold",
+        "score": 86.22580038825973
+      }
+    ]
+  },
+  "offers": [
+    {
+      "supplier": "AliExpress",
+      "title": "Essential Oil Diffuser Mini Aromatherapy Air Humidifier With 10ml Essential Oil, Hand Blown Glass Cover With Print, Auto Shut-Off, 3 Timer, Warm White Lights, 100ML Capacity Water Tank",
+      "url": "https://www.aliexpress.com/item/3256812911288628.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S913bdb3290e2431583f2d26b76335a23D.png"
+      ],
+      "costZar": 332,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "Automatic Diffuser Aromatherapy Machine Air Fragrance Air Freshener Toilet Bathroom Aroma Essential Oil Dispenser Humidifier",
+      "url": "https://www.aliexpress.com/item/3256807498716941.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/Sa2da2c2066944e6d8fea2dbdb456c47fB.jpg"
+      ],
+      "costZar": 18,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "Smart Automatic Fragrance Diffuser 500ML Ambient Light Aroma Spray Long Lasting for Bathroom Bedroom Living Room",
+      "url": "https://www.aliexpress.com/item/3256813309331085.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/Sf99c2549bfa34ddfbf59002359b875f6t.jpg"
+      ],
+      "costZar": 489,
+      "shippingZar": 0,
+      "deliveryDays": [
+        7,
+        14
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "Automatic Diffuser Aromatherapy Machine Oil Wall-mounted Oil Aromatherapy Machine Air Purifying Automatic Diffuser Toilet Deodorization Fragrance Humidifier Colorful Night",
+      "url": "https://www.aliexpress.com/item/3256807209396429.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S1bd93c5e42a1433ba6c60434e553ddaeY.jpg"
+      ],
+      "costZar": 18,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    }
+  ],
+  "chosen": {
+    "supplier": "AliExpress",
+    "title": "Automatic Diffuser Aromatherapy Machine Air Fragrance Air Freshener Toilet Bathroom Aroma Essential Oil Dispenser Humidifier",
+    "url": "https://www.aliexpress.com/item/3256807498716941.html",
+    "images": [
+      "https://ae-pic-a1.aliexpress-media.com/kf/Sa2da2c2066944e6d8fea2dbdb456c47fB.jpg"
+    ],
+    "costZar": 18,
+    "shippingZar": 65,
+    "deliveryDays": [
+      10,
+      18
+    ],
+    "inStock": true,
+    "confidence": "high",
+    "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+  },
+  "decision": "Saved as draft (high confidence). Verify supplier and image before publishing.",
+  "localLeads": []
+}
