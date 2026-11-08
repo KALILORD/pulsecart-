@@ -1,0 +1,124 @@
+{
+  "generatedAt": "2026-11-08T11:24:28.608Z",
+  "trend": {
+    "id": "t_5aeeeb3e76",
+    "title": "The simulated volcanic color lamp humidifier USB aromatherapy diffuser is suitable for…",
+    "source": "aliexpress",
+    "geo": "GLOBAL",
+    "score": 84.00217038739659,
+    "keywords": [
+      "simulated",
+      "volcanic",
+      "color",
+      "lamp",
+      "humidifier",
+      "usb",
+      "aromatherapy",
+      "diffuser"
+    ],
+    "query": "simulated volcanic color lamp",
+    "category": "home",
+    "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005010487454631:12000052569469695&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+    "traffic": "1000 sold",
+    "eligible": true,
+    "observedAt": "2026-11-08T11:24:17.400Z",
+    "signals": [
+      {
+        "source": "aliexpress",
+        "title": "The simulated volcanic color lamp humidifier USB aromatherapy diffuser is suitable for…",
+        "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005010487454631:12000052569469695&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+        "traffic": "1000 sold",
+        "score": 84.00217038739659
+      }
+    ]
+  },
+  "offers": [
+    {
+      "supplier": "AliExpress",
+      "title": "Volcanic Aroma Diffuser Essential Oil Lamp 130ml USB Portable Air Humidifier with Color Flame Night Light",
+      "url": "https://www.aliexpress.com/item/3256813275965684.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/Sf05db468cc8847bdad4aff49675736cah.jpg"
+      ],
+      "costZar": 39,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "The Simulated Volcanic Color Lamp Humidifier USB Aromatherapy Diffuser Is Suitable for Use in Cars, Homes, Bedrooms, As A Gift,",
+      "url": "https://www.aliexpress.com/item/3256813365381879.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/Sb8af88e3a4ca42fba58c933495660d92m.jpg"
+      ],
+      "costZar": 118,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "LED Glitter Lava Lamp USB Powered 7 Color Changing for Gaming Setup Bedroom Dorm Ambient Mood Light for Teens Silver",
+      "url": "https://www.aliexpress.com/item/3256813325895387.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S5c6d65b6a96348af9c4480a316294e48b.png"
+      ],
+      "costZar": 18,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "Resin Coral Ornament Simulation Coral Colorful LED Light Volcano Ornament Volcano Shape Oxygen Increasing Bubble Air Stone",
+      "url": "https://www.aliexpress.com/item/3256813131612179.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/Sb3c2af0505d54e27bc24f7efdbe86accE.jpg"
+      ],
+      "costZar": 220,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    }
+  ],
+  "chosen": {
+    "supplier": "AliExpress",
+    "title": "LED Glitter Lava Lamp USB Powered 7 Color Changing for Gaming Setup Bedroom Dorm Ambient Mood Light for Teens Silver",
+    "url": "https://www.aliexpress.com/item/3256813325895387.html",
+    "images": [
+      "https://ae-pic-a1.aliexpress-media.com/kf/S5c6d65b6a96348af9c4480a316294e48b.png"
+    ],
+    "costZar": 18,
+    "shippingZar": 65,
+    "deliveryDays": [
+      10,
+      18
+    ],
+    "inStock": true,
+    "confidence": "high",
+    "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+  },
+  "decision": "Saved as draft (high confidence). Verify supplier and image before publishing.",
+  "localLeads": []
+}

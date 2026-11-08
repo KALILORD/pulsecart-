@@ -1,0 +1,124 @@
+{
+  "generatedAt": "2026-11-08T11:24:28.608Z",
+  "trend": {
+    "id": "t_8052ff79e7",
+    "title": "Semi Automatic Egg Beater Manual Rotating Cream Mixer Household Baking Tool Kitchen…",
+    "source": "aliexpress",
+    "geo": "GLOBAL",
+    "score": 84.49528427273833,
+    "keywords": [
+      "semi",
+      "automatic",
+      "egg",
+      "beater",
+      "manual",
+      "rotating",
+      "cream",
+      "mixer"
+    ],
+    "query": "semi automatic egg beater",
+    "category": "home",
+    "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005012039551042:12000057364548894&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+    "traffic": "5000 sold",
+    "eligible": true,
+    "observedAt": "2026-11-08T11:24:17.400Z",
+    "signals": [
+      {
+        "source": "aliexpress",
+        "title": "Semi Automatic Egg Beater Manual Rotating Cream Mixer Household Baking Tool Kitchen…",
+        "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005012039551042:12000057364548894&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+        "traffic": "5000 sold",
+        "score": 84.49528427273833
+      }
+    ]
+  },
+  "offers": [
+    {
+      "supplier": "AliExpress",
+      "title": "Semi Automatic Mixer Whisk Egg Beater Stainless Steel Manual Hand Mixer Self-Turning Cream Utensils Kitchen Mixer Egg Tools",
+      "url": "https://www.aliexpress.com/item/3256804650188214.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/Sd649578e60304948b288d5933bc31007O.jpg"
+      ],
+      "costZar": 18,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "Semi Automatic Egg Beater Manual Rotating Cream Mixer Household Baking Tool Kitchen Gadget for Egg Blending Cake Mixing",
+      "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005012039551042:12000057364548894&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/Sd452dcf0906843769663211750202c42Z.jpg"
+      ],
+      "costZar": 5,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "Multifunctional Manual Whisk Semi-Automatic Egg Beater Hand Crank Mixer Cake Cream Home Kitchen Ferramentas Cocina Food Grade HD",
+      "url": "https://www.aliexpress.com/item/3256811677587539.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S7e47c7ca98d849898d1558a3232f8ea8a.jpg"
+      ],
+      "costZar": 18,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "Semi Automatic Egg Beater 10/12/14inch Stainless Steel Semi Automatic Whisk Blender for Home -Versatile Tool for Egg Beater, Milk Frother, Hand Push Whisk",
+      "url": "https://www.aliexpress.com/item/3256808416755299.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S289cd3aa3cbc487fb8597da770c6ce59i.jpg"
+      ],
+      "costZar": 18,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    }
+  ],
+  "chosen": {
+    "supplier": "AliExpress",
+    "title": "Semi Automatic Egg Beater Manual Rotating Cream Mixer Household Baking Tool Kitchen Gadget for Egg Blending Cake Mixing",
+    "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005012039551042:12000057364548894&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+    "images": [
+      "https://ae-pic-a1.aliexpress-media.com/kf/Sd452dcf0906843769663211750202c42Z.jpg"
+    ],
+    "costZar": 5,
+    "shippingZar": 65,
+    "deliveryDays": [
+      10,
+      18
+    ],
+    "inStock": true,
+    "confidence": "high",
+    "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+  },
+  "decision": "Saved as draft (high confidence). Verify supplier and image before publishing.",
+  "localLeads": []
+}

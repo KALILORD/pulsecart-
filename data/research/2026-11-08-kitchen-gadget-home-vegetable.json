@@ -1,0 +1,131 @@
+{
+  "generatedAt": "2026-11-08T11:24:28.608Z",
+  "trend": {
+    "id": "t_a690ff1770",
+    "title": "Kitchen Gadget Home Vegetable Chopper 14Set Of Multifunctional Grater, Potato Shredded…",
+    "source": "aliexpress",
+    "geo": "GLOBAL",
+    "score": 85.50623544318105,
+    "keywords": [
+      "kitchen",
+      "gadget",
+      "home",
+      "vegetable",
+      "chopper",
+      "14set",
+      "multifunctional",
+      "grater"
+    ],
+    "query": "kitchen gadget home vegetable",
+    "category": "home",
+    "url": "https://www.aliexpress.com/item/3256812122229727.html",
+    "traffic": "2000 sold",
+    "eligible": true,
+    "observedAt": "2026-11-08T11:24:17.400Z",
+    "signals": [
+      {
+        "source": "aliexpress",
+        "title": "Kitchen Gadget Home Vegetable Chopper 14Set Of Multifunctional Grater, Potato Shredded…",
+        "url": "https://www.aliexpress.com/item/3256812122229727.html",
+        "traffic": "2000 sold",
+        "score": 82.50623544318105
+      },
+      {
+        "source": "aliexpress",
+        "title": "Gadget Home Kitchen Vegetable Chopper 14Set Of Multifunctional Grater, Potato Shredded…",
+        "url": "https://www.aliexpress.com/item/3256812122229727.html",
+        "traffic": "2000 sold",
+        "score": 79.50623544318105
+      }
+    ]
+  },
+  "offers": [
+    {
+      "supplier": "AliExpress",
+      "title": "Multifunctional Vegetable Peeler, Stainless Steel Fruit Peeler with Solid Wood Handle, Bottle Opener Design, Kitchen Peeling Tool for Potato, Pumpkin, Sugarcane",
+      "url": "https://www.aliexpress.com/item/3256812188038238.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S39404376eee04090ba37a794a07e62df6.jpg"
+      ],
+      "costZar": 18,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "16 in 1 Vegetable Chopper, Multifunctional Food Slicer Dicer with 8 Replaceable Blades, Onion Cutter Shredder with Container, Kitchen Vegetable Prep Tool",
+      "url": "https://www.aliexpress.com/item/3256813359420127.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S99a3c0568bb24b38a27951c91fb3995bT.jpg"
+      ],
+      "costZar": 155,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "kou 250ml Mini Wireless USB Rechargeable Electric Vegetable Chopper Garlic Crusher Food Chopper for Kitchen Gadgets for Garlic",
+      "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005009384210713:12000048937655660&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S0e35a46cec7a44cdae997b66f4ae296cY.jpg"
+      ],
+      "costZar": 18,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "Sliding Drawer For Kitchen Under Sink Organizer,1/2 Pack 2-Tier Pull-Out Sliding Cabinet Basket,Antirust Carbon Steel Tube,With 5 Hooks & 2 Hanging Cups,Hollow Drain Design Prevent Water Accumulation,Stable Structure Deformation Resistant,Kitchen,Bathroom,Black",
+      "url": "https://www.aliexpress.com/item/3256811914906855.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S028c8c8e5d954770bb317937774d8ca48.jpg"
+      ],
+      "costZar": 18,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    }
+  ],
+  "chosen": {
+    "supplier": "AliExpress",
+    "title": "Multifunctional Vegetable Peeler, Stainless Steel Fruit Peeler with Solid Wood Handle, Bottle Opener Design, Kitchen Peeling Tool for Potato, Pumpkin, Sugarcane",
+    "url": "https://www.aliexpress.com/item/3256812188038238.html",
+    "images": [
+      "https://ae-pic-a1.aliexpress-media.com/kf/S39404376eee04090ba37a794a07e62df6.jpg"
+    ],
+    "costZar": 18,
+    "shippingZar": 65,
+    "deliveryDays": [
+      10,
+      18
+    ],
+    "inStock": true,
+    "confidence": "high",
+    "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+  },
+  "decision": "Saved as draft (high confidence). Verify supplier and image before publishing.",
+  "localLeads": []
+}
