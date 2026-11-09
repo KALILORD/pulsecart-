@@ -1,0 +1,53 @@
+{
+  "generatedAt": "2026-11-09T13:06:40.218Z",
+  "trend": {
+    "id": "t_5ddeec4600",
+    "title": "Multi-Purpose Eyebrow Shaver Set Gentle Facial Hair Trimmer Easy Grooming and Shaping…",
+    "source": "aliexpress",
+    "geo": "GLOBAL",
+    "score": 81.9,
+    "keywords": [
+      "multi",
+      "purpose",
+      "eyebrow",
+      "shaver",
+      "set",
+      "gentle",
+      "facial",
+      "hair"
+    ],
+    "query": "multi purpose eyebrow shaver",
+    "category": "beauty",
+    "url": "https://www.aliexpress.com/item/3256811824631128.html",
+    "traffic": "10000 sold",
+    "eligible": true,
+    "observedAt": "2026-11-09T13:06:28.468Z",
+    "signals": [
+      {
+        "source": "aliexpress",
+        "title": "Multi-Purpose Eyebrow Shaver Set Gentle Facial Hair Trimmer Easy Grooming and Shaping…",
+        "url": "https://www.aliexpress.com/item/3256811824631128.html",
+        "traffic": "10000 sold",
+        "score": 81.9
+      }
+    ]
+  },
+  "offers": [],
+  "chosen": {
+    "supplier": "Estimated — verify supplier",
+    "title": "multi purpose eyebrow shaver",
+    "url": "",
+    "images": [],
+    "costZar": 220,
+    "shippingZar": 65,
+    "deliveryDays": [
+      10,
+      18
+    ],
+    "inStock": true,
+    "confidence": "low",
+    "notes": "No verifiable supplier price found automatically. Confirm a supplier, landed cost, and image before publishing."
+  },
+  "decision": "Saved as draft (low confidence). Verify supplier and image before publishing.",
+  "localLeads": []
+}

@@ -1,0 +1,124 @@
+{
+  "generatedAt": "2026-11-09T13:06:40.218Z",
+  "trend": {
+    "id": "t_9975b92231",
+    "title": "450ML Stainless Steel Thermo Water Bottle LED Temperature Display Coffee Cup Keep Cold…",
+    "source": "aliexpress",
+    "geo": "GLOBAL",
+    "score": 82.01084275689499,
+    "keywords": [
+      "450ml",
+      "stainless",
+      "steel",
+      "thermo",
+      "water",
+      "bottle",
+      "led",
+      "temperature"
+    ],
+    "query": "450ml stainless steel thermo",
+    "category": "kitchen",
+    "url": "https://www.aliexpress.com/item/3256807952264304.html",
+    "traffic": "4000 sold",
+    "eligible": true,
+    "observedAt": "2026-11-09T13:06:28.468Z",
+    "signals": [
+      {
+        "source": "aliexpress",
+        "title": "450ML Stainless Steel Thermo Water Bottle LED Temperature Display Coffee Cup Keep Cold…",
+        "url": "https://www.aliexpress.com/item/3256807952264304.html",
+        "traffic": "4000 sold",
+        "score": 82.01084275689499
+      }
+    ]
+  },
+  "offers": [
+    {
+      "supplier": "AliExpress",
+      "title": "450ml Double Wall Stainless Steel Coffee Mug Heat-Resistant & Anti-Scalding 304 Steel Thermos Cup with Handle & Leak-Proof Lid",
+      "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005007938100521:12000042938320317&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/Sbee24b390fd9423c8931f35855a0a5e4r.jpg"
+      ],
+      "costZar": 39,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "450ML Temperature Display Insulated Coffee Mug 4 Colors Stainless Steel Smart Thermos Cup Vacuum Flask Travel Leakproof Water Bottle Available for Office Car Camping Gift",
+      "url": "https://www.aliexpress.com/item/3256813019235688.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S8ef10cad8a5d4455ae0ff11db7241862S.jpg"
+      ],
+      "costZar": 53,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "450ML Stainless Steel Thermo Water BottleDisplay Temperature Coffee Cup Insulated Cup Vacuum Cup Keep Cold and Hot Thermal Mug",
+      "url": "https://www.aliexpress.com/item/3256811793723271.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S0afd8f03d34d47299ab278f8d99702ban.jpeg"
+      ],
+      "costZar": 18,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "450ML Stainless Steel Thermos 450ML Temperature Display Insulated Coffee Mug 4 Colors Stainless Steel Smart Thermos Cup Vacuum Flask Travel Leakproof Water Bottle Available for Office Car Camping Gift",
+      "url": "https://www.aliexpress.com/item/3256813124187424.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S8ef10cad8a5d4455ae0ff11db7241862S.jpg"
+      ],
+      "costZar": 251,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    }
+  ],
+  "chosen": {
+    "supplier": "AliExpress",
+    "title": "450ML Stainless Steel Thermo Water BottleDisplay Temperature Coffee Cup Insulated Cup Vacuum Cup Keep Cold and Hot Thermal Mug",
+    "url": "https://www.aliexpress.com/item/3256811793723271.html",
+    "images": [
+      "https://ae-pic-a1.aliexpress-media.com/kf/S0afd8f03d34d47299ab278f8d99702ban.jpeg"
+    ],
+    "costZar": 18,
+    "shippingZar": 65,
+    "deliveryDays": [
+      10,
+      18
+    ],
+    "inStock": true,
+    "confidence": "high",
+    "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+  },
+  "decision": "Saved as draft (high confidence). Verify supplier and image before publishing.",
+  "localLeads": []
+}

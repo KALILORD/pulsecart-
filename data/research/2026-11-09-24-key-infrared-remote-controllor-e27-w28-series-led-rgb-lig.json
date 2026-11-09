@@ -1,0 +1,124 @@
+{
+  "generatedAt": "2026-11-09T13:06:40.218Z",
+  "trend": {
+    "id": "t_91fe0b9039",
+    "title": "Remote Control RGB LED Strobe Light Wireless Rechargeable Footwell Lights Exterior…",
+    "source": "aliexpress",
+    "geo": "GLOBAL",
+    "score": 82.49528427273833,
+    "keywords": [
+      "remote",
+      "control",
+      "rgb",
+      "led",
+      "strobe",
+      "light",
+      "wireless",
+      "rechargeable"
+    ],
+    "query": "remote control rgb led",
+    "category": "tech",
+    "url": "https://www.aliexpress.com/item/3256811494407968.html",
+    "traffic": "5000 sold",
+    "eligible": true,
+    "observedAt": "2026-11-09T13:06:28.468Z",
+    "signals": [
+      {
+        "source": "aliexpress",
+        "title": "Remote Control RGB LED Strobe Light Wireless Rechargeable Footwell Lights Exterior…",
+        "url": "https://www.aliexpress.com/item/3256811494407968.html",
+        "traffic": "5000 sold",
+        "score": 82.49528427273833
+      }
+    ]
+  },
+  "offers": [
+    {
+      "supplier": "AliExpress",
+      "title": "24-key Infrared Remote Controllor E27 W28 Series LED RGB Light Bulbs Remote Control Home Decor Lighting Color Changing Regulator",
+      "url": "https://www.aliexpress.com/item/3256811467498936.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S34ed943c38d24e129decc5008a14bcf4U.jpg"
+      ],
+      "costZar": 25,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "5V RGB LED Fairy String Lights USB Powered 5M 24 Key Remote Control Color Changing for TV Backlight Bedroom Living Room DIY Home",
+      "url": "https://www.aliexpress.com/item/3256813288037821.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/Sf0892fafb23a48cb90966924524036268.png"
+      ],
+      "costZar": 80,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "Led Controller 44 Keys LED IR RGB Controler LED Lights Controller IR Remote Dimmer DC12V 6A For RGB 3528 5050 LED Strip",
+      "url": "https://www.aliexpress.com/item/2251832800701899.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/HTB12MQwL4TpK1RjSZFMq6zG_VXas.jpg"
+      ],
+      "costZar": 86,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "WS2812B Led Pixels Strip Controller SP105E SP601E RGB Controller Bluetooth Music RF Remote WS2811 SK6812 Strip Lights DC5V-24V",
+      "url": "https://www.aliexpress.com/item/3256811576757878.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/Hcd57fa1ea67242e6ae4b9abcf093ce1a2.jpg"
+      ],
+      "costZar": 161,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    }
+  ],
+  "chosen": {
+    "supplier": "AliExpress",
+    "title": "24-key Infrared Remote Controllor E27 W28 Series LED RGB Light Bulbs Remote Control Home Decor Lighting Color Changing Regulator",
+    "url": "https://www.aliexpress.com/item/3256811467498936.html",
+    "images": [
+      "https://ae-pic-a1.aliexpress-media.com/kf/S34ed943c38d24e129decc5008a14bcf4U.jpg"
+    ],
+    "costZar": 25,
+    "shippingZar": 65,
+    "deliveryDays": [
+      10,
+      18
+    ],
+    "inStock": true,
+    "confidence": "high",
+    "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+  },
+  "decision": "Saved as draft (high confidence). Verify supplier and image before publishing.",
+  "localLeads": []
+}

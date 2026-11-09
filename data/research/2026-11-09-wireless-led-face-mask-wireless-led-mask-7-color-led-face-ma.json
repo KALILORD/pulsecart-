@@ -1,0 +1,124 @@
+{
+  "generatedAt": "2026-11-09T13:06:40.218Z",
+  "trend": {
+    "id": "t_6242a1021d",
+    "title": "Wireless LED Face Mask 7 Colors Rechargeable Portable Facial Mask Skin Rejuvenation Skin…",
+    "source": "aliexpress",
+    "geo": "GLOBAL",
+    "score": 83.30623544318105,
+    "keywords": [
+      "wireless",
+      "led",
+      "face",
+      "mask",
+      "colors",
+      "rechargeable",
+      "portable",
+      "facial"
+    ],
+    "query": "wireless led face mask",
+    "category": "tech",
+    "url": "https://www.aliexpress.com/item/3256812354597968.html",
+    "traffic": "2000 sold",
+    "eligible": true,
+    "observedAt": "2026-11-09T13:06:28.468Z",
+    "signals": [
+      {
+        "source": "aliexpress",
+        "title": "Wireless LED Face Mask 7 Colors Rechargeable Portable Facial Mask Skin Rejuvenation Skin…",
+        "url": "https://www.aliexpress.com/item/3256812354597968.html",
+        "traffic": "2000 sold",
+        "score": 83.30623544318105
+      }
+    ]
+  },
+  "offers": [
+    {
+      "supplier": "AliExpress",
+      "title": "Wireless LED Face Mask 7 Colors Rechargeable Portable Facial Mask Skin Rejuvenation Skin Care Beauty Device",
+      "url": "https://www.aliexpress.com/item/3256812354597968.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S30d4d2b7fc7d40c5a9a82a206c4c88df7.jpg"
+      ],
+      "costZar": 207,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "Wireless 7 Colors LED Face Neck Mask Rechargeable Photon Therapy Mask Red Light Skin Tightening Lifting Facial Beauty Device Home SPA Facial Care Machine",
+      "url": "https://www.aliexpress.com/item/3256812402512799.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S29ced11a4ea54df9ac84b73037b35d6f1.jpg"
+      ],
+      "costZar": 267,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "Red Light Therapy Mask, 10-Min Timer Beauty Mask Rechargeable, Wireless, 850nm NIR, Red/Blue Led Light | 4 Modes, 272 LEDs, 27mW/cm² Power, Full Face Coverage, Home Use, Visible Results in 4 Weeks",
+      "url": "https://www.aliexpress.com/item/3256813138226917.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/Sb2fbf5d74f1b4bdfa813cc308f7e17ade.jpg"
+      ],
+      "costZar": 860,
+      "shippingZar": 0,
+      "deliveryDays": [
+        7,
+        14
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "Wireless LED Face Mask Wireless LED Mask 7 Color LED Face Mask Photon Skin Firming Anti Aging Rejuvenation Beauty Mask Machine",
+      "url": "https://www.aliexpress.com/item/3256809391914691.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/Sbbf490d618134b7981176b97940ad319v.png"
+      ],
+      "costZar": 18,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    }
+  ],
+  "chosen": {
+    "supplier": "AliExpress",
+    "title": "Wireless LED Face Mask Wireless LED Mask 7 Color LED Face Mask Photon Skin Firming Anti Aging Rejuvenation Beauty Mask Machine",
+    "url": "https://www.aliexpress.com/item/3256809391914691.html",
+    "images": [
+      "https://ae-pic-a1.aliexpress-media.com/kf/Sbbf490d618134b7981176b97940ad319v.png"
+    ],
+    "costZar": 18,
+    "shippingZar": 65,
+    "deliveryDays": [
+      10,
+      18
+    ],
+    "inStock": true,
+    "confidence": "high",
+    "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+  },
+  "decision": "Saved as draft (high confidence). Verify supplier and image before publishing.",
+  "localLeads": []
+}
