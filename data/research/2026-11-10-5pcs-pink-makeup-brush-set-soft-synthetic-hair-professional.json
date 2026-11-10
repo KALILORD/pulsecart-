@@ -1,0 +1,124 @@
+{
+  "generatedAt": "2026-11-10T12:49:12.279Z",
+  "trend": {
+    "id": "t_c9b49c9198",
+    "title": "13 PCS Makeup Brushes Set Eye Shadow Foundation Women Cosmetic Brush Eyeshadow Blush…",
+    "source": "aliexpress",
+    "geo": "GLOBAL",
+    "score": 84,
+    "keywords": [
+      "pcs",
+      "makeup",
+      "brushes",
+      "set",
+      "eye",
+      "shadow",
+      "foundation",
+      "women"
+    ],
+    "query": "pcs makeup brushes set",
+    "category": "beauty",
+    "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005006782857610:12000061289327375&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+    "traffic": "10000 sold",
+    "eligible": true,
+    "observedAt": "2026-11-10T12:49:00.899Z",
+    "signals": [
+      {
+        "source": "aliexpress",
+        "title": "13 PCS Makeup Brushes Set Eye Shadow Foundation Women Cosmetic Brush Eyeshadow Blush…",
+        "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005006782857610:12000061289327375&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+        "traffic": "10000 sold",
+        "score": 84
+      }
+    ]
+  },
+  "offers": [
+    {
+      "supplier": "AliExpress",
+      "title": "5Pcs Pink Makeup Brush Set, Soft Synthetic Hair Professional Cosmetic Brushes, Portable Easy Storage Makeup Brushes Kit for Daily Makeup",
+      "url": "https://www.aliexpress.com/item/3256811494165653.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S1e0692db85c4447ab2fbb572ba561064a.jpg"
+      ],
+      "costZar": 29,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "Dusty Rose Pink Makeup Brush Set, 5Pcs Foundation Blush Eyeshadow Brushes, Soft Cosmetic Brushes Kit, Valentine’s Day Gift for Women",
+      "url": "https://www.aliexpress.com/item/3256812247936806.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S2d99839aa3c44294b45c056db2c9505c0.jpg"
+      ],
+      "costZar": 29,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "Gift Bag Of 24 pcs Makeup Brush Sets Professional Cosmetics Brushes Eyebrow Powder Foundation Shadows Pinceaux Make Up Tools",
+      "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005007168895249:12000039681525687&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/Sd44236e1b87043a492a48f958d601cb1T.jpg"
+      ],
+      "costZar": 55,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "PCS Makeup Brushes Set 14 PCS Makeup Brushes Professional Make Up Brushes Premium Synthetic Powder Concealers Brushes Travel Makeup Brush Set",
+      "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005012492343888:12000058519911218&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S6c694b7fca4d4dc9bbf7227c510e7ac1C.png"
+      ],
+      "costZar": 71,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    }
+  ],
+  "chosen": {
+    "supplier": "AliExpress",
+    "title": "5Pcs Pink Makeup Brush Set, Soft Synthetic Hair Professional Cosmetic Brushes, Portable Easy Storage Makeup Brushes Kit for Daily Makeup",
+    "url": "https://www.aliexpress.com/item/3256811494165653.html",
+    "images": [
+      "https://ae-pic-a1.aliexpress-media.com/kf/S1e0692db85c4447ab2fbb572ba561064a.jpg"
+    ],
+    "costZar": 29,
+    "shippingZar": 65,
+    "deliveryDays": [
+      10,
+      18
+    ],
+    "inStock": true,
+    "confidence": "high",
+    "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+  },
+  "decision": "Saved as draft (high confidence). Verify supplier and image before publishing.",
+  "localLeads": []
+}

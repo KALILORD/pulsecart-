@@ -1,0 +1,124 @@
+{
+  "generatedAt": "2026-11-10T12:49:12.279Z",
+  "trend": {
+    "id": "t_1d823bd166",
+    "title": "PHILIPS 2025 NEW SFL1121 EDC Flashlight LED Rechargeable Mini EDC Keychain Flashlights…",
+    "source": "aliexpress",
+    "geo": "GLOBAL",
+    "score": 81,
+    "keywords": [
+      "philips",
+      "sfl1121",
+      "edc",
+      "flashlight",
+      "led",
+      "rechargeable",
+      "mini",
+      "edc"
+    ],
+    "query": "philips sfl1121 edc flashlight",
+    "category": "tech",
+    "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005007987815484:12000043169412739&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+    "traffic": "10000 sold",
+    "eligible": true,
+    "observedAt": "2026-11-10T12:49:00.899Z",
+    "signals": [
+      {
+        "source": "aliexpress",
+        "title": "PHILIPS 2025 NEW SFL1121 EDC Flashlight LED Rechargeable Mini EDC Keychain Flashlights…",
+        "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005007987815484:12000043169412739&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+        "traffic": "10000 sold",
+        "score": 81
+      }
+    ]
+  },
+  "offers": [
+    {
+      "supplier": "AliExpress",
+      "title": "PHILIPS 2025 NEW SFL1121 EDC Flashlight LED Rechargeable Mini EDC Keychain Flashlights Camping Lamp For Hiking Self Defense",
+      "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005007987815484:12000043169412739&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/Sd6633278269f467eb639ffad66f9ea1aN.jpg"
+      ],
+      "costZar": 18,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "Philips Mini Flashlight SFL1121 - High-intensity, Ultra-bright, Self-defense, Outdoor Emergency, Portable",
+      "url": "https://www.aliexpress.com/item/3256809420128146.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S67061b850e2342e5ab24fecefcd0f6453.jpeg"
+      ],
+      "costZar": 18,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "Philips 2025 New SFL1121 EDC Flashlight LED Rechargeable Mini EDC Keychain Flashlight Camping Light Hiking Self-defense Portable",
+      "url": "https://www.aliexpress.com/item/3256809419595469.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S80da4ac3a0f2448387d437972a20e7fdn.jpg"
+      ],
+      "costZar": 67,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "Philips New 7cm LED Rechargeable Mini Portable Flashlight 7 Lighting Modes For Hiking And Travel Self Defense",
+      "url": "https://www.aliexpress.com/item/3256806718293639.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S7ab2b280eba1497cb870b2656368a8f0X.jpg"
+      ],
+      "costZar": 58,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    }
+  ],
+  "chosen": {
+    "supplier": "AliExpress",
+    "title": "PHILIPS 2025 NEW SFL1121 EDC Flashlight LED Rechargeable Mini EDC Keychain Flashlights Camping Lamp For Hiking Self Defense",
+    "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005007987815484:12000043169412739&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+    "images": [
+      "https://ae-pic-a1.aliexpress-media.com/kf/Sd6633278269f467eb639ffad66f9ea1aN.jpg"
+    ],
+    "costZar": 18,
+    "shippingZar": 65,
+    "deliveryDays": [
+      10,
+      18
+    ],
+    "inStock": true,
+    "confidence": "high",
+    "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+  },
+  "decision": "Saved as draft (high confidence). Verify supplier and image before publishing.",
+  "localLeads": []
+}

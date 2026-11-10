@@ -1,0 +1,124 @@
+{
+  "generatedAt": "2026-11-10T12:49:12.279Z",
+  "trend": {
+    "id": "t_412f58a720",
+    "title": "2in1 Kitchen Spray Oil Dispenser Oil Sprayer Polisher Or Only Brush Spray for Air Fryer…",
+    "source": "aliexpress",
+    "geo": "GLOBAL",
+    "score": 81,
+    "keywords": [
+      "2in1",
+      "kitchen",
+      "spray",
+      "oil",
+      "dispenser",
+      "oil",
+      "sprayer",
+      "polisher"
+    ],
+    "query": "2in1 kitchen spray oil",
+    "category": "home",
+    "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005010044196353:12000050930527986&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+    "traffic": "50000 sold",
+    "eligible": true,
+    "observedAt": "2026-11-10T12:49:00.899Z",
+    "signals": [
+      {
+        "source": "aliexpress",
+        "title": "2in1 Kitchen Spray Oil Dispenser Oil Sprayer Polisher Or Only Brush Spray for Air Fryer…",
+        "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005010044196353:12000050930527986&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+        "traffic": "50000 sold",
+        "score": 81
+      }
+    ]
+  },
+  "offers": [
+    {
+      "supplier": "AliExpress",
+      "title": "2in1 Kitchen Spray Oil Dispenser Oil Sprayer Polisher Or Only Brush Spray for Air Fryer Salad Grilling Roasting Cooking Kitchen",
+      "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005010044196353:12000050930527986&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/Sfde6dccb010f46c698c36e88972c3143m.jpg"
+      ],
+      "costZar": 5,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "2in1 Glass Oil Spray Kitchen Oils Sprayer Spray Oil Sprayer BBQ Kitchen Baking for BBQ Air Fryer Salad Steak Kitchen Supplies",
+      "url": "https://www.aliexpress.com/item/3256807900409149.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/Sd7d04b18f41543068b6cf14fa430c26fv.jpg"
+      ],
+      "costZar": 18,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "2 in 1 Pour Spray Sprayer Kitchen Fryer Air Spray Oil Dispenser Bottle for Olive Oil Cooking Frying BBQ Camping Large Capacity",
+      "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005007345285158:12000040354570149&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S9e95fd17ea744d06a742b0a4f6ccd9efZ.jpg"
+      ],
+      "costZar": 22,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "Spray Oil Olive Sprayer 470 ML Oil Sprayer for Cooking, 2-in-1 Olive Oil Dispenser and Oil Bottle with Stickers, Thick Glass Spray Bottle",
+      "url": "https://www.aliexpress.com/item/3256809702790434.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/Sbadf39c8f148467a96364e8c36c9e14eK.png"
+      ],
+      "costZar": 18,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    }
+  ],
+  "chosen": {
+    "supplier": "AliExpress",
+    "title": "2in1 Kitchen Spray Oil Dispenser Oil Sprayer Polisher Or Only Brush Spray for Air Fryer Salad Grilling Roasting Cooking Kitchen",
+    "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005010044196353:12000050930527986&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+    "images": [
+      "https://ae-pic-a1.aliexpress-media.com/kf/Sfde6dccb010f46c698c36e88972c3143m.jpg"
+    ],
+    "costZar": 5,
+    "shippingZar": 65,
+    "deliveryDays": [
+      10,
+      18
+    ],
+    "inStock": true,
+    "confidence": "high",
+    "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+  },
+  "decision": "Saved as draft (high confidence). Verify supplier and image before publishing.",
+  "localLeads": []
+}
