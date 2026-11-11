@@ -1,0 +1,53 @@
+{
+  "generatedAt": "2026-11-11T11:58:41.137Z",
+  "trend": {
+    "id": "t_589c2d1eb1",
+    "title": "Funny Squeaky Plush Dog Toy Realistic Cigar Shape Interactive Chew Toy For Small Medium…",
+    "source": "aliexpress",
+    "geo": "GLOBAL",
+    "score": 81,
+    "keywords": [
+      "funny",
+      "squeaky",
+      "plush",
+      "dog",
+      "toy",
+      "realistic",
+      "cigar",
+      "shape"
+    ],
+    "query": "funny squeaky plush dog",
+    "category": "pets",
+    "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005008909016294:12000047159520309&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+    "traffic": "10000 sold",
+    "eligible": true,
+    "observedAt": "2026-11-11T11:58:28.952Z",
+    "signals": [
+      {
+        "source": "aliexpress",
+        "title": "Funny Squeaky Plush Dog Toy Realistic Cigar Shape Interactive Chew Toy For Small Medium…",
+        "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005008909016294:12000047159520309&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+        "traffic": "10000 sold",
+        "score": 81
+      }
+    ]
+  },
+  "offers": [],
+  "chosen": {
+    "supplier": "Estimated — verify supplier",
+    "title": "funny squeaky plush dog",
+    "url": "",
+    "images": [],
+    "costZar": 180,
+    "shippingZar": 65,
+    "deliveryDays": [
+      10,
+      18
+    ],
+    "inStock": true,
+    "confidence": "low",
+    "notes": "No verifiable supplier price found automatically. Confirm a supplier, landed cost, and image before publishing."
+  },
+  "decision": "Saved as draft (low confidence). Verify supplier and image before publishing.",
+  "localLeads": []
+}

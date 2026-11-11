@@ -1,0 +1,124 @@
+{
+  "generatedAt": "2026-11-11T11:58:41.137Z",
+  "trend": {
+    "id": "t_f66c8fbc3a",
+    "title": "3 in 1 Night Light Wireless Charger Stand For iPhone 17 16 15 14 13 12 Apple Watch…",
+    "source": "aliexpress",
+    "geo": "GLOBAL",
+    "score": 83.40167756707282,
+    "keywords": [
+      "night",
+      "light",
+      "wireless",
+      "charger",
+      "stand",
+      "iphone",
+      "apple",
+      "watch"
+    ],
+    "query": "night light wireless charger",
+    "category": "tech",
+    "url": "https://www.aliexpress.com/item/3256809343576315.html",
+    "traffic": "478 sold",
+    "eligible": true,
+    "observedAt": "2026-11-11T11:58:28.952Z",
+    "signals": [
+      {
+        "source": "aliexpress",
+        "title": "3 in 1 Night Light Wireless Charger Stand For iPhone 17 16 15 14 13 12 Apple Watch…",
+        "url": "https://www.aliexpress.com/item/3256809343576315.html",
+        "traffic": "478 sold",
+        "score": 83.40167756707282
+      }
+    ]
+  },
+  "offers": [
+    {
+      "supplier": "AliExpress",
+      "title": "Wireless Charging Station 3 In 1 Magnetic Charger 15W Fast Charging Stand Dock For iPhone 15 14 13 12 Pro Max Mini Apple Watch Series 9 8 7 6 5 4 3 2 SE AirPods Pro 2 With RGB Night Light Alarm Clock Foldable Portable Travel Office Desk Organizer",
+      "url": "https://www.aliexpress.com/item/3256812781476142.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S0d6f1c580a61437784bd4a283db88f216.jpg"
+      ],
+      "costZar": 194,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "TIMESS Night Light Mashroom Wireless Charger 3-IN-1 For iPhone17 16 15 14 PRO MAX For Airpods For Apple Watch Charging Station",
+      "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005012221748526:12000057789453151&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/Sd4382d0e48064a98bea225f7e2f09059O.png"
+      ],
+      "costZar": 330,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "Mirror Surface Wireless Charger Pad Fast Charging LED Light For iPhone Android Universal Desktop Charging Station Home Daily Use",
+      "url": "https://www.aliexpress.com/item/3256812108760905.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S41bb1f1e82594d438063243e1dac28faa.jpg"
+      ],
+      "costZar": 18,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "Light Wireless Charger 3 in 1 15W Fast Wireless Charger Magnetic Stand 6 Color RGB Light Multi Device Charging Station for Apple Devices iPhone AirPods Apple Watch Home Office Desk Bedside Table Organizer Travel Foldable",
+      "url": "https://www.aliexpress.com/item/3256813067633431.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S4f54d15b92b746b581bc5b5104825377J.jpg"
+      ],
+      "costZar": 321,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    }
+  ],
+  "chosen": {
+    "supplier": "AliExpress",
+    "title": "Mirror Surface Wireless Charger Pad Fast Charging LED Light For iPhone Android Universal Desktop Charging Station Home Daily Use",
+    "url": "https://www.aliexpress.com/item/3256812108760905.html",
+    "images": [
+      "https://ae-pic-a1.aliexpress-media.com/kf/S41bb1f1e82594d438063243e1dac28faa.jpg"
+    ],
+    "costZar": 18,
+    "shippingZar": 65,
+    "deliveryDays": [
+      10,
+      18
+    ],
+    "inStock": true,
+    "confidence": "high",
+    "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+  },
+  "decision": "Saved as draft (high confidence). Verify supplier and image before publishing.",
+  "localLeads": []
+}

@@ -1,0 +1,124 @@
+{
+  "generatedAt": "2026-11-11T11:58:41.137Z",
+  "trend": {
+    "id": "t_65a7f850b0",
+    "title": "MINI Sunset Led Night Light Creative USB Rechargeable Mushroom Desk Lamp Room Decor…",
+    "source": "aliexpress",
+    "geo": "GLOBAL",
+    "score": 83.77145380850564,
+    "keywords": [
+      "mini",
+      "sunset",
+      "led",
+      "night",
+      "light",
+      "creative",
+      "usb",
+      "rechargeable"
+    ],
+    "query": "mini sunset led night",
+    "category": "home",
+    "url": "https://www.aliexpress.com/item/3256807958645467.html",
+    "traffic": "9000 sold",
+    "eligible": true,
+    "observedAt": "2026-11-11T11:58:28.952Z",
+    "signals": [
+      {
+        "source": "aliexpress",
+        "title": "MINI Sunset Led Night Light Creative USB Rechargeable Mushroom Desk Lamp Room Decor…",
+        "url": "https://www.aliexpress.com/item/3256807958645467.html",
+        "traffic": "9000 sold",
+        "score": 83.77145380850564
+      }
+    ]
+  },
+  "offers": [
+    {
+      "supplier": "AliExpress",
+      "title": "MINI Sunset Led Night Light Creative USB Rechargeable Mushroom Desk Lamp Room Decor Atmosphere Night Lights For Bedroom Bedside",
+      "url": "https://www.aliexpress.com/item/3256807958645467.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S5fc8839e06c2414f900035020378e094V.png"
+      ],
+      "costZar": 18,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "Sunset Light Projection Light With Remote Control 16-Color Night Light RGB Color Changing LED Light Bedroom Photography Prop",
+      "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005009460626162:12000049174712107&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/See9ca3aef6594e29909bfc46392e13a8w.png"
+      ],
+      "costZar": 5,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "USB Sunset Light Mobile Phone Self Photography Light LED Rainbow Neon Night Light Projector Photography Wall Atmosphere Light",
+      "url": "https://www.aliexpress.com/item/3256812217544541.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/Sbbf11ea9820241f4adfccc7a04dbf2bes.jpg"
+      ],
+      "costZar": 18,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "Mini LED Night Light Creative Mini Rotating Light LED Touch Night Light Portable Folding Cultural And Creative Atmosphere Light Holiday Small Gifts",
+      "url": "https://www.aliexpress.com/item/3256812049577855.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S5cad53bea61949b0865e605cf323cc52J.jpg"
+      ],
+      "costZar": 18,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    }
+  ],
+  "chosen": {
+    "supplier": "AliExpress",
+    "title": "Sunset Light Projection Light With Remote Control 16-Color Night Light RGB Color Changing LED Light Bedroom Photography Prop",
+    "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005009460626162:12000049174712107&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+    "images": [
+      "https://ae-pic-a1.aliexpress-media.com/kf/See9ca3aef6594e29909bfc46392e13a8w.png"
+    ],
+    "costZar": 5,
+    "shippingZar": 65,
+    "deliveryDays": [
+      10,
+      18
+    ],
+    "inStock": true,
+    "confidence": "high",
+    "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+  },
+  "decision": "Saved as draft (high confidence). Verify supplier and image before publishing.",
+  "localLeads": []
+}
