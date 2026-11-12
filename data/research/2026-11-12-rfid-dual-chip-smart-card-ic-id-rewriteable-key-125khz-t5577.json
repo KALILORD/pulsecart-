@@ -1,0 +1,118 @@
+{
+  "generatedAt": "2026-11-12T12:58:58.428Z",
+  "trend": {
+    "id": "t_bd019cc6a1",
+    "title": "smart-id",
+    "source": "google-trends",
+    "geo": "ZA",
+    "score": 82,
+    "keywords": [
+      "smart"
+    ],
+    "query": "smart-id",
+    "event": "Good news for Capitec, Absa, FNB and Standard Bank customers in South Africa – with more banks to come",
+    "category": "tech",
+    "url": "https://trends.google.com/trending/rss?geo=ZA",
+    "traffic": "1000+",
+    "eligible": true,
+    "observedAt": "2026-11-12T12:58:46.619Z",
+    "signals": [
+      {
+        "source": "google-trends",
+        "title": "smart-id",
+        "url": "https://trends.google.com/trending/rss?geo=ZA",
+        "traffic": "1000+",
+        "score": 82
+      }
+    ]
+  },
+  "offers": [
+    {
+      "supplier": "AliExpress",
+      "title": "RFID Dual Chip Smart Card IC ID Rewriteable Key 125Khz T5577 EM4305 Clone Tag 13.56Mhz UID Changeable ISO14443 Copy Token",
+      "url": "https://www.aliexpress.com/item/3256808045078191.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/Sab488eafc82840b88b88787cd32c5863T.jpg"
+      ],
+      "costZar": 18,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "500pcs / Lot RFID Card Thin Pvc Card TK4100 125khz ISO11785 Smart ID Cards Key Card Door Entry Systems",
+      "url": "https://www.aliexpress.com/item/2251832612786536.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/H3324e08d4fd541ba9d6fe99322f54799S.jpg"
+      ],
+      "costZar": 1707,
+      "shippingZar": 0,
+      "deliveryDays": [
+        7,
+        14
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "NFC Dog Tag, NFC Smart Pet ID Tag Self-Made, Program the Link of Online Pet Profile, Pet Video, Digital Pet Tag, Durable Pet ID",
+      "url": "https://www.aliexpress.com/item/3256807723743515.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S93fc17ecd90945aab49dfbcd0184d32cC.jpg"
+      ],
+      "costZar": 18,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "Free shipping 50PCS/Lot 125KHZ Printable PVC RFID Smart ID Blank Card With TK4100/EM4100 Chip For Epson / Canon Inkjet Printer",
+      "url": "https://www.aliexpress.com/item/2251832593883430.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/H1ee4f9e9c1214978b17e9dc95fdf2340z.jpg"
+      ],
+      "costZar": 523,
+      "shippingZar": 0,
+      "deliveryDays": [
+        7,
+        14
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    }
+  ],
+  "chosen": {
+    "supplier": "AliExpress",
+    "title": "RFID Dual Chip Smart Card IC ID Rewriteable Key 125Khz T5577 EM4305 Clone Tag 13.56Mhz UID Changeable ISO14443 Copy Token",
+    "url": "https://www.aliexpress.com/item/3256808045078191.html",
+    "images": [
+      "https://ae-pic-a1.aliexpress-media.com/kf/Sab488eafc82840b88b88787cd32c5863T.jpg"
+    ],
+    "costZar": 18,
+    "shippingZar": 65,
+    "deliveryDays": [
+      10,
+      18
+    ],
+    "inStock": true,
+    "confidence": "high",
+    "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+  },
+  "decision": "Saved as draft (high confidence). Verify supplier and image before publishing.",
+  "localLeads": []
+}

@@ -1,0 +1,53 @@
+{
+  "generatedAt": "2026-11-12T12:58:58.428Z",
+  "trend": {
+    "id": "t_dcfb042c52",
+    "title": "Tools 2026 New Upgrade Visual Ear Wax Cleaner Camera Safe Earwax Removal Endoscope with…",
+    "source": "aliexpress",
+    "geo": "GLOBAL",
+    "score": 81.77362395489531,
+    "keywords": [
+      "tools",
+      "upgrade",
+      "visual",
+      "ear",
+      "wax",
+      "cleaner",
+      "camera",
+      "safe"
+    ],
+    "query": "tools upgrade visual ear",
+    "category": "tech",
+    "url": "https://www.aliexpress.com/item/3256811717418429.html",
+    "traffic": "900 sold",
+    "eligible": true,
+    "observedAt": "2026-11-12T12:58:46.065Z",
+    "signals": [
+      {
+        "source": "aliexpress",
+        "title": "Tools 2026 New Upgrade Visual Ear Wax Cleaner Camera Safe Earwax Removal Endoscope with…",
+        "url": "https://www.aliexpress.com/item/3256811717418429.html",
+        "traffic": "900 sold",
+        "score": 81.77362395489531
+      }
+    ]
+  },
+  "offers": [],
+  "chosen": {
+    "supplier": "Estimated — verify supplier",
+    "title": "tools upgrade visual ear",
+    "url": "",
+    "images": [],
+    "costZar": 255,
+    "shippingZar": 65,
+    "deliveryDays": [
+      10,
+      18
+    ],
+    "inStock": true,
+    "confidence": "low",
+    "notes": "No verifiable supplier price found automatically. Confirm a supplier, landed cost, and image before publishing."
+  },
+  "decision": "Saved as draft (low confidence). Verify supplier and image before publishing.",
+  "localLeads": []
+}

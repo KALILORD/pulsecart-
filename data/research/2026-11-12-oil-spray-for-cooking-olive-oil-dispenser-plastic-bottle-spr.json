@@ -1,0 +1,124 @@
+{
+  "generatedAt": "2026-11-12T12:58:58.428Z",
+  "trend": {
+    "id": "t_c4dbcc37c1",
+    "title": "Olive Oil Dispenser Plastic Bottle for Kitchen Gadgets Air Fryer Accessories Olive Oil…",
+    "source": "aliexpress",
+    "geo": "GLOBAL",
+    "score": 86.4,
+    "keywords": [
+      "olive",
+      "oil",
+      "dispenser",
+      "plastic",
+      "bottle",
+      "kitchen",
+      "gadgets",
+      "air"
+    ],
+    "query": "olive oil dispenser plastic",
+    "category": "home",
+    "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005010323716760:12000060190346749&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+    "traffic": "10000 sold",
+    "eligible": true,
+    "observedAt": "2026-11-12T12:58:46.065Z",
+    "signals": [
+      {
+        "source": "aliexpress",
+        "title": "Olive Oil Dispenser Plastic Bottle for Kitchen Gadgets Air Fryer Accessories Olive Oil…",
+        "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005010323716760:12000060190346749&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+        "traffic": "10000 sold",
+        "score": 86.4
+      }
+    ]
+  },
+  "offers": [
+    {
+      "supplier": "AliExpress",
+      "title": "Olive Oil Dispenser Plastic Bottle for Kitchen Gadgets Air Fryer Accessories Olive Oil Sprayer Cooking Light-Blocking Dark Green",
+      "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005010323716760:12000060190346749&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S315bdeeb0a6145ccb9bee93287b080d2t.jpg"
+      ],
+      "costZar": 72,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "Oil Spray for Cooking Olive Oil Dispenser Plastic Bottle Sprayer Mist-Reusable Food Grade Oil Vinegar Spray Kitchen Accessories",
+      "url": "https://www.aliexpress.com/item/3256810166486227.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/Sbc0505ebe8ca4cdc8151cadc492af19f3.jpg"
+      ],
+      "costZar": 18,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "2-in-1 Oil Sprayer Dispenser Olive Oil Dispenser Oil Spray Bottle Plastic Spray Bottle for Cooking Air Fryer BBQ Baking Salad",
+      "url": "https://www.aliexpress.com/item/3256808746436017.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S2f58af872ca94c7a8a17f2986ec398dep.jpg"
+      ],
+      "costZar": 18,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "Olive Oil Dispenser Plastic For Baking 2in1 Olive Oil Spray Bottle 500ml Plastic Oil Sprayer Kitchen Oil Containers Cooking Olive Oil Dispenser For Camping BBQ Baking",
+      "url": "https://www.aliexpress.com/item/3256806678518179.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/Sec287b21e71a4f4b997d7060404a02a8V.png"
+      ],
+      "costZar": 18,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    }
+  ],
+  "chosen": {
+    "supplier": "AliExpress",
+    "title": "Oil Spray for Cooking Olive Oil Dispenser Plastic Bottle Sprayer Mist-Reusable Food Grade Oil Vinegar Spray Kitchen Accessories",
+    "url": "https://www.aliexpress.com/item/3256810166486227.html",
+    "images": [
+      "https://ae-pic-a1.aliexpress-media.com/kf/Sbc0505ebe8ca4cdc8151cadc492af19f3.jpg"
+    ],
+    "costZar": 18,
+    "shippingZar": 65,
+    "deliveryDays": [
+      10,
+      18
+    ],
+    "inStock": true,
+    "confidence": "high",
+    "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+  },
+  "decision": "Saved as draft (high confidence). Verify supplier and image before publishing.",
+  "localLeads": []
+}

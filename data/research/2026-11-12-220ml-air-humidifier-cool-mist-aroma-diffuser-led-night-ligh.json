@@ -1,0 +1,124 @@
+{
+  "generatedAt": "2026-11-12T12:58:58.428Z",
+  "trend": {
+    "id": "t_71fb21e3d9",
+    "title": "220ML Air Humidifier Cool Mist Aroma Diffuser LED Night Light Power-Off Protect USB…",
+    "source": "aliexpress",
+    "geo": "GLOBAL",
+    "score": 85.49528427273833,
+    "keywords": [
+      "220ml",
+      "air",
+      "humidifier",
+      "cool",
+      "mist",
+      "aroma",
+      "diffuser",
+      "led"
+    ],
+    "query": "220ml air humidifier cool",
+    "category": "home",
+    "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005011653853619:12000056156531784&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+    "traffic": "5000 sold",
+    "eligible": true,
+    "observedAt": "2026-11-12T12:58:46.065Z",
+    "signals": [
+      {
+        "source": "aliexpress",
+        "title": "220ML Air Humidifier Cool Mist Aroma Diffuser LED Night Light Power-Off Protect USB…",
+        "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005011653853619:12000056156531784&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+        "traffic": "5000 sold",
+        "score": 85.49528427273833
+      }
+    ]
+  },
+  "offers": [
+    {
+      "supplier": "AliExpress",
+      "title": "220ML Air Humidifier Cool Mist Aroma Diffuser LED Night Light Power-Off Protect USB Humidificador For Home Office",
+      "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005011653853619:12000056156531784&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S3d1528d61ade4bdb876146adf1f0da756.jpg"
+      ],
+      "costZar": 5,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "ABS Water Drop 220ML Small Air Humidifiers for Home with 1M USB 6-10H Spray Diffuser Aroma Essential Mist Maker Colorful Light",
+      "url": "https://www.aliexpress.com/item/3256812922855076.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/Sb2378e8e0ac14352ae539659e72ab4fa8.jpg"
+      ],
+      "costZar": 18,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "Mini Humidifier Portable USB Cool Mist Humidifier with Night Light 220ml Ultra-Quiet Aroma Diffuser for the Bedroom Home Office",
+      "url": "https://www.aliexpress.com/item/3256813136591832.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S698e141f1db0453b837f9d30fc50ef51r.jpg"
+      ],
+      "costZar": 18,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "Air Humidifier Cool Flame Effect Ultrasonic Cool Mist Humidifier & Aroma Diffuser, 7 Colors LED Night Light Quiet Air Humidifier for Home Bedroom",
+      "url": "https://www.aliexpress.com/item/3256811373859377.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S27979be81a524253b2e31c42b7e00a0bA.png"
+      ],
+      "costZar": 173,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    }
+  ],
+  "chosen": {
+    "supplier": "AliExpress",
+    "title": "220ML Air Humidifier Cool Mist Aroma Diffuser LED Night Light Power-Off Protect USB Humidificador For Home Office",
+    "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005011653853619:12000056156531784&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+    "images": [
+      "https://ae-pic-a1.aliexpress-media.com/kf/S3d1528d61ade4bdb876146adf1f0da756.jpg"
+    ],
+    "costZar": 5,
+    "shippingZar": 65,
+    "deliveryDays": [
+      10,
+      18
+    ],
+    "inStock": true,
+    "confidence": "high",
+    "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+  },
+  "decision": "Saved as draft (high confidence). Verify supplier and image before publishing.",
+  "localLeads": []
+}
