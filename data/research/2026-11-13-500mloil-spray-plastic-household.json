@@ -1,0 +1,53 @@
+{
+  "generatedAt": "2026-11-13T12:25:10.075Z",
+  "trend": {
+    "id": "t_c152414a7e",
+    "title": "200/300/500mlOil Spray Plastic Household Kitchen Oil Spray Bottle Or Oil Brush…",
+    "source": "aliexpress",
+    "geo": "GLOBAL",
+    "score": 81,
+    "keywords": [
+      "500mloil",
+      "spray",
+      "plastic",
+      "household",
+      "kitchen",
+      "oil",
+      "spray",
+      "bottle"
+    ],
+    "query": "500mloil spray plastic household",
+    "category": "kitchen",
+    "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005007702809063:12000041913196112&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+    "traffic": "30000 sold",
+    "eligible": true,
+    "observedAt": "2026-11-13T12:24:59.148Z",
+    "signals": [
+      {
+        "source": "aliexpress",
+        "title": "200/300/500mlOil Spray Plastic Household Kitchen Oil Spray Bottle Or Oil Brush…",
+        "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005007702809063:12000041913196112&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+        "traffic": "30000 sold",
+        "score": 81
+      }
+    ]
+  },
+  "offers": [],
+  "chosen": {
+    "supplier": "Estimated — verify supplier",
+    "title": "500mloil spray plastic household",
+    "url": "",
+    "images": [],
+    "costZar": 260,
+    "shippingZar": 65,
+    "deliveryDays": [
+      10,
+      18
+    ],
+    "inStock": true,
+    "confidence": "low",
+    "notes": "No verifiable supplier price found automatically. Confirm a supplier, landed cost, and image before publishing."
+  },
+  "decision": "Saved as draft (low confidence). Verify supplier and image before publishing.",
+  "localLeads": []
+}

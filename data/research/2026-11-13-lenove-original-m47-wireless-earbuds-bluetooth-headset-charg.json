@@ -1,0 +1,124 @@
+{
+  "generatedAt": "2026-11-13T12:25:10.075Z",
+  "trend": {
+    "id": "t_efc9bd70f6",
+    "title": "Lenove Original M47 Wireless Earbuds Bluetooth Headset Charging Earphones Bone…",
+    "source": "aliexpress",
+    "geo": "GLOBAL",
+    "score": 82.01084275689499,
+    "keywords": [
+      "lenove",
+      "original",
+      "m47",
+      "wireless",
+      "earbuds",
+      "bluetooth",
+      "headset",
+      "charging"
+    ],
+    "query": "lenove original m47 wireless",
+    "category": "tech",
+    "url": "https://www.aliexpress.com/item/3256812446184514.html",
+    "traffic": "4000 sold",
+    "eligible": true,
+    "observedAt": "2026-11-13T12:24:59.148Z",
+    "signals": [
+      {
+        "source": "aliexpress",
+        "title": "Lenove Original M47 Wireless Earbuds Bluetooth Headset Charging Earphones Bone…",
+        "url": "https://www.aliexpress.com/item/3256812446184514.html",
+        "traffic": "4000 sold",
+        "score": 82.01084275689499
+      }
+    ]
+  },
+  "offers": [
+    {
+      "supplier": "AliExpress",
+      "title": "Lenove Original M47 Wireless Earbuds Bluetooth Headset Charging Earphones Bone Conduction Headphones",
+      "url": "https://www.aliexpress.com/item/3256812446184514.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/Sbe95d52267914ee7a89f3c7adebc4f74H.jpg"
+      ],
+      "costZar": 18,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "Lenovo Wireless Bluetooth Earphones Over-ear Foldable Computer Wireless Headphones Stereo Sound Gaming Headset Android and iOS",
+      "url": "https://www.aliexpress.com/item/3256812252507890.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/Sa2c1db76f2324781a0ce6b1902714de5d.jpg"
+      ],
+      "costZar": 212,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "CHUWI MiniBook X Touch Screen Tablet Laptop 2-in-1 Intel U300 16GB LPDDR4X 512G SSD 10.51'' 2K FHD Notebook WiFi6 Windows 11 Convenient Office Computer",
+      "url": "https://www.aliexpress.com/item/3256809686507595.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S8fb463c1e3f34a5abee01f42af2d98dfa.jpg"
+      ],
+      "costZar": 6188,
+      "shippingZar": 0,
+      "deliveryDays": [
+        7,
+        14
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "Portable Magnetic Phone Holder & Selfie Stick 3-in-1 Foldable Tripod Stand for iPhone iPad Tablet Laptop Desktop Use",
+      "url": "https://www.aliexpress.com/item/3256813405354217.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S374e0fff57274e339a0b83fb5919329eE.png"
+      ],
+      "costZar": 139,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    }
+  ],
+  "chosen": {
+    "supplier": "AliExpress",
+    "title": "Lenove Original M47 Wireless Earbuds Bluetooth Headset Charging Earphones Bone Conduction Headphones",
+    "url": "https://www.aliexpress.com/item/3256812446184514.html",
+    "images": [
+      "https://ae-pic-a1.aliexpress-media.com/kf/Sbe95d52267914ee7a89f3c7adebc4f74H.jpg"
+    ],
+    "costZar": 18,
+    "shippingZar": 65,
+    "deliveryDays": [
+      10,
+      18
+    ],
+    "inStock": true,
+    "confidence": "high",
+    "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+  },
+  "decision": "Saved as draft (high confidence). Verify supplier and image before publishing.",
+  "localLeads": []
+}

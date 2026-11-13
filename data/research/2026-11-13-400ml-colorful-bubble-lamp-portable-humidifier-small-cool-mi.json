@@ -1,0 +1,124 @@
+{
+  "generatedAt": "2026-11-13T12:25:10.075Z",
+  "trend": {
+    "id": "t_f42ead3e50",
+    "title": "6 Color 400ml Portable USB Blender Electric Travel Juicer Cup For Smoothie Milkshake…",
+    "source": "aliexpress",
+    "geo": "GLOBAL",
+    "score": 81.9,
+    "keywords": [
+      "color",
+      "400ml",
+      "portable",
+      "usb",
+      "blender",
+      "electric",
+      "travel",
+      "juicer"
+    ],
+    "query": "color 400ml portable usb",
+    "category": "kitchen",
+    "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005010510364368:12000052641786739&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+    "traffic": "10000 sold",
+    "eligible": true,
+    "observedAt": "2026-11-13T12:24:59.148Z",
+    "signals": [
+      {
+        "source": "aliexpress",
+        "title": "6 Color 400ml Portable USB Blender Electric Travel Juicer Cup For Smoothie Milkshake…",
+        "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005010510364368:12000052641786739&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+        "traffic": "10000 sold",
+        "score": 81.9
+      }
+    ]
+  },
+  "offers": [
+    {
+      "supplier": "AliExpress",
+      "title": "6 Color 400ml Portable USB Blender Electric Travel Juicer Cup For Smoothie Milkshake Kitchen Mini Mixer Tool",
+      "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005010510364368:12000052641786739&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S060ad94664b44de0bf39b199b2dfc192l.jpg"
+      ],
+      "costZar": 94,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "400ml Large Capacity USB Electric Juicer Cup Portable Hand Shake Wireless Juice Blender",
+      "url": "https://www.aliexpress.com/item/3256811955879352.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S4478fb757d424101bd0608b7a5721f1fQ.jpg"
+      ],
+      "costZar": 54,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "400ml Colorful Bubble Lamp Portable Humidifier Small Cool Mist USB Personal Desktop Humidifier for Bedroom, Travel, Office, Home",
+      "url": "https://www.aliexpress.com/item/3256806085045929.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S6eb60365a1874ab6b5a737f99fe9d1eeu.jpg"
+      ],
+      "costZar": 18,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "Portable Electric Juicer Cup Wireless Mini Fruit Blender USB Charging 6 Blade Fruit Mixers 400ml Cup Kitchen Juice Maker Machine",
+      "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005007937939595:12000042937783808&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/Sa1fa47f32434455a9dc5b0a8ab52a26e0.jpg"
+      ],
+      "costZar": 106,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    }
+  ],
+  "chosen": {
+    "supplier": "AliExpress",
+    "title": "400ml Colorful Bubble Lamp Portable Humidifier Small Cool Mist USB Personal Desktop Humidifier for Bedroom, Travel, Office, Home",
+    "url": "https://www.aliexpress.com/item/3256806085045929.html",
+    "images": [
+      "https://ae-pic-a1.aliexpress-media.com/kf/S6eb60365a1874ab6b5a737f99fe9d1eeu.jpg"
+    ],
+    "costZar": 18,
+    "shippingZar": 65,
+    "deliveryDays": [
+      10,
+      18
+    ],
+    "inStock": true,
+    "confidence": "high",
+    "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+  },
+  "decision": "Saved as draft (high confidence). Verify supplier and image before publishing.",
+  "localLeads": []
+}
