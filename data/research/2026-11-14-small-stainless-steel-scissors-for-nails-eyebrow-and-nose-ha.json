@@ -1,0 +1,124 @@
+{
+  "generatedAt": "2026-11-14T11:37:58.590Z",
+  "trend": {
+    "id": "t_07efc35774",
+    "title": "Small Stainless Steel Scissors For Nails, Eyebrow And Nose Hair Scissors, Nail Trimmers…",
+    "source": "aliexpress",
+    "geo": "GLOBAL",
+    "score": 81,
+    "keywords": [
+      "small",
+      "stainless",
+      "steel",
+      "scissors",
+      "nails",
+      "eyebrow",
+      "nose",
+      "hair"
+    ],
+    "query": "small stainless steel scissors",
+    "category": "beauty",
+    "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005008248038890:12000044371400598&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+    "traffic": "10000 sold",
+    "eligible": true,
+    "observedAt": "2026-11-14T11:37:47.867Z",
+    "signals": [
+      {
+        "source": "aliexpress",
+        "title": "Small Stainless Steel Scissors For Nails, Eyebrow And Nose Hair Scissors, Nail Trimmers…",
+        "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005008248038890:12000044371400598&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+        "traffic": "10000 sold",
+        "score": 81
+      }
+    ]
+  },
+  "offers": [
+    {
+      "supplier": "AliExpress",
+      "title": "1PC Silver Mirror Light Black Round Head Safety Nose Hair Scissors Neutral Stainless Steel Scissors 2042",
+      "url": "https://www.aliexpress.com/item/3256811990785846.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S76dbf869920549a5b69e69990a9f4c20o.jpg"
+      ],
+      "costZar": 116,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "3/5/7mm Wave Lace Dressmaker's Shears Stainless Steel Hand Scissors DIY Necessary Sewing Tools Tailor's Scissors",
+      "url": "https://www.aliexpress.com/item/3256813341540650.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/Sb873cd5cd9a541db99de5efcc43143f0M.jpg"
+      ],
+      "costZar": 18,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "Small Stainless Steel Scissors For Nails, Eyebrow And Nose Hair Scissors, Nail Trimmers, Facial Trimmers, Makeup And Beauty Tool",
+      "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005008248038890:12000044371400598&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S302491d7d1f8440c8b41fa19dd98d9c9N.jpg"
+      ],
+      "costZar": 6,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "Small Stainless Steel Scissors Nail Dead Skin Clippers Convenient Dead Skin Trimming Stainless Steel Dead Skin ClampBeauty Scissors Small Scissors",
+      "url": "https://www.aliexpress.com/item/3256813333948152.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S94b7ab9f999b4bf98c3bba3bc3759eb55.jpg"
+      ],
+      "costZar": 18,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    }
+  ],
+  "chosen": {
+    "supplier": "AliExpress",
+    "title": "Small Stainless Steel Scissors For Nails, Eyebrow And Nose Hair Scissors, Nail Trimmers, Facial Trimmers, Makeup And Beauty Tool",
+    "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005008248038890:12000044371400598&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+    "images": [
+      "https://ae-pic-a1.aliexpress-media.com/kf/S302491d7d1f8440c8b41fa19dd98d9c9N.jpg"
+    ],
+    "costZar": 6,
+    "shippingZar": 65,
+    "deliveryDays": [
+      10,
+      18
+    ],
+    "inStock": true,
+    "confidence": "high",
+    "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+  },
+  "decision": "Saved as draft (high confidence). Verify supplier and image before publishing.",
+  "localLeads": []
+}

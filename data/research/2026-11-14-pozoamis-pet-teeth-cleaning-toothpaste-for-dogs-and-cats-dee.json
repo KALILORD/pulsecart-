@@ -1,0 +1,124 @@
+{
+  "generatedAt": "2026-11-14T11:37:58.590Z",
+  "trend": {
+    "id": "t_cee12b6107",
+    "title": "Pet Accessories Cleaning Products Pet Hair Remover Portable Washable Clothes Hair…",
+    "source": "aliexpress",
+    "geo": "GLOBAL",
+    "score": 81,
+    "keywords": [
+      "pet",
+      "accessories",
+      "cleaning",
+      "products",
+      "pet",
+      "hair",
+      "remover",
+      "portable"
+    ],
+    "query": "pet accessories cleaning products",
+    "category": "beauty",
+    "url": "https://www.aliexpress.com/item/3256811986760355.html",
+    "traffic": "50000 sold",
+    "eligible": true,
+    "observedAt": "2026-11-14T11:37:47.867Z",
+    "signals": [
+      {
+        "source": "aliexpress",
+        "title": "Pet Accessories Cleaning Products Pet Hair Remover Portable Washable Clothes Hair…",
+        "url": "https://www.aliexpress.com/item/3256811986760355.html",
+        "traffic": "50000 sold",
+        "score": 81
+      }
+    ]
+  },
+  "offers": [
+    {
+      "supplier": "AliExpress",
+      "title": "POZOAMIS Pet Teeth Cleaning Toothpaste For Dogs And Cats Deep Teeth Cleaning Removes Plaque Tartar Long-lasting Fresh Breath Odor-Eliminating Product Dental Care For Young Adult Pets Pet Supplies",
+      "url": "https://www.aliexpress.com/item/3256812854149797.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/Sb05d547fad7d469788cf6b4b7b1751dfu.jpg"
+      ],
+      "costZar": 18,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "Pet Hair Remover Portable Washable Clothes Hair Dehairing Gloves Pet Cleaning Products Pet Accessories",
+      "url": "https://www.aliexpress.com/item/3256809343689900.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/Sade185e78e434890be4e32d8ac2d089bJ.jpg"
+      ],
+      "costZar": 51,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "Pet Hair Remover Portable Washable Clothes Hair Dehairing Gloves Pet Cleaning Products Pet Accessories",
+      "url": "https://www.aliexpress.com/item/3256811986760355.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S256b5b9f0d4e4433a0b7f8d49aafd297j.jpg"
+      ],
+      "costZar": 31,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "Pet Product Toilet Mat Waterproof Cat Litter Mat Large Size Waterproof Pet Toilet Cat Litter Trapping Mat Non Slip Double Layer Cats Litter Box Pad Pet Product",
+      "url": "https://www.aliexpress.com/item/3256808487535849.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S066a4c51f43a41bb953a35d20a89208dm.png"
+      ],
+      "costZar": 18,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    }
+  ],
+  "chosen": {
+    "supplier": "AliExpress",
+    "title": "POZOAMIS Pet Teeth Cleaning Toothpaste For Dogs And Cats Deep Teeth Cleaning Removes Plaque Tartar Long-lasting Fresh Breath Odor-Eliminating Product Dental Care For Young Adult Pets Pet Supplies",
+    "url": "https://www.aliexpress.com/item/3256812854149797.html",
+    "images": [
+      "https://ae-pic-a1.aliexpress-media.com/kf/Sb05d547fad7d469788cf6b4b7b1751dfu.jpg"
+    ],
+    "costZar": 18,
+    "shippingZar": 65,
+    "deliveryDays": [
+      10,
+      18
+    ],
+    "inStock": true,
+    "confidence": "high",
+    "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+  },
+  "decision": "Saved as draft (high confidence). Verify supplier and image before publishing.",
+  "localLeads": []
+}

@@ -1,0 +1,124 @@
+{
+  "generatedAt": "2026-11-14T11:37:58.590Z",
+  "trend": {
+    "id": "t_b8e2e921fb",
+    "title": "New 8M/Roll PE Facial Tape Professional Lift Wrinkles Cosplay Makeup Tape Transparent…",
+    "source": "aliexpress",
+    "geo": "GLOBAL",
+    "score": 81,
+    "keywords": [
+      "roll",
+      "facial",
+      "tape",
+      "professional",
+      "lift",
+      "wrinkles",
+      "cosplay",
+      "makeup"
+    ],
+    "query": "roll facial tape professional",
+    "category": "beauty",
+    "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005010572827230:12000052858604882&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+    "traffic": "10000 sold",
+    "eligible": true,
+    "observedAt": "2026-11-14T11:37:47.867Z",
+    "signals": [
+      {
+        "source": "aliexpress",
+        "title": "New 8M/Roll PE Facial Tape Professional Lift Wrinkles Cosplay Makeup Tape Transparent…",
+        "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005010572827230:12000052858604882&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+        "traffic": "10000 sold",
+        "score": 81
+      }
+    ]
+  },
+  "offers": [
+    {
+      "supplier": "AliExpress",
+      "title": "New 8M/Roll PE Facial Tape Professional Lift Wrinkles Cosplay Makeup Tape Transparent Beauty Makeup Tool V-Line Face Lift Tape",
+      "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005010572827230:12000052858604882&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S45af5ae85b194d54b979929c77a58788V.jpg"
+      ],
+      "costZar": 6,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "Face and Neck Wrinkle Removal Tape - Smooth Multipurpose High Elasticity Face Sticker for Forehead, Neck, Lips, Chin Care Tool",
+      "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005006966208906:12000038883483296&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S7bb9543fcede49e895c98e97caa486deb.jpg"
+      ],
+      "costZar": 22,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "8M/Roll Breathable PE Facial Tape Professional Lift Wrinkles Doulble Eyelid Tape Beauty Makeup Tool Transparent Lashes Extension",
+      "url": "https://www.aliexpress.com/item/3256811850906910.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S2f675545aa4c4f0a9339740acd27fe2f9.jpg"
+      ],
+      "costZar": 18,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "Roll Non-Woven Bed Sheets 50pcs/roll Disposable Beauty Salon Bed Sheets 50pcs/Roll, Non-Woven Table Cover for Tattoo SPA Eyelash Extension, Paper Roll",
+      "url": "https://www.aliexpress.com/item/3256810292412617.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S63693a29d12b41fcab5870871a9d49b07.png"
+      ],
+      "costZar": 18,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    }
+  ],
+  "chosen": {
+    "supplier": "AliExpress",
+    "title": "New 8M/Roll PE Facial Tape Professional Lift Wrinkles Cosplay Makeup Tape Transparent Beauty Makeup Tool V-Line Face Lift Tape",
+    "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005010572827230:12000052858604882&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+    "images": [
+      "https://ae-pic-a1.aliexpress-media.com/kf/S45af5ae85b194d54b979929c77a58788V.jpg"
+    ],
+    "costZar": 6,
+    "shippingZar": 65,
+    "deliveryDays": [
+      10,
+      18
+    ],
+    "inStock": true,
+    "confidence": "high",
+    "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+  },
+  "decision": "Saved as draft (high confidence). Verify supplier and image before publishing.",
+  "localLeads": []
+}

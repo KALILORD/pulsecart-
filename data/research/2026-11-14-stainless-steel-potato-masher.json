@@ -1,0 +1,53 @@
+{
+  "generatedAt": "2026-11-14T11:37:58.590Z",
+  "trend": {
+    "id": "t_c2ae43a9bf",
+    "title": "Stainless Steel Potato Masher Manual Fruit Vegetable Pressure Mud Machine Kitchen…",
+    "source": "aliexpress",
+    "geo": "GLOBAL",
+    "score": 80.60322500703394,
+    "keywords": [
+      "stainless",
+      "steel",
+      "potato",
+      "masher",
+      "manual",
+      "fruit",
+      "vegetable",
+      "pressure"
+    ],
+    "query": "stainless steel potato masher",
+    "category": "home",
+    "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005011824692409:12000056693667955&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+    "traffic": "832 sold",
+    "eligible": true,
+    "observedAt": "2026-11-14T11:37:47.867Z",
+    "signals": [
+      {
+        "source": "aliexpress",
+        "title": "Stainless Steel Potato Masher Manual Fruit Vegetable Pressure Mud Machine Kitchen…",
+        "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005011824692409:12000056693667955&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+        "traffic": "832 sold",
+        "score": 80.60322500703394
+      }
+    ]
+  },
+  "offers": [],
+  "chosen": {
+    "supplier": "Estimated — verify supplier",
+    "title": "stainless steel potato masher",
+    "url": "",
+    "images": [],
+    "costZar": 230,
+    "shippingZar": 65,
+    "deliveryDays": [
+      10,
+      18
+    ],
+    "inStock": true,
+    "confidence": "low",
+    "notes": "No verifiable supplier price found automatically. Confirm a supplier, landed cost, and image before publishing."
+  },
+  "decision": "Saved as draft (low confidence). Verify supplier and image before publishing.",
+  "localLeads": []
+}
