@@ -1,0 +1,124 @@
+{
+  "generatedAt": "2026-11-15T12:04:33.164Z",
+  "trend": {
+    "id": "t_ee22a188c6",
+    "title": "Dog Collars Harness Big Vests Leash Pet Shop Everything for Dogs Leather Puppy…",
+    "source": "aliexpress",
+    "geo": "GLOBAL",
+    "score": 80.51572135204769,
+    "keywords": [
+      "dog",
+      "collars",
+      "harness",
+      "big",
+      "vests",
+      "leash",
+      "pet",
+      "shop"
+    ],
+    "query": "dog collars harness big",
+    "category": "pets",
+    "url": "https://www.aliexpress.com/item/3256807329754758.html",
+    "traffic": "8000 sold",
+    "eligible": true,
+    "observedAt": "2026-11-15T12:04:21.607Z",
+    "signals": [
+      {
+        "source": "aliexpress",
+        "title": "Dog Collars Harness Big Vests Leash Pet Shop Everything for Dogs Leather Puppy…",
+        "url": "https://www.aliexpress.com/item/3256807329754758.html",
+        "traffic": "8000 sold",
+        "score": 80.51572135204769
+      }
+    ]
+  },
+  "offers": [
+    {
+      "supplier": "AliExpress",
+      "title": "Tactical Dog Harness Collar Leash Molle Pouches For Medium Large Dogs Pet German Shepherd Training Walking Vest Dog Harnesses",
+      "url": "https://www.aliexpress.com/item/3256812512223800.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S9e040dbba3c042dd8d42d3f77e4db9e2o.jpg"
+      ],
+      "costZar": 231,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "Large Dog Harness And Leash Set Pet German Shepherd Malinois Training Walking Vest Dog Harness And Collar For Medium Large Dogs",
+      "url": "https://www.aliexpress.com/item/3256810033926850.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S60115b68606846bbad046fb39a6f5accH.jpg"
+      ],
+      "costZar": 218,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "Military Large Dog Harness Collar Leash Bags Patches Set Pet Malinois Training Vests Tactical Dogs Harnesses Accessories",
+      "url": "https://www.aliexpress.com/item/3256812781683444.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S741fdc18b2434463867089a56949f804D.jpg"
+      ],
+      "costZar": 285,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "Dog Harness Anti-Pull Tactical Anti-Pull Dog Harness - 1000D Nylon Adjustable for Large Dogs, Outdoor Training Vest with Handle & Reflective",
+      "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005009695150543:12000049997369391&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/Sef277126d629461cb7cd7513e52f6eady.png"
+      ],
+      "costZar": 105,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    }
+  ],
+  "chosen": {
+    "supplier": "AliExpress",
+    "title": "Dog Harness Anti-Pull Tactical Anti-Pull Dog Harness - 1000D Nylon Adjustable for Large Dogs, Outdoor Training Vest with Handle & Reflective",
+    "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005009695150543:12000049997369391&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+    "images": [
+      "https://ae-pic-a1.aliexpress-media.com/kf/Sef277126d629461cb7cd7513e52f6eady.png"
+    ],
+    "costZar": 105,
+    "shippingZar": 65,
+    "deliveryDays": [
+      10,
+      18
+    ],
+    "inStock": true,
+    "confidence": "high",
+    "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+  },
+  "decision": "Saved as draft (high confidence). Verify supplier and image before publishing.",
+  "localLeads": []
+}

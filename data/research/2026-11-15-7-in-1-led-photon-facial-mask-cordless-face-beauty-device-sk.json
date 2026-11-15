@@ -1,0 +1,124 @@
+{
+  "generatedAt": "2026-11-15T12:04:33.164Z",
+  "trend": {
+    "id": "t_713ea38520",
+    "title": "Beauty Rejuvenation Machine Wireless LED Mask 7 Color LED Face Mask Photon Skin Firming…",
+    "source": "aliexpress",
+    "geo": "GLOBAL",
+    "score": 80.50623544318105,
+    "keywords": [
+      "beauty",
+      "rejuvenation",
+      "machine",
+      "wireless",
+      "led",
+      "mask",
+      "color",
+      "led"
+    ],
+    "query": "beauty rejuvenation machine wireless",
+    "category": "beauty",
+    "url": "https://www.aliexpress.com/item/3256809391914691.html",
+    "traffic": "2000 sold",
+    "eligible": true,
+    "observedAt": "2026-11-15T12:04:21.607Z",
+    "signals": [
+      {
+        "source": "aliexpress",
+        "title": "Beauty Rejuvenation Machine Wireless LED Mask 7 Color LED Face Mask Photon Skin Firming…",
+        "url": "https://www.aliexpress.com/item/3256809391914691.html",
+        "traffic": "2000 sold",
+        "score": 80.50623544318105
+      }
+    ]
+  },
+  "offers": [
+    {
+      "supplier": "AliExpress",
+      "title": "Wireless LED Face Mask 7 Colors Rechargeable Portable Facial Mask Skin Rejuvenation Skin Care Beauty Device",
+      "url": "https://www.aliexpress.com/item/3256812354597968.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S30d4d2b7fc7d40c5a9a82a206c4c88df7.jpg"
+      ],
+      "costZar": 240,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "Wireless 7 Colors LED Face Neck Mask Rechargeable Photon Therapy Mask Red Light Skin Tightening Lifting Facial Beauty Device Home SPA Facial Care Machine",
+      "url": "https://www.aliexpress.com/item/3256812402512799.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S29ced11a4ea54df9ac84b73037b35d6f1.jpg"
+      ],
+      "costZar": 344,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "7 in 1 LED Photon Facial Mask Cordless Face Beauty Device Skin Care Tool for Skin Firming and Rejuvenation Women Girl Gift",
+      "url": "https://www.aliexpress.com/item/3256813297871482.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S4b2fdc3549694f278fddc18b706603b2t.jpg"
+      ],
+      "costZar": 206,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "Beauty Rejuvenation Machine 448K Tensamax RF Machine Skin Rejuvenation Face Lift Wrinkle Remove Body Contouring Anti‑Aging Beauty Equipment",
+      "url": "https://www.aliexpress.com/item/3256812825371358.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S7a45e246731f4ee5962e5950c7be10f02.jpg"
+      ],
+      "costZar": 5255,
+      "shippingZar": 0,
+      "deliveryDays": [
+        7,
+        14
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    }
+  ],
+  "chosen": {
+    "supplier": "AliExpress",
+    "title": "7 in 1 LED Photon Facial Mask Cordless Face Beauty Device Skin Care Tool for Skin Firming and Rejuvenation Women Girl Gift",
+    "url": "https://www.aliexpress.com/item/3256813297871482.html",
+    "images": [
+      "https://ae-pic-a1.aliexpress-media.com/kf/S4b2fdc3549694f278fddc18b706603b2t.jpg"
+    ],
+    "costZar": 206,
+    "shippingZar": 65,
+    "deliveryDays": [
+      10,
+      18
+    ],
+    "inStock": true,
+    "confidence": "high",
+    "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+  },
+  "decision": "Saved as draft (high confidence). Verify supplier and image before publishing.",
+  "localLeads": []
+}

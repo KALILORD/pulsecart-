@@ -1,0 +1,124 @@
+{
+  "generatedAt": "2026-11-15T12:04:33.164Z",
+  "trend": {
+    "id": "t_26032ca76e",
+    "title": "Upgraded Vacuum Magnetic Car Phone Holder, 360° Reinforced Ultra Suction Cup Phone Mount…",
+    "source": "aliexpress",
+    "geo": "GLOBAL",
+    "score": 80.7,
+    "keywords": [
+      "upgraded",
+      "vacuum",
+      "magnetic",
+      "car",
+      "phone",
+      "holder",
+      "reinforced",
+      "ultra"
+    ],
+    "query": "upgraded vacuum magnetic car",
+    "category": "tech",
+    "url": "https://www.aliexpress.com/item/3256811621601845.html",
+    "traffic": "30000 sold",
+    "eligible": true,
+    "observedAt": "2026-11-15T12:04:21.607Z",
+    "signals": [
+      {
+        "source": "aliexpress",
+        "title": "Upgraded Vacuum Magnetic Car Phone Holder, 360° Reinforced Ultra Suction Cup Phone Mount…",
+        "url": "https://www.aliexpress.com/item/3256811621601845.html",
+        "traffic": "30000 sold",
+        "score": 80.7
+      }
+    ]
+  },
+  "offers": [
+    {
+      "supplier": "AliExpress",
+      "title": "Upgraded Vacuum Magnetic Car Phone Holder, 360° Reinforced Ultra Suction Cup Phone Mount For Car, Travel, Gym, Table",
+      "url": "https://www.aliexpress.com/item/3256811621601845.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S4bd65cd529994adeabd80687a2e321bcP.jpg"
+      ],
+      "costZar": 131,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "Vacuum Magnetic Car Phone Holder Multi-angle Adjustable Foldable Structure Vehicle Navigation Phone Mount For Daily Driving Use",
+      "url": "https://www.aliexpress.com/item/3256811846517319.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S06e05967534e40b39162603749a9912eD.jpg"
+      ],
+      "costZar": 46,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "Vacuum Magnetic Car Phone Holder, Foldable Multi-Angle Adjustable Vehicle Navigation Phone Mount, Universal Phone Stand for Daily Driving",
+      "url": "https://www.aliexpress.com/item/3256811553208086.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S925cf0a9ae8f4c6e9e1126de969dbc08h.jpg"
+      ],
+      "costZar": 84,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "Vacuum Car Rechargeable Wireless Handheld Car Vacuum Cleaner Strong Suction Wet Dry Dual Use Mini Portable Auto Household Vacuum Cleaner",
+      "url": "https://www.aliexpress.com/item/3256812588131266.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/Scad981cb50234d03b1c2f946744df08ah.png"
+      ],
+      "costZar": 94,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    }
+  ],
+  "chosen": {
+    "supplier": "AliExpress",
+    "title": "Vacuum Magnetic Car Phone Holder Multi-angle Adjustable Foldable Structure Vehicle Navigation Phone Mount For Daily Driving Use",
+    "url": "https://www.aliexpress.com/item/3256811846517319.html",
+    "images": [
+      "https://ae-pic-a1.aliexpress-media.com/kf/S06e05967534e40b39162603749a9912eD.jpg"
+    ],
+    "costZar": 46,
+    "shippingZar": 65,
+    "deliveryDays": [
+      10,
+      18
+    ],
+    "inStock": true,
+    "confidence": "high",
+    "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+  },
+  "decision": "Saved as draft (high confidence). Verify supplier and image before publishing.",
+  "localLeads": []
+}
