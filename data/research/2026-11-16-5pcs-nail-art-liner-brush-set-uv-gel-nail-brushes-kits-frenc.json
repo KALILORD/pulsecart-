@@ -1,0 +1,124 @@
+{
+  "generatedAt": "2026-11-16T12:58:07.610Z",
+  "trend": {
+    "id": "t_44ebd7a5cb",
+    "title": "5pcs Nail Art Liner Brush Set UV Gel Nail Brushes Kits French Stripe Line Painting…",
+    "source": "aliexpress",
+    "geo": "GLOBAL",
+    "score": 84,
+    "keywords": [
+      "5pcs",
+      "nail",
+      "art",
+      "liner",
+      "brush",
+      "set",
+      "gel",
+      "nail"
+    ],
+    "query": "5pcs nail art liner",
+    "category": "beauty",
+    "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005006995132514:12000038985409129&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+    "traffic": "10000 sold",
+    "eligible": true,
+    "observedAt": "2026-11-16T12:57:55.815Z",
+    "signals": [
+      {
+        "source": "aliexpress",
+        "title": "5pcs Nail Art Liner Brush Set UV Gel Nail Brushes Kits French Stripe Line Painting…",
+        "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005006995132514:12000038985409129&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+        "traffic": "10000 sold",
+        "score": 84
+      }
+    ]
+  },
+  "offers": [
+    {
+      "supplier": "AliExpress",
+      "title": "Beetles 5Pcs Nail Art Liner Brush Set Fine Detail Painting Drawing Pens for Gel Polish French Tips Manicure",
+      "url": "https://www.aliexpress.com/item/3256812690203381.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/Sdc27650581964ca286fc9c00b7bf8941S.jpg"
+      ],
+      "costZar": 148,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "Beetles 5Pcs Metallic Black Nail Art Liner Brush Set Fine Detail Painting Pens for Gel Polish French Tips",
+      "url": "https://www.aliexpress.com/item/3256812689976224.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/Sccc5cd9990c14549aae90e59f8457994E.jpg"
+      ],
+      "costZar": 143,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "5pcs Nail Art Liner Brush Set UV Gel Nail Brushes Kits French Stripe Line Painting Drawing Flower Pen Professional Manicure Tool",
+      "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005006995132514:12000038985409129&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S1b70d062fe3e4b4fa0896eb2261bb514E.jpg"
+      ],
+      "costZar": 6,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "Nail Art Liner Gel Polish 7ml Liner Gel Nail Polish White Black Soak Off UV/LED Painting Gel DIY Nail Art French Style Stripe Gel Semi Permanent Varnish",
+      "url": "https://www.aliexpress.com/item/3256807011884349.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/Sf42a8ee78bd04279a34a5d1be9671d93A.jpg"
+      ],
+      "costZar": 18,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    }
+  ],
+  "chosen": {
+    "supplier": "AliExpress",
+    "title": "5pcs Nail Art Liner Brush Set UV Gel Nail Brushes Kits French Stripe Line Painting Drawing Flower Pen Professional Manicure Tool",
+    "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005006995132514:12000038985409129&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+    "images": [
+      "https://ae-pic-a1.aliexpress-media.com/kf/S1b70d062fe3e4b4fa0896eb2261bb514E.jpg"
+    ],
+    "costZar": 6,
+    "shippingZar": 65,
+    "deliveryDays": [
+      10,
+      18
+    ],
+    "inStock": true,
+    "confidence": "high",
+    "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+  },
+  "decision": "Saved as draft (high confidence). Verify supplier and image before publishing.",
+  "localLeads": []
+}

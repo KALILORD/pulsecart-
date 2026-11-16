@@ -1,0 +1,50 @@
+{
+  "generatedAt": "2026-11-16T12:58:07.610Z",
+  "trend": {
+    "id": "t_c633bf54bd",
+    "title": "capitec fnb absa smart id",
+    "source": "google-trends",
+    "geo": "ZA",
+    "score": 83.20411998265593,
+    "keywords": [
+      "capitec",
+      "fnb",
+      "absa",
+      "smart"
+    ],
+    "query": "capitec fnb absa smart id",
+    "event": "Good news for people who bank with Capitec, FNB, Absa, Standard Bank, and Nedbank",
+    "category": "tech",
+    "url": "https://trends.google.com/trending/rss?geo=ZA",
+    "traffic": "2000+",
+    "eligible": true,
+    "observedAt": "2026-11-16T12:57:56.168Z",
+    "signals": [
+      {
+        "source": "google-trends",
+        "title": "capitec fnb absa smart id",
+        "url": "https://trends.google.com/trending/rss?geo=ZA",
+        "traffic": "2000+",
+        "score": 83.20411998265593
+      }
+    ]
+  },
+  "offers": [],
+  "chosen": {
+    "supplier": "Estimated — verify supplier",
+    "title": "capitec fnb absa smart id",
+    "url": "",
+    "images": [],
+    "costZar": 255,
+    "shippingZar": 65,
+    "deliveryDays": [
+      10,
+      18
+    ],
+    "inStock": true,
+    "confidence": "low",
+    "notes": "No verifiable supplier price found automatically. Confirm a supplier, landed cost, and image before publishing."
+  },
+  "decision": "Saved as draft (low confidence). Verify supplier and image before publishing.",
+  "localLeads": []
+}

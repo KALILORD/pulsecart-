@@ -1,0 +1,125 @@
+{
+  "generatedAt": "2026-11-16T12:58:07.610Z",
+  "trend": {
+    "id": "t_c7a8833ec3",
+    "title": "Car Accessories Christmas Car Decoration Deer Horn Antlers Car Kit with Red Nose and…",
+    "source": "aliexpress",
+    "geo": "GLOBAL",
+    "score": 82.50623544318105,
+    "keywords": [
+      "car",
+      "accessories",
+      "christmas",
+      "car",
+      "decoration",
+      "deer",
+      "horn",
+      "antlers"
+    ],
+    "query": "christmas decor and gift set",
+    "category": "home",
+    "url": "https://www.aliexpress.com/item/3256809240503395.html",
+    "traffic": "2000 sold",
+    "eligible": true,
+    "observedAt": "2026-11-16T12:57:55.815Z",
+    "signals": [
+      {
+        "source": "aliexpress",
+        "title": "Car Accessories Christmas Car Decoration Deer Horn Antlers Car Kit with Red Nose and…",
+        "url": "https://www.aliexpress.com/item/3256809240503395.html",
+        "traffic": "2000 sold",
+        "score": 82.50623544318105
+      }
+    ],
+    "event": "make it feel like Christmas"
+  },
+  "offers": [
+    {
+      "supplier": "AliExpress",
+      "title": "24‑Days Christmas Dumpling Advent Calendar Gift Set, Holiday Countdown Ornaments, Desktop Decor, Festive Party Favor Gifts",
+      "url": "https://www.aliexpress.com/item/3256813408491264.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/Sb452ef5b384b4980a19cd7ca658c6a15u.jpg"
+      ],
+      "costZar": 124,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "3Pcs Reindeer Family Figurines Set, 3D Printed Christmas Decor, Exquisite Carved Details, Flat Base for Stable Display",
+      "url": "https://www.aliexpress.com/item/3256813413014516.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S22eec59c034945d7937daedfbde6fac3q.jpg"
+      ],
+      "costZar": 61,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "Red Christmas Table Runner Placemats Set Gold Xmas Tree Snowflake Linen Tablecloth Winter New Year Holiday Table Decoration",
+      "url": "https://www.aliexpress.com/item/3256813413514664.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/Sd79bb5f1fb76482db9af426145c43043r.jpg"
+      ],
+      "costZar": 45,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "Christmas Wooden Ornaments Set Xmas Tree Hanging Decor Bauble Bulk Holiday Party Hotel Room Home Decoration Gift",
+      "url": "https://www.aliexpress.com/item/3256813302320672.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/Sb4d37037de154a9fb651c711385ff2b6o.jpg"
+      ],
+      "costZar": 34,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    }
+  ],
+  "chosen": {
+    "supplier": "AliExpress",
+    "title": "Christmas Wooden Ornaments Set Xmas Tree Hanging Decor Bauble Bulk Holiday Party Hotel Room Home Decoration Gift",
+    "url": "https://www.aliexpress.com/item/3256813302320672.html",
+    "images": [
+      "https://ae-pic-a1.aliexpress-media.com/kf/Sb4d37037de154a9fb651c711385ff2b6o.jpg"
+    ],
+    "costZar": 34,
+    "shippingZar": 65,
+    "deliveryDays": [
+      10,
+      18
+    ],
+    "inStock": true,
+    "confidence": "high",
+    "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+  },
+  "decision": "Saved as draft (high confidence). Verify supplier and image before publishing.",
+  "localLeads": []
+}
