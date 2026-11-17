@@ -1,0 +1,124 @@
+{
+  "generatedAt": "2026-11-17T13:40:19.084Z",
+  "trend": {
+    "id": "t_c3e6b0a58f",
+    "title": "2/4Pcs Car Hub Ambient Light Bicycle LED Tire Lights Universal Car Neon Lamp Valve Cover…",
+    "source": "aliexpress",
+    "geo": "GLOBAL",
+    "score": 79.58632997712427,
+    "keywords": [
+      "4pcs",
+      "car",
+      "hub",
+      "ambient",
+      "light",
+      "bicycle",
+      "led",
+      "tire"
+    ],
+    "query": "4pcs car hub ambient",
+    "category": "home",
+    "url": "https://www.aliexpress.com/item/3256808201076003.html",
+    "traffic": "3000 sold",
+    "eligible": true,
+    "observedAt": "2026-11-17T13:40:06.830Z",
+    "signals": [
+      {
+        "source": "aliexpress",
+        "title": "2/4Pcs Car Hub Ambient Light Bicycle LED Tire Lights Universal Car Neon Lamp Valve Cover…",
+        "url": "https://www.aliexpress.com/item/3256808201076003.html",
+        "traffic": "3000 sold",
+        "score": 79.58632997712427
+      }
+    ]
+  },
+  "offers": [
+    {
+      "supplier": "AliExpress",
+      "title": "2/4Pcs Car Hub Ambient Light Bicycle LED Tire Lights Universal Car Neon Lamp Valve Cover Lights Tire Colorful Flashing BulbDecor",
+      "url": "https://www.aliexpress.com/item/3256808201076003.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S027100fd50464af5acfe6bba37308638l.jpg"
+      ],
+      "costZar": 18,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "4pcs Magic Colourful Car Wheel Led Hub Light Auto SUV Ambient Styling Lamp with turn signal Brake Function APP Remote Sense 12V",
+      "url": "https://www.aliexpress.com/item/3256805562025029.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S32cef383d2774a0ea910bc6597631f24N.jpg"
+      ],
+      "costZar": 999,
+      "shippingZar": 0,
+      "deliveryDays": [
+        7,
+        14
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "4Pcs LED Car Wheel Lights RGB Car Ambient Light Remote Control Flash Wheel Hub Lamp Solar Charging Neon Car Accessories",
+      "url": "https://www.aliexpress.com/item/3256806191009246.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S8414442797ed4a98abcfdcb926f4e78dA.jpg"
+      ],
+      "costZar": 741,
+      "shippingZar": 0,
+      "deliveryDays": [
+        7,
+        14
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "4PCS Car Ambient 4PCS 72 LED RGB Car Interior Atmosphere Light Strips, USB Ambient Floor Lighting Kit with Bluetooth Phone APP Control, Music Sync Color Changing Neon Lights for Car, Truck & SUV Interior",
+      "url": "https://www.aliexpress.com/item/3256812962107019.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/Ab296b17e52d94b2499481bf6bcb90cfbS.jpg"
+      ],
+      "costZar": 49,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    }
+  ],
+  "chosen": {
+    "supplier": "AliExpress",
+    "title": "2/4Pcs Car Hub Ambient Light Bicycle LED Tire Lights Universal Car Neon Lamp Valve Cover Lights Tire Colorful Flashing BulbDecor",
+    "url": "https://www.aliexpress.com/item/3256808201076003.html",
+    "images": [
+      "https://ae-pic-a1.aliexpress-media.com/kf/S027100fd50464af5acfe6bba37308638l.jpg"
+    ],
+    "costZar": 18,
+    "shippingZar": 65,
+    "deliveryDays": [
+      10,
+      18
+    ],
+    "inStock": true,
+    "confidence": "high",
+    "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+  },
+  "decision": "Saved as draft (high confidence). Verify supplier and image before publishing.",
+  "localLeads": []
+}

@@ -1,0 +1,124 @@
+{
+  "generatedAt": "2026-11-17T13:40:19.084Z",
+  "trend": {
+    "id": "t_b45dba91c3",
+    "title": "Super Soft Pet Finger Toothbrush Teddy Dog Brush Bad Breath Tartar Teeth Care Tool Dog…",
+    "source": "aliexpress",
+    "geo": "GLOBAL",
+    "score": 80.1,
+    "keywords": [
+      "super",
+      "soft",
+      "pet",
+      "finger",
+      "toothbrush",
+      "teddy",
+      "dog",
+      "brush"
+    ],
+    "query": "super soft pet finger",
+    "category": "pets",
+    "url": "https://www.aliexpress.com/item/3256806671067693.html",
+    "traffic": "10000 sold",
+    "eligible": true,
+    "observedAt": "2026-11-17T13:40:06.830Z",
+    "signals": [
+      {
+        "source": "aliexpress",
+        "title": "Super Soft Pet Finger Toothbrush Teddy Dog Brush Bad Breath Tartar Teeth Care Tool Dog…",
+        "url": "https://www.aliexpress.com/item/3256806671067693.html",
+        "traffic": "10000 sold",
+        "score": 80.1
+      }
+    ]
+  },
+  "offers": [
+    {
+      "supplier": "AliExpress",
+      "title": "Children Noveltyfunny Mini Hand Creative Finger Fingertip Toys Teasing Cat Massage Pet Soft Silicone Small Hand Pet Supplies",
+      "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005007038292719:12000039179774716&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/Sad1a9023aaea4acbb50f1101c77c40deN.jpg"
+      ],
+      "costZar": 6,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "Children Noveltyfunny Mini Hand Creative Finger Fingertip Toys Teasing Cat Massage Pet Soft Silicone Small Hand Pet Supplies",
+      "url": "https://www.aliexpress.com/item/3256808582572663.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/Se846a9b2315a44298a6b1139d460267eJ.jpg"
+      ],
+      "costZar": 18,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "Dog Super Soft Pet Finger Toothbrush Teeth Cleaning Bad Breath Care Nontoxic Silicone Tooth Brush Tool Dog Cat Cleaning Supplies",
+      "url": "https://www.aliexpress.com/item/3256811875751292.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S0e851d8d05e94fc18f5ac1f87d6dab8fO.jpg"
+      ],
+      "costZar": 26,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "Finger Googly Eye Finger Toys 20pcs Funny Eyeball Rings Finger Puppets for Toddlers Kids Halloween Party Favors Small Novelty Gifts",
+      "url": "https://www.aliexpress.com/item/3256807952606524.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/Sd36ab5ef035e46a2899fc16814fa1f4ek.jpg"
+      ],
+      "costZar": 71,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    }
+  ],
+  "chosen": {
+    "supplier": "AliExpress",
+    "title": "Children Noveltyfunny Mini Hand Creative Finger Fingertip Toys Teasing Cat Massage Pet Soft Silicone Small Hand Pet Supplies",
+    "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005007038292719:12000039179774716&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+    "images": [
+      "https://ae-pic-a1.aliexpress-media.com/kf/Sad1a9023aaea4acbb50f1101c77c40deN.jpg"
+    ],
+    "costZar": 6,
+    "shippingZar": 65,
+    "deliveryDays": [
+      10,
+      18
+    ],
+    "inStock": true,
+    "confidence": "high",
+    "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+  },
+  "decision": "Saved as draft (high confidence). Verify supplier and image before publishing.",
+  "localLeads": []
+}

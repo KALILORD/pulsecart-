@@ -1,0 +1,124 @@
+{
+  "generatedAt": "2026-11-17T13:40:19.084Z",
+  "trend": {
+    "id": "t_e6daf5fc2f",
+    "title": "Smartwatch Men Women Wristwatches Smart Watch Message Fitness Monitor Bracelet Birthday…",
+    "source": "aliexpress",
+    "geo": "GLOBAL",
+    "score": 83,
+    "keywords": [
+      "smartwatch",
+      "men",
+      "women",
+      "wristwatches",
+      "smart",
+      "watch",
+      "message",
+      "fitness"
+    ],
+    "query": "smartwatch men women wristwatches",
+    "category": "tech",
+    "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005007517165983:12000041099860102&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+    "traffic": "100000 sold",
+    "eligible": true,
+    "observedAt": "2026-11-17T13:40:06.830Z",
+    "signals": [
+      {
+        "source": "aliexpress",
+        "title": "Smartwatch Men Women Wristwatches Smart Watch Message Fitness Monitor Bracelet Birthday…",
+        "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005007517165983:12000041099860102&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+        "traffic": "100000 sold",
+        "score": 83
+      }
+    ]
+  },
+  "offers": [
+    {
+      "supplier": "AliExpress",
+      "title": "New Round 1.52\" Extra-Large Screen Smartwatch Wireless Call Men Women With More Sports Modes Calculator Smart Watches Business",
+      "url": "https://www.aliexpress.com/item/3256813297588967.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S3d00dd491292421cbbedc383b1b0be39L.jpg"
+      ],
+      "costZar": 18,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "HAYLOU Watch Faro Voice Calling Smart Watch 2.01'' HD Screen 24H Health Monitor 150+ Sports Modes Bluetooth Smartwatch Men Women",
+      "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005012865939059:12000059603598723&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S989f81cbf1924873b2771f0802b8a6d7l.jpg"
+      ],
+      "costZar": 359,
+      "shippingZar": 0,
+      "deliveryDays": [
+        7,
+        14
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "Latest Upgraded Fashion Design 1.83-inch Full-Screen Touchscreen Sports Smartwatch for Men and Women, Wireless Calling",
+      "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005012743026548:12000059227090978&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S129ebd2f286a4f2785f6e53b11016cdcb.jpg"
+      ],
+      "costZar": 85,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "Smartwatch Men Women Wristwatches Smart Watch Message Fitness Monitor Bracelet Birthday Gift Electronic Clock For Android IOS",
+      "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005007517165983:12000041099860102&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S96eb3db6a0a941a39cef39a5d8b2aa35p.png"
+      ],
+      "costZar": 6,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    }
+  ],
+  "chosen": {
+    "supplier": "AliExpress",
+    "title": "Smartwatch Men Women Wristwatches Smart Watch Message Fitness Monitor Bracelet Birthday Gift Electronic Clock For Android IOS",
+    "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005007517165983:12000041099860102&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+    "images": [
+      "https://ae-pic-a1.aliexpress-media.com/kf/S96eb3db6a0a941a39cef39a5d8b2aa35p.png"
+    ],
+    "costZar": 6,
+    "shippingZar": 65,
+    "deliveryDays": [
+      10,
+      18
+    ],
+    "inStock": true,
+    "confidence": "high",
+    "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+  },
+  "decision": "Saved as draft (high confidence). Verify supplier and image before publishing.",
+  "localLeads": []
+}
