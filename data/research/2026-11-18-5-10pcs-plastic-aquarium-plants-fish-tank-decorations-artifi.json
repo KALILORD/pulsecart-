@@ -1,0 +1,122 @@
+{
+  "generatedAt": "2026-11-18T13:14:22.094Z",
+  "trend": {
+    "id": "t_dfb629c534",
+    "title": "rassie erasmus world rugby ban",
+    "source": "google-trends",
+    "geo": "ZA",
+    "score": 84.79588001734407,
+    "keywords": [
+      "rassie",
+      "erasmus",
+      "world",
+      "rugby",
+      "ban"
+    ],
+    "query": "rassie erasmus world rugby ban",
+    "event": "Rassie Erasmus banned for six matches by World Rugby after ‘match-fixing’ comments",
+    "category": "fashion",
+    "url": "https://trends.google.com/trending/rss?geo=ZA",
+    "traffic": "5000+",
+    "eligible": true,
+    "observedAt": "2026-11-18T13:14:10.476Z",
+    "signals": [
+      {
+        "source": "google-trends",
+        "title": "rassie erasmus world rugby ban",
+        "url": "https://trends.google.com/trending/rss?geo=ZA",
+        "traffic": "5000+",
+        "score": 84.79588001734407
+      }
+    ]
+  },
+  "offers": [
+    {
+      "supplier": "AliExpress",
+      "title": "5/10pcs Plastic Aquarium Plants Fish Tank Decorations Artificial Seaweed Water Grass Underwater Plants Aquarium Accessories",
+      "url": "https://www.aliexpress.com/item/3256802803556573.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/H6c5b7bb7a2c647638311a75e6c763da7y.jpg"
+      ],
+      "costZar": 18,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "Quick Release Rubber Watch Strap Silicone Watch Band 18mm 20mm 22mm Huawei ,Samsung Galaxy, Garmin, Watch Replacement Watchband",
+      "url": "https://www.aliexpress.com/item/3256802885939529.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S83a0e2f673ec4fa1b4da1c20e1d92b0dJ.jpg"
+      ],
+      "costZar": 18,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "Bangle For Women Double Enamel Bangle Set Cloisonne Women's Jewelry Accessories Indian Style Dubai Trendy Metal Bracelet On Hand",
+      "url": "https://www.aliexpress.com/item/2251801406136854.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S012dbed2eaf44a2dbdddf02b806fc6dew.jpg"
+      ],
+      "costZar": 18,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "Women Summer Vintage Dress With Belt Short Sleeve V neck Elegant Retro Swing Party Dresses",
+      "url": "https://www.aliexpress.com/item/2255800019750171.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/HTB1ujoRdf5G3KVjSZPxq6zI3XXau.jpg"
+      ],
+      "costZar": 29,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    }
+  ],
+  "chosen": {
+    "supplier": "AliExpress",
+    "title": "5/10pcs Plastic Aquarium Plants Fish Tank Decorations Artificial Seaweed Water Grass Underwater Plants Aquarium Accessories",
+    "url": "https://www.aliexpress.com/item/3256802803556573.html",
+    "images": [
+      "https://ae-pic-a1.aliexpress-media.com/kf/H6c5b7bb7a2c647638311a75e6c763da7y.jpg"
+    ],
+    "costZar": 18,
+    "shippingZar": 65,
+    "deliveryDays": [
+      10,
+      18
+    ],
+    "inStock": true,
+    "confidence": "high",
+    "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+  },
+  "decision": "Saved as draft (high confidence). Verify supplier and image before publishing.",
+  "localLeads": []
+}

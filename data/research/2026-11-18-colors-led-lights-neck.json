@@ -1,0 +1,53 @@
+{
+  "generatedAt": "2026-11-18T13:14:22.094Z",
+  "trend": {
+    "id": "t_2222d11ab6",
+    "title": "7 Colors LED Lights Neck Face Beauty Device EMS Vibration Massage Improve Neck Lines…",
+    "source": "aliexpress",
+    "geo": "GLOBAL",
+    "score": 81.57963605848558,
+    "keywords": [
+      "colors",
+      "led",
+      "lights",
+      "neck",
+      "face",
+      "beauty",
+      "device",
+      "ems"
+    ],
+    "query": "colors led lights neck",
+    "category": "beauty",
+    "url": "https://www.aliexpress.com/item/3256809757542379.html",
+    "traffic": "823 sold",
+    "eligible": true,
+    "observedAt": "2026-11-18T13:14:09.964Z",
+    "signals": [
+      {
+        "source": "aliexpress",
+        "title": "7 Colors LED Lights Neck Face Beauty Device EMS Vibration Massage Improve Neck Lines…",
+        "url": "https://www.aliexpress.com/item/3256809757542379.html",
+        "traffic": "823 sold",
+        "score": 81.57963605848558
+      }
+    ]
+  },
+  "offers": [],
+  "chosen": {
+    "supplier": "Estimated — verify supplier",
+    "title": "colors led lights neck",
+    "url": "",
+    "images": [],
+    "costZar": 220,
+    "shippingZar": 65,
+    "deliveryDays": [
+      10,
+      18
+    ],
+    "inStock": true,
+    "confidence": "low",
+    "notes": "No verifiable supplier price found automatically. Confirm a supplier, landed cost, and image before publishing."
+  },
+  "decision": "Saved as draft (low confidence). Verify supplier and image before publishing.",
+  "localLeads": []
+}
