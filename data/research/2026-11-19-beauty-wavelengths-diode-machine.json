@@ -1,0 +1,53 @@
+{
+  "generatedAt": "2026-11-19T13:35:10.734Z",
+  "trend": {
+    "id": "t_9c615195a1",
+    "title": "Beauty 4 Wavelengths Diode Machine 1470nm 980nm 635nm 450nm Multifunctional Beauty…",
+    "source": "aliexpress",
+    "geo": "GLOBAL",
+    "score": 82.39528427273834,
+    "keywords": [
+      "beauty",
+      "wavelengths",
+      "diode",
+      "machine",
+      "1470nm",
+      "980nm",
+      "635nm",
+      "450nm"
+    ],
+    "query": "beauty wavelengths diode machine",
+    "category": "beauty",
+    "url": "https://www.aliexpress.com/item/3256813023456069.html",
+    "traffic": "5000 sold",
+    "eligible": true,
+    "observedAt": "2026-11-19T13:34:59.035Z",
+    "signals": [
+      {
+        "source": "aliexpress",
+        "title": "Beauty 4 Wavelengths Diode Machine 1470nm 980nm 635nm 450nm Multifunctional Beauty…",
+        "url": "https://www.aliexpress.com/item/3256813023456069.html",
+        "traffic": "5000 sold",
+        "score": 82.39528427273834
+      }
+    ]
+  },
+  "offers": [],
+  "chosen": {
+    "supplier": "Estimated — verify supplier",
+    "title": "beauty wavelengths diode machine",
+    "url": "",
+    "images": [],
+    "costZar": 220,
+    "shippingZar": 65,
+    "deliveryDays": [
+      10,
+      18
+    ],
+    "inStock": true,
+    "confidence": "low",
+    "notes": "No verifiable supplier price found automatically. Confirm a supplier, landed cost, and image before publishing."
+  },
+  "decision": "Saved as draft (low confidence). Verify supplier and image before publishing.",
+  "localLeads": []
+}

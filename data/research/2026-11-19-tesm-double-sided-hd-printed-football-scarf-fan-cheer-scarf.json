@@ -1,0 +1,123 @@
+{
+  "generatedAt": "2026-11-19T13:35:10.734Z",
+  "trend": {
+    "id": "t_94fcc68439",
+    "title": "hugo broos comments bafana bafana coach",
+    "source": "google-trends",
+    "geo": "ZA",
+    "score": 83.20411998265593,
+    "keywords": [
+      "hugo",
+      "broos",
+      "comments",
+      "bafana",
+      "bafana",
+      "coach"
+    ],
+    "query": "supporter scarf and fan gear",
+    "event": "show your colours",
+    "category": "fashion",
+    "url": "https://trends.google.com/trending/rss?geo=ZA",
+    "traffic": "2000+",
+    "eligible": true,
+    "observedAt": "2026-11-19T13:34:59.196Z",
+    "signals": [
+      {
+        "source": "google-trends",
+        "title": "hugo broos comments bafana bafana coach",
+        "url": "https://trends.google.com/trending/rss?geo=ZA",
+        "traffic": "2000+",
+        "score": 83.20411998265593
+      }
+    ]
+  },
+  "offers": [
+    {
+      "supplier": "AliExpress",
+      "title": "Custom Soccer Fringe Scarf Personalized Football Fan Scarf Custom Text Team Supporter Gift Match Day Sports Accessory",
+      "url": "https://www.aliexpress.com/item/3256813422935995.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S3f4ffebc1e654ef6b397d875af7faebdd.png"
+      ],
+      "costZar": 213,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "TESM Double Sided HD Printed Football Scarf Fan Cheer Scarf Matches and Parties Supporter Decorative Scarf",
+      "url": "https://www.aliexpress.com/item/3256812663956983.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S2ad37f6069c64b1ba99fb8f3d77cd0d7F.jpg"
+      ],
+      "costZar": 19,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "31BF European Cup Deutschland Fan Scarf with Eye Catching Tassels Shoulder Wrap for Soccer Game Gatherings and Daily Outfit",
+      "url": "https://www.aliexpress.com/item/3256810016796503.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S90fd790a1dd24536a701313019bff1c0y.jpg"
+      ],
+      "costZar": 38,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "VBOSi Posture Corrector VBOSi Adjustable Back Support Posture Corrector for Men And Women",
+      "url": "https://www.aliexpress.com/item/3256810189479389.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S582882d977604d93b158aa0f5748d847P.jpg"
+      ],
+      "costZar": 186,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    }
+  ],
+  "chosen": {
+    "supplier": "AliExpress",
+    "title": "TESM Double Sided HD Printed Football Scarf Fan Cheer Scarf Matches and Parties Supporter Decorative Scarf",
+    "url": "https://www.aliexpress.com/item/3256812663956983.html",
+    "images": [
+      "https://ae-pic-a1.aliexpress-media.com/kf/S2ad37f6069c64b1ba99fb8f3d77cd0d7F.jpg"
+    ],
+    "costZar": 19,
+    "shippingZar": 65,
+    "deliveryDays": [
+      10,
+      18
+    ],
+    "inStock": true,
+    "confidence": "high",
+    "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+  },
+  "decision": "Saved as draft (high confidence). Verify supplier and image before publishing.",
+  "localLeads": []
+}

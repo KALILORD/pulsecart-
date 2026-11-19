@@ -1,0 +1,124 @@
+{
+  "generatedAt": "2026-11-19T13:35:10.734Z",
+  "trend": {
+    "id": "t_3de2216560",
+    "title": "Portable Multifunctional Push Up Board Fitness and Muscle Training Device Home Workout…",
+    "source": "aliexpress",
+    "geo": "GLOBAL",
+    "score": 82.49528427273833,
+    "keywords": [
+      "portable",
+      "multifunctional",
+      "push",
+      "board",
+      "fitness",
+      "muscle",
+      "training",
+      "device"
+    ],
+    "query": "portable multifunctional push board",
+    "category": "fitness",
+    "url": "https://www.aliexpress.com/item/3256811915002563.html",
+    "traffic": "5000 sold",
+    "eligible": true,
+    "observedAt": "2026-11-19T13:34:59.035Z",
+    "signals": [
+      {
+        "source": "aliexpress",
+        "title": "Portable Multifunctional Push Up Board Fitness and Muscle Training Device Home Workout…",
+        "url": "https://www.aliexpress.com/item/3256811915002563.html",
+        "traffic": "5000 sold",
+        "score": 82.49528427273833
+      }
+    ]
+  },
+  "offers": [
+    {
+      "supplier": "AliExpress",
+      "title": "Portable Multifunctional Push Up Board Fitness and Muscle Training Device Home Workout Set Foldable Push Up Bar Resistance",
+      "url": "https://www.aliexpress.com/item/3256811915002563.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S3d6196e29b8342ca881f55e095fd526b5.png"
+      ],
+      "costZar": 117,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "Portable Multifunctional Push Up Board Fitness and Muscle Training Device Home Workout Set Foldable Push Up Bar Resistance",
+      "url": "https://www.aliexpress.com/item/3256813019213706.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S9bdbe9b336624229b84712d412c7a6a66.png"
+      ],
+      "costZar": 311,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "Portable Multifunctional Push-up Board Set With Handles Foldable Fitness Equipment For Chest Abdomen Arms And Back Training",
+      "url": "https://www.aliexpress.com/item/3256808243818458.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S227e1dfc25064b5c804704f6f0d09abeh.png"
+      ],
+      "costZar": 215,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "Multifunctional Board PDR Light Tool Multifunctional Mini PDR Light Car Dent Repair Tool LED Light Reflection Board with Multi-Angle Rotation",
+      "url": "https://www.aliexpress.com/item/3256811594450587.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S6d63687c9145426da0138ea4a692ba9d2.jpg"
+      ],
+      "costZar": 5357,
+      "shippingZar": 0,
+      "deliveryDays": [
+        7,
+        14
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    }
+  ],
+  "chosen": {
+    "supplier": "AliExpress",
+    "title": "Portable Multifunctional Push Up Board Fitness and Muscle Training Device Home Workout Set Foldable Push Up Bar Resistance",
+    "url": "https://www.aliexpress.com/item/3256811915002563.html",
+    "images": [
+      "https://ae-pic-a1.aliexpress-media.com/kf/S3d6196e29b8342ca881f55e095fd526b5.png"
+    ],
+    "costZar": 117,
+    "shippingZar": 65,
+    "deliveryDays": [
+      10,
+      18
+    ],
+    "inStock": true,
+    "confidence": "high",
+    "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+  },
+  "decision": "Saved as draft (high confidence). Verify supplier and image before publishing.",
+  "localLeads": []
+}
