@@ -1,0 +1,131 @@
+{
+  "generatedAt": "2026-11-20T13:16:21.725Z",
+  "trend": {
+    "id": "t_87acc324cf",
+    "title": "2In1 Chestnut Opener Machine Chestnut Clip Walnut Pliers Sheath Cutter Nut Cracker…",
+    "source": "aliexpress",
+    "geo": "GLOBAL",
+    "score": 80.90623544318106,
+    "keywords": [
+      "2in1",
+      "chestnut",
+      "opener",
+      "machine",
+      "chestnut",
+      "clip",
+      "walnut",
+      "pliers"
+    ],
+    "query": "2in1 chestnut opener machine",
+    "category": "lifestyle",
+    "url": "https://www.aliexpress.com/item/3256807670772823.html",
+    "traffic": "2000 sold",
+    "eligible": true,
+    "observedAt": "2026-11-20T13:16:10.641Z",
+    "signals": [
+      {
+        "source": "aliexpress",
+        "title": "2In1 Chestnut Opener Machine Chestnut Clip Walnut Pliers Sheath Cutter Nut Cracker…",
+        "url": "https://www.aliexpress.com/item/3256807670772823.html",
+        "traffic": "2000 sold",
+        "score": 77.90623544318106
+      },
+      {
+        "source": "aliexpress",
+        "title": "2In1 Chestnut Opener Machine Chestnut Clip Walnut Pliers Sheath Cutter Nut Cracker…",
+        "url": "https://www.aliexpress.com/item/3256807670772823.html",
+        "traffic": "2000 sold",
+        "score": 77.90623544318106
+      }
+    ]
+  },
+  "offers": [
+    {
+      "supplier": "AliExpress",
+      "title": "2In1 Chestnut Opener Machine Chestnut Clip Walnut Pliers Sheath Cutter Nut Cracker Sheller Kitchen Tool Walnut Clip Accessories",
+      "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005010228672073:12000051606019509&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S02bc2f7c60ca46f5a8f83ec54604896fz.jpg"
+      ],
+      "costZar": 6,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "2In1 Chestnut Opener Machine Chestnut Clip Walnut Pliers Sheath Cutter Nut Cracker Sheller Kitchen Tool Walnut Clip Accessories",
+      "url": "https://www.aliexpress.com/item/3256813292919672.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/Se68e7c41c8004d95940246292279a530Y.jpg"
+      ],
+      "costZar": 19,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "Stainless Steel Nutcracker Chestnut Clip 2in1 Quick Chestnut Opener Machine Walnut Plier Opener Nut Cracker Sheller Kitchen Tool",
+      "url": "https://www.aliexpress.com/item/3256808685105577.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/Sa7309ba504f94f9796305ff9cc24564bD.jpg"
+      ],
+      "costZar": 19,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "2In1 Chestnut Opener Machine Chestnut Clip Walnut Pliers Sheath Cutter Nut Cracker Sheller Kitchen Tool Walnut Clip Accessories",
+      "url": "https://www.aliexpress.com/item/3256813340914048.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/Sec5c7140d4074984943ffcc001ecb9f6v.jpg"
+      ],
+      "costZar": 32,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    }
+  ],
+  "chosen": {
+    "supplier": "AliExpress",
+    "title": "2In1 Chestnut Opener Machine Chestnut Clip Walnut Pliers Sheath Cutter Nut Cracker Sheller Kitchen Tool Walnut Clip Accessories",
+    "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005010228672073:12000051606019509&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+    "images": [
+      "https://ae-pic-a1.aliexpress-media.com/kf/S02bc2f7c60ca46f5a8f83ec54604896fz.jpg"
+    ],
+    "costZar": 6,
+    "shippingZar": 65,
+    "deliveryDays": [
+      10,
+      18
+    ],
+    "inStock": true,
+    "confidence": "high",
+    "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+  },
+  "decision": "Saved as draft (high confidence). Verify supplier and image before publishing.",
+  "localLeads": []
+}

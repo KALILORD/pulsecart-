@@ -1,40 +1,10 @@
 [
   {
-    "id": "t_3a46a70c73",
-    "title": "south africa december 2026 fuel price",
-    "source": "google-trends",
-    "geo": "ZA",
-    "score": 88,
-    "keywords": [
-      "south",
-      "africa",
-      "december",
-      "fuel",
-      "price"
-    ],
-    "query": "south africa december 2026 fuel price",
-    "event": "New December 2026 fuel price forecast: Petrol set for major cuts in SA, diesel mixed",
-    "category": "lifestyle",
-    "url": "https://trends.google.com/trending/rss?geo=ZA",
-    "traffic": "10000+",
-    "eligible": true,
-    "observedAt": "2026-11-19T13:34:59.196Z",
-    "signals": [
-      {
-        "source": "google-trends",
-        "title": "south africa december 2026 fuel price",
-        "url": "https://trends.google.com/trending/rss?geo=ZA",
-        "traffic": "10000+",
-        "score": 88
-      }
-    ]
-  },
-  {
     "id": "t_8bb8797006",
     "title": "Neck Face Lifting Massager 7 Colors Light LED Photon Therapy Skin Tighten Wrinkle Remove…",
     "source": "aliexpress",
     "geo": "GLOBAL",
-    "score": 86.7,
+    "score": 86.6,
     "keywords": [
       "neck",
       "face",
@@ -50,14 +20,14 @@
     "url": "https://www.aliexpress.com/item/3256810205886808.html",
     "traffic": "10000 sold",
     "eligible": true,
-    "observedAt": "2026-11-19T13:34:59.035Z",
+    "observedAt": "2026-11-20T13:16:10.641Z",
     "signals": [
       {
         "source": "aliexpress",
         "title": "Neck Face Lifting Massager 7 Colors Light LED Photon Therapy Skin Tighten Wrinkle Remove…",
         "url": "https://www.aliexpress.com/item/3256810205886808.html",
         "traffic": "10000 sold",
-        "score": 86.7
+        "score": 86.6
       }
     ]
   },
@@ -82,7 +52,7 @@
     "url": "https://www.aliexpress.com/item/3256807498716941.html",
     "traffic": "7000 sold",
     "eligible": true,
-    "observedAt": "2026-11-19T13:34:59.035Z",
+    "observedAt": "2026-11-20T13:16:10.641Z",
     "signals": [
       {
         "source": "aliexpress",
@@ -94,66 +64,66 @@
     ]
   },
   {
-    "id": "t_71fb21e3d9",
-    "title": "220ML Air Humidifier Cool Mist Aroma Diffuser LED Night Light Power-Off Protect USB…",
+    "id": "t_5aeeeb3e76",
+    "title": "The simulated volcanic color lamp humidifier USB aromatherapy diffuser is suitable for…",
     "source": "aliexpress",
     "geo": "GLOBAL",
-    "score": 85.89111813383047,
+    "score": 84.50623544318105,
     "keywords": [
-      "220ml",
-      "air",
+      "simulated",
+      "volcanic",
+      "color",
+      "lamp",
       "humidifier",
-      "cool",
-      "mist",
-      "aroma",
-      "diffuser",
-      "led"
+      "usb",
+      "aromatherapy",
+      "diffuser"
     ],
-    "query": "220ml air humidifier cool",
+    "query": "simulated volcanic color lamp",
     "category": "home",
-    "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005011653853619:12000056156531785&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
-    "traffic": "6000 sold",
+    "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005010487454631:12000052569469686&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+    "traffic": "2000 sold",
     "eligible": true,
-    "observedAt": "2026-11-19T13:34:59.035Z",
+    "observedAt": "2026-11-20T13:16:10.641Z",
     "signals": [
       {
         "source": "aliexpress",
-        "title": "220ML Air Humidifier Cool Mist Aroma Diffuser LED Night Light Power-Off Protect USB…",
-        "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005011653853619:12000056156531785&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
-        "traffic": "6000 sold",
-        "score": 85.89111813383047
+        "title": "The simulated volcanic color lamp humidifier USB aromatherapy diffuser is suitable for…",
+        "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005010487454631:12000052569469686&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+        "traffic": "2000 sold",
+        "score": 84.50623544318105
       }
     ]
   },
   {
-    "id": "t_cd6dfb522d",
-    "title": "250ML Mini USB Air Humidifier Aroma Diffuser Essential Oil Cool Mist Maker RGB LED Night…",
+    "id": "t_c5cad62196",
+    "title": "Wall-mounted Oil Aromatherapy Machine Air Purifying Automatic Diffuser Toilet…",
     "source": "aliexpress",
     "geo": "GLOBAL",
-    "score": 85.01084275689499,
+    "score": 84.38632997712426,
     "keywords": [
-      "250ml",
-      "mini",
-      "usb",
+      "wall",
+      "mounted",
+      "oil",
+      "aromatherapy",
+      "machine",
       "air",
-      "humidifier",
-      "aroma",
-      "diffuser",
-      "essential"
+      "purifying",
+      "automatic"
     ],
-    "query": "250ml mini usb air",
-    "category": "tech",
-    "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005006904748093:12000038670983299&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
-    "traffic": "4000 sold",
+    "query": "wall mounted oil aromatherapy",
+    "category": "home",
+    "url": "https://www.aliexpress.com/item/3256807209396429.html",
+    "traffic": "3000 sold",
     "eligible": true,
-    "observedAt": "2026-11-19T13:34:59.035Z",
+    "observedAt": "2026-11-20T13:16:10.641Z",
     "signals": [
       {
         "source": "aliexpress",
-        "title": "250ML Mini USB Air Humidifier Aroma Diffuser Essential Oil Cool Mist Maker RGB LED Night…",
-        "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005006904748093:12000038670983299&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
-        "traffic": "4000 sold",
-        "score": 85.01084275689499
+        "title": "Wall-mounted Oil Aromatherapy Machine Air Purifying Automatic Diffuser Toilet…",
+        "url": "https://www.aliexpress.com/item/3256807209396429.html",
+        "traffic": "3000 sold",
+        "score": 84.38632997712426
       }
     ]
   },
@@ -178,7 +148,7 @@
     "url": "https://www.aliexpress.com/item/3256812731969690.html",
     "traffic": "4000 sold",
     "eligible": true,
-    "observedAt": "2026-11-19T13:34:59.035Z",
+    "observedAt": "2026-11-20T13:16:10.641Z",
     "signals": [
       {
         "source": "aliexpress",
@@ -208,15 +178,47 @@
     "query": "multifunctional kitchen tool jar",
     "category": "kitchen",
     "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005006904452836:12000038670871307&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
-    "traffic": "30000 sold",
+    "traffic": "10000 sold",
     "eligible": true,
-    "observedAt": "2026-11-19T13:34:59.035Z",
+    "observedAt": "2026-11-20T13:16:10.641Z",
     "signals": [
       {
         "source": "aliexpress",
         "title": "Multifunctional 4-in-1 Kitchen Tool Jar Gripper Lid Opener Can Opener Bottle Opener…",
         "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005006904452836:12000038670871307&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
-        "traffic": "30000 sold",
+        "traffic": "10000 sold",
+        "score": 84
+      }
+    ]
+  },
+  {
+    "id": "t_4d1b7c89c1",
+    "title": "4/8Pcs Blackhead Remover Kit Stainless Steel Acne Needle Clip Facial Pore Blemish…",
+    "source": "aliexpress",
+    "geo": "GLOBAL",
+    "score": 84,
+    "keywords": [
+      "8pcs",
+      "blackhead",
+      "remover",
+      "kit",
+      "stainless",
+      "steel",
+      "acne",
+      "needle"
+    ],
+    "query": "8pcs blackhead remover kit",
+    "category": "beauty",
+    "url": "https://www.aliexpress.com/item/3256811554856037.html",
+    "traffic": "10000 sold",
+    "eligible": true,
+    "observedAt": "2026-11-20T13:16:10.641Z",
+    "signals": [
+      {
+        "source": "aliexpress",
+        "title": "4/8Pcs Blackhead Remover Kit Stainless Steel Acne Needle Clip Facial Pore Blemish…",
+        "url": "https://www.aliexpress.com/item/3256811554856037.html",
+        "traffic": "10000 sold",
         "score": 84
       }
     ]
@@ -242,7 +244,7 @@
     "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005010036528204:12000050905691405&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
     "traffic": "8000 sold",
     "eligible": true,
-    "observedAt": "2026-11-19T13:34:59.035Z",
+    "observedAt": "2026-11-20T13:16:10.641Z",
     "signals": [
       {
         "source": "aliexpress",
@@ -261,18 +263,49 @@
     ]
   },
   {
-    "id": "t_94fcc68439",
-    "title": "hugo broos comments bafana bafana coach",
+    "id": "t_a925264215",
+    "title": "1pc Car Humidifier Colorful LED Aromatherapy Humidifier Silent Ultrasonic Air…",
+    "source": "aliexpress",
+    "geo": "GLOBAL",
+    "score": 83.51572135204769,
+    "keywords": [
+      "1pc",
+      "car",
+      "humidifier",
+      "colorful",
+      "led",
+      "aromatherapy",
+      "humidifier",
+      "silent"
+    ],
+    "query": "1pc car humidifier colorful",
+    "category": "tech",
+    "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005009582410542:12000049533745224&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+    "traffic": "8000 sold",
+    "eligible": true,
+    "observedAt": "2026-11-20T13:16:10.641Z",
+    "signals": [
+      {
+        "source": "aliexpress",
+        "title": "1pc Car Humidifier Colorful LED Aromatherapy Humidifier Silent Ultrasonic Air…",
+        "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005009582410542:12000049533745224&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+        "traffic": "8000 sold",
+        "score": 83.51572135204769
+      }
+    ]
+  },
+  {
+    "id": "t_eda4a7caaa",
+    "title": "rassie erasmus springboks ireland test",
     "source": "google-trends",
     "geo": "ZA",
     "score": 83.20411998265593,
     "keywords": [
-      "hugo",
-      "broos",
-      "comments",
-      "bafana",
-      "bafana",
-      "coach"
+      "rassie",
+      "erasmus",
+      "springboks",
+      "ireland",
+      "test"
     ],
     "query": "supporter scarf and fan gear",
     "event": "show your colours",
@@ -280,11 +313,11 @@
     "url": "https://trends.google.com/trending/rss?geo=ZA",
     "traffic": "2000+",
     "eligible": true,
-    "observedAt": "2026-11-19T13:34:59.196Z",
+    "observedAt": "2026-11-20T13:16:10.828Z",
     "signals": [
       {
         "source": "google-trends",
-        "title": "hugo broos comments bafana bafana coach",
+        "title": "rassie erasmus springboks ireland test",
         "url": "https://trends.google.com/trending/rss?geo=ZA",
         "traffic": "2000+",
         "score": 83.20411998265593
@@ -292,107 +325,76 @@
     ]
   },
   {
-    "id": "t_3de2216560",
-    "title": "Portable Multifunctional Push Up Board Fitness and Muscle Training Device Home Workout…",
+    "id": "t_6242a1021d",
+    "title": "Wireless LED Face Mask 7 Colors Rechargeable Portable Facial Mask Skin Rejuvenation Skin…",
     "source": "aliexpress",
     "geo": "GLOBAL",
-    "score": 82.49528427273833,
+    "score": 83.00623544318105,
     "keywords": [
-      "portable",
-      "multifunctional",
-      "push",
-      "board",
-      "fitness",
-      "muscle",
-      "training",
-      "device"
-    ],
-    "query": "portable multifunctional push board",
-    "category": "fitness",
-    "url": "https://www.aliexpress.com/item/3256811915002563.html",
-    "traffic": "5000 sold",
-    "eligible": true,
-    "observedAt": "2026-11-19T13:34:59.035Z",
-    "signals": [
-      {
-        "source": "aliexpress",
-        "title": "Portable Multifunctional Push Up Board Fitness and Muscle Training Device Home Workout…",
-        "url": "https://www.aliexpress.com/item/3256811915002563.html",
-        "traffic": "5000 sold",
-        "score": 82.49528427273833
-      }
-    ]
-  },
-  {
-    "id": "t_64f379fa63",
-    "title": "1/3/5/8-Piece Stainless Steel Blackhead Remover Kit Professional Pimple Popper Set For…",
-    "source": "aliexpress",
-    "geo": "GLOBAL",
-    "score": 82.49528427273833,
-    "keywords": [
-      "piece",
-      "stainless",
-      "steel",
-      "blackhead",
-      "remover",
-      "kit",
-      "professional",
-      "pimple"
-    ],
-    "query": "piece stainless steel blackhead",
-    "category": "lifestyle",
-    "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005007306725190:12000061743832125&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
-    "traffic": "5000 sold",
-    "eligible": true,
-    "observedAt": "2026-11-19T13:34:59.035Z",
-    "signals": [
-      {
-        "source": "aliexpress",
-        "title": "1/3/5/8-Piece Stainless Steel Blackhead Remover Kit Professional Pimple Popper Set For…",
-        "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005007306725190:12000061743832125&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
-        "traffic": "5000 sold",
-        "score": 82.49528427273833
-      }
-    ]
-  },
-  {
-    "id": "t_91fe0b9039",
-    "title": "Remote Control RGB LED Strobe Light Wireless Rechargeable Footwell Lights Exterior…",
-    "source": "aliexpress",
-    "geo": "GLOBAL",
-    "score": 82.49528427273833,
-    "keywords": [
-      "remote",
-      "control",
-      "rgb",
-      "led",
-      "strobe",
-      "light",
       "wireless",
-      "rechargeable"
+      "led",
+      "face",
+      "mask",
+      "colors",
+      "rechargeable",
+      "portable",
+      "facial"
     ],
-    "query": "remote control rgb led",
+    "query": "wireless led face mask",
     "category": "tech",
-    "url": "https://www.aliexpress.com/item/3256811494407968.html",
-    "traffic": "5000 sold",
+    "url": "https://www.aliexpress.com/item/3256812354597968.html",
+    "traffic": "2000 sold",
     "eligible": true,
-    "observedAt": "2026-11-19T13:34:59.035Z",
+    "observedAt": "2026-11-20T13:16:10.641Z",
     "signals": [
       {
         "source": "aliexpress",
-        "title": "Remote Control RGB LED Strobe Light Wireless Rechargeable Footwell Lights Exterior…",
-        "url": "https://www.aliexpress.com/item/3256811494407968.html",
-        "traffic": "5000 sold",
-        "score": 82.49528427273833
+        "title": "Wireless LED Face Mask 7 Colors Rechargeable Portable Facial Mask Skin Rejuvenation Skin…",
+        "url": "https://www.aliexpress.com/item/3256812354597968.html",
+        "traffic": "2000 sold",
+        "score": 83.00623544318105
       }
     ]
+  },
+  {
+    "id": "t_c7a8833ec3",
+    "title": "Car Accessories Christmas Car Decoration Deer Horn Antlers Car Kit with Red Nose and…",
+    "source": "aliexpress",
+    "geo": "GLOBAL",
+    "score": 82.50623544318105,
+    "keywords": [
+      "car",
+      "accessories",
+      "christmas",
+      "car",
+      "decoration",
+      "deer",
+      "horn",
+      "antlers"
+    ],
+    "query": "christmas decor and gift set",
+    "category": "home",
+    "url": "https://www.aliexpress.com/item/3256809240503395.html",
+    "traffic": "2000 sold",
+    "eligible": true,
+    "observedAt": "2026-11-20T13:16:10.641Z",
+    "signals": [
+      {
+        "source": "aliexpress",
+        "title": "Car Accessories Christmas Car Decoration Deer Horn Antlers Car Kit with Red Nose and…",
+        "url": "https://www.aliexpress.com/item/3256809240503395.html",
+        "traffic": "2000 sold",
+        "score": 82.50623544318105
+      }
+    ],
+    "event": "make it feel like Christmas"
   },
   {
     "id": "t_9c615195a1",
     "title": "Beauty 4 Wavelengths Diode Machine 1470nm 980nm 635nm 450nm Multifunctional Beauty…",
     "source": "aliexpress",
     "geo": "GLOBAL",
-    "score": 82.39528427273834,
+    "score": 82.29528427273833,
     "keywords": [
       "beauty",
       "wavelengths",
@@ -408,14 +410,78 @@
     "url": "https://www.aliexpress.com/item/3256813023456069.html",
     "traffic": "5000 sold",
     "eligible": true,
-    "observedAt": "2026-11-19T13:34:59.035Z",
+    "observedAt": "2026-11-20T13:16:10.641Z",
     "signals": [
       {
         "source": "aliexpress",
         "title": "Beauty 4 Wavelengths Diode Machine 1470nm 980nm 635nm 450nm Multifunctional Beauty…",
         "url": "https://www.aliexpress.com/item/3256813023456069.html",
         "traffic": "5000 sold",
-        "score": 82.39528427273834
+        "score": 82.29528427273833
+      }
+    ]
+  },
+  {
+    "id": "t_efc9bd70f6",
+    "title": "Lenove Original M47 Wireless Earbuds Bluetooth Headset Charging Earphones Bone…",
+    "source": "aliexpress",
+    "geo": "GLOBAL",
+    "score": 82.01084275689499,
+    "keywords": [
+      "lenove",
+      "original",
+      "m47",
+      "wireless",
+      "earbuds",
+      "bluetooth",
+      "headset",
+      "charging"
+    ],
+    "query": "lenove original m47 wireless",
+    "category": "tech",
+    "url": "https://www.aliexpress.com/item/3256812446184514.html",
+    "traffic": "4000 sold",
+    "eligible": true,
+    "observedAt": "2026-11-20T13:16:10.641Z",
+    "signals": [
+      {
+        "source": "aliexpress",
+        "title": "Lenove Original M47 Wireless Earbuds Bluetooth Headset Charging Earphones Bone…",
+        "url": "https://www.aliexpress.com/item/3256812446184514.html",
+        "traffic": "4000 sold",
+        "score": 82.01084275689499
+      }
+    ]
+  },
+  {
+    "id": "t_915f48b39f",
+    "title": "300ml Aromatherapy Diffuser Humidifier Air Purifier Car Home Use Seven-color Light…",
+    "source": "aliexpress",
+    "geo": "GLOBAL",
+    "score": 82.00217038739659,
+    "keywords": [
+      "300ml",
+      "aromatherapy",
+      "diffuser",
+      "humidifier",
+      "air",
+      "purifier",
+      "car",
+      "home"
+    ],
+    "query": "300ml aromatherapy diffuser humidifier",
+    "category": "home",
+    "url": "https://www.aliexpress.com/item/3256810501559244.html",
+    "traffic": "1000 sold",
+    "eligible": true,
+    "observedAt": "2026-11-20T13:16:10.641Z",
+    "signals": [
+      {
+        "source": "aliexpress",
+        "title": "300ml Aromatherapy Diffuser Humidifier Air Purifier Car Home Use Seven-color Light…",
+        "url": "https://www.aliexpress.com/item/3256810501559244.html",
+        "traffic": "1000 sold",
+        "score": 82.00217038739659
       }
     ]
   },
@@ -424,7 +490,7 @@
     "title": "Gadget Home Kitchen Vegetable Chopper 14Set Of Multifunctional Grater, Potato Shredded…",
     "source": "aliexpress",
     "geo": "GLOBAL",
-    "score": 81.80623544318105,
+    "score": 81.70623544318106,
     "keywords": [
       "gadget",
       "home",
@@ -440,53 +506,53 @@
     "url": "https://www.aliexpress.com/item/3256812122229727.html",
     "traffic": "2000 sold",
     "eligible": true,
-    "observedAt": "2026-11-19T13:34:59.035Z",
+    "observedAt": "2026-11-20T13:16:10.641Z",
     "signals": [
       {
         "source": "aliexpress",
         "title": "Gadget Home Kitchen Vegetable Chopper 14Set Of Multifunctional Grater, Potato Shredded…",
         "url": "https://www.aliexpress.com/item/3256812122229727.html",
         "traffic": "2000 sold",
-        "score": 78.80623544318105
+        "score": 78.70623544318106
       },
       {
         "source": "aliexpress",
         "title": "Kitchen Gadget Home Vegetable Chopper 14Set Of Multifunctional Grater, Potato Shredded…",
         "url": "https://www.aliexpress.com/item/3256812122229727.html",
         "traffic": "2000 sold",
-        "score": 78.80623544318105
+        "score": 78.70623544318106
       }
     ]
   },
   {
-    "id": "t_8d54fcbfa9",
-    "title": "Super Bright MINI COB Keychain Flashlight Charging Lamp Camping Lights with Magnet 4…",
+    "id": "t_5ddeec4600",
+    "title": "Multi-Purpose Eyebrow Shaver Set Gentle Facial Hair Trimmer Easy Grooming and Shaping…",
     "source": "aliexpress",
     "geo": "GLOBAL",
-    "score": 81,
+    "score": 81.4,
     "keywords": [
-      "super",
-      "bright",
-      "mini",
-      "cob",
-      "keychain",
-      "flashlight",
-      "charging",
-      "lamp"
+      "multi",
+      "purpose",
+      "eyebrow",
+      "shaver",
+      "set",
+      "gentle",
+      "facial",
+      "hair"
     ],
-    "query": "super bright mini cob",
-    "category": "home",
-    "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005007096946645:12000039391477309&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+    "query": "multi purpose eyebrow shaver",
+    "category": "beauty",
+    "url": "https://www.aliexpress.com/item/3256811824631128.html",
     "traffic": "10000 sold",
     "eligible": true,
-    "observedAt": "2026-11-19T13:34:59.035Z",
+    "observedAt": "2026-11-20T13:16:10.641Z",
     "signals": [
       {
         "source": "aliexpress",
-        "title": "Super Bright MINI COB Keychain Flashlight Charging Lamp Camping Lights with Magnet 4…",
-        "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005007096946645:12000039391477309&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+        "title": "Multi-Purpose Eyebrow Shaver Set Gentle Facial Hair Trimmer Easy Grooming and Shaping…",
+        "url": "https://www.aliexpress.com/item/3256811824631128.html",
         "traffic": "10000 sold",
-        "score": 81
+        "score": 81.4
       }
     ]
   },
@@ -508,15 +574,15 @@
     ],
     "query": "2in1 kitchen spray oil",
     "category": "home",
-    "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005010044196353:12000050930527986&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+    "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005010044196353:12000050930527985&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
     "traffic": "50000 sold",
     "eligible": true,
-    "observedAt": "2026-11-19T13:34:59.035Z",
+    "observedAt": "2026-11-20T13:16:10.641Z",
     "signals": [
       {
         "source": "aliexpress",
         "title": "2in1 Kitchen Spray Oil Dispenser Oil Sprayer Polisher Or Only Brush Spray for Air Fryer…",
-        "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005010044196353:12000050930527986&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+        "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005010044196353:12000050930527985&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
         "traffic": "50000 sold",
         "score": 81
       }
@@ -540,112 +606,80 @@
     ],
     "query": "500mloil spray plastic household",
     "category": "kitchen",
-    "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005007702809063:12000041913196115&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+    "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005007702809063:12000041913196110&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
     "traffic": "30000 sold",
     "eligible": true,
-    "observedAt": "2026-11-19T13:34:59.035Z",
+    "observedAt": "2026-11-20T13:16:10.641Z",
     "signals": [
       {
         "source": "aliexpress",
         "title": "200/300/500mlOil Spray Plastic Household Kitchen Oil Spray Bottle Or Oil Brush…",
-        "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005007702809063:12000041913196115&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+        "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005007702809063:12000041913196110&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
         "traffic": "30000 sold",
         "score": 81
       }
     ]
   },
   {
-    "id": "t_0f6448aa1c",
-    "title": "Exercise Resistance Bands, Latex Loop Set. For Strength Training, Home & Travel…",
+    "id": "t_5f9a061b41",
+    "title": "Popular Colorful Mouse in Cage Cat Toy Within Sand Interactive Chase Cat Mouse Toy",
     "source": "aliexpress",
     "geo": "GLOBAL",
     "score": 81,
     "keywords": [
-      "exercise",
-      "resistance",
-      "bands",
-      "latex",
-      "loop",
-      "set",
-      "strength",
-      "training"
+      "popular",
+      "colorful",
+      "mouse",
+      "cage",
+      "cat",
+      "toy",
+      "within",
+      "sand"
     ],
-    "query": "exercise resistance bands latex",
-    "category": "home",
-    "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005007010227782:12000039049963728&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+    "query": "popular colorful mouse cage",
+    "category": "tech",
+    "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005007171098539:12000039691590567&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
     "traffic": "10000 sold",
     "eligible": true,
-    "observedAt": "2026-11-19T13:34:59.035Z",
+    "observedAt": "2026-11-20T13:16:10.641Z",
     "signals": [
       {
         "source": "aliexpress",
-        "title": "Exercise Resistance Bands, Latex Loop Set. For Strength Training, Home & Travel…",
-        "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005007010227782:12000039049963728&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+        "title": "Popular Colorful Mouse in Cage Cat Toy Within Sand Interactive Chase Cat Mouse Toy",
+        "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005007171098539:12000039691590567&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
         "traffic": "10000 sold",
         "score": 81
       }
     ]
   },
   {
-    "id": "t_b06b3df78b",
-    "title": "Cross-border pet dog leakage toy balls, teething puzzles, anti-boring and biting…",
+    "id": "t_cee12b6107",
+    "title": "Pet Accessories Cleaning Products Pet Hair Remover Portable Washable Clothes Hair…",
     "source": "aliexpress",
     "geo": "GLOBAL",
     "score": 81,
     "keywords": [
-      "cross",
-      "border",
       "pet",
-      "dog",
-      "leakage",
-      "toy",
-      "balls",
-      "teething"
+      "accessories",
+      "cleaning",
+      "products",
+      "pet",
+      "hair",
+      "remover",
+      "portable"
     ],
-    "query": "cross border pet dog",
-    "category": "pets",
-    "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005007170804768:12000039691601994&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
-    "traffic": "20000 sold",
+    "query": "pet accessories cleaning products",
+    "category": "beauty",
+    "url": "https://www.aliexpress.com/item/3256811986760355.html",
+    "traffic": "50000 sold",
     "eligible": true,
-    "observedAt": "2026-11-19T13:34:59.035Z",
+    "observedAt": "2026-11-20T13:16:10.641Z",
     "signals": [
       {
         "source": "aliexpress",
-        "title": "Cross-border pet dog leakage toy balls, teething puzzles, anti-boring and biting…",
-        "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005007170804768:12000039691601994&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
-        "traffic": "20000 sold",
-        "score": 81
-      }
-    ]
-  },
-  {
-    "id": "t_b08ef2ca3c",
-    "title": "Paw Print Clean Touch Ink Pad, Dog Or Cat Pet Owner Keepsake, DIY Inkless Nose and…",
-    "source": "aliexpress",
-    "geo": "GLOBAL",
-    "score": 81,
-    "keywords": [
-      "paw",
-      "print",
-      "clean",
-      "touch",
-      "ink",
-      "pad",
-      "dog",
-      "cat"
-    ],
-    "query": "paw print clean touch",
-    "category": "pets",
-    "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005006966504080:12000038883410916&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
-    "traffic": "70000 sold",
-    "eligible": true,
-    "observedAt": "2026-11-19T13:34:59.035Z",
-    "signals": [
-      {
-        "source": "aliexpress",
-        "title": "Paw Print Clean Touch Ink Pad, Dog Or Cat Pet Owner Keepsake, DIY Inkless Nose and…",
-        "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005006966504080:12000038883410916&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
-        "traffic": "70000 sold",
+        "title": "Pet Accessories Cleaning Products Pet Hair Remover Portable Washable Clothes Hair…",
+        "url": "https://www.aliexpress.com/item/3256811986760355.html",
+        "traffic": "50000 sold",
         "score": 81
       }
     ]
@@ -671,7 +705,7 @@
     "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005007038620287:12000039180823022&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
     "traffic": "10000 sold",
     "eligible": true,
-    "observedAt": "2026-11-19T13:34:59.035Z",
+    "observedAt": "2026-11-20T13:16:10.641Z",
     "signals": [
       {
         "source": "aliexpress",
@@ -690,34 +724,41 @@
     ]
   },
   {
-    "id": "t_6718f9abb9",
-    "title": "Burger Press Hamburger Meat Tool Patty Maker Aluminum Burger Maker for Kitchen BBQ Grill",
+    "id": "t_87acc324cf",
+    "title": "2In1 Chestnut Opener Machine Chestnut Clip Walnut Pliers Sheath Cutter Nut Cracker…",
     "source": "aliexpress",
     "geo": "GLOBAL",
-    "score": 80.77145380850564,
+    "score": 80.90623544318106,
     "keywords": [
-      "burger",
-      "press",
-      "hamburger",
-      "meat",
-      "tool",
-      "patty",
-      "maker",
-      "aluminum"
+      "2in1",
+      "chestnut",
+      "opener",
+      "machine",
+      "chestnut",
+      "clip",
+      "walnut",
+      "pliers"
     ],
-    "query": "burger press hamburger meat",
-    "category": "home",
-    "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005006861899114:12000061332771007&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
-    "traffic": "9000 sold",
+    "query": "2in1 chestnut opener machine",
+    "category": "lifestyle",
+    "url": "https://www.aliexpress.com/item/3256807670772823.html",
+    "traffic": "2000 sold",
     "eligible": true,
-    "observedAt": "2026-11-19T13:34:59.035Z",
+    "observedAt": "2026-11-20T13:16:10.641Z",
     "signals": [
       {
         "source": "aliexpress",
-        "title": "Burger Press Hamburger Meat Tool Patty Maker Aluminum Burger Maker for Kitchen BBQ Grill",
-        "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005006861899114:12000061332771007&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
-        "traffic": "9000 sold",
-        "score": 80.77145380850564
+        "title": "2In1 Chestnut Opener Machine Chestnut Clip Walnut Pliers Sheath Cutter Nut Cracker…",
+        "url": "https://www.aliexpress.com/item/3256807670772823.html",
+        "traffic": "2000 sold",
+        "score": 77.90623544318106
+      },
+      {
+        "source": "aliexpress",
+        "title": "2In1 Chestnut Opener Machine Chestnut Clip Walnut Pliers Sheath Cutter Nut Cracker…",
+        "url": "https://www.aliexpress.com/item/3256807670772823.html",
+        "traffic": "2000 sold",
+        "score": 77.90623544318106
       }
     ]
   },
@@ -742,44 +783,12 @@
     "url": "https://www.aliexpress.com/item/3256811554954364.html",
     "traffic": "8000 sold",
     "eligible": true,
-    "observedAt": "2026-11-19T13:34:59.035Z",
+    "observedAt": "2026-11-20T13:16:10.641Z",
     "signals": [
       {
         "source": "aliexpress",
         "title": "Kitchen Multifunctional 4 Blade Grain Grinder Coffee Chopping Home Electric Coffee…",
         "url": "https://www.aliexpress.com/item/3256811554954364.html",
-        "traffic": "8000 sold",
-        "score": 80.51572135204769
-      }
-    ]
-  },
-  {
-    "id": "t_ee22a188c6",
-    "title": "Dog Collars Harness Big Vests Leash Pet Shop Everything for Dogs Leather Puppy…",
-    "source": "aliexpress",
-    "geo": "GLOBAL",
-    "score": 80.51572135204769,
-    "keywords": [
-      "dog",
-      "collars",
-      "harness",
-      "big",
-      "vests",
-      "leash",
-      "pet",
-      "shop"
-    ],
-    "query": "dog collars harness big",
-    "category": "pets",
-    "url": "https://www.aliexpress.com/item/3256807329754758.html",
-    "traffic": "8000 sold",
-    "eligible": true,
-    "observedAt": "2026-11-19T13:34:59.035Z",
-    "signals": [
-      {
-        "source": "aliexpress",
-        "title": "Dog Collars Harness Big Vests Leash Pet Shop Everything for Dogs Leather Puppy…",
-        "url": "https://www.aliexpress.com/item/3256807329754758.html",
         "traffic": "8000 sold",
         "score": 80.51572135204769
       }
@@ -806,7 +815,7 @@
     "url": "https://www.aliexpress.com/item/3256809391914691.html",
     "traffic": "2000 sold",
     "eligible": true,
-    "observedAt": "2026-11-19T13:34:59.035Z",
+    "observedAt": "2026-11-20T13:16:10.641Z",
     "signals": [
       {
         "source": "aliexpress",
@@ -818,66 +827,66 @@
     ]
   },
   {
-    "id": "t_0665ca8234",
-    "title": "SK6812 RGBW Addressable Led Strip 5V SK6812 RGBW Led Strip Light 4 in 1 Similar WS2812B…",
+    "id": "t_c77b8601c8",
+    "title": "Mini 2 in 1 Rechargeable Bag Sealer, Heat Sealer With Cutter & Magnet, Portable Plastic…",
     "source": "aliexpress",
     "geo": "GLOBAL",
-    "score": 80.22580038825973,
+    "score": 80.38803476360246,
     "keywords": [
-      "sk6812",
-      "rgbw",
-      "addressable",
-      "led",
-      "strip",
-      "sk6812",
-      "rgbw",
-      "led"
+      "mini",
+      "rechargeable",
+      "bag",
+      "sealer",
+      "heat",
+      "sealer",
+      "cutter",
+      "magnet"
     ],
-    "query": "sk6812 rgbw addressable led",
-    "category": "tech",
-    "url": "https://www.aliexpress.com/item/2251832290002435.html",
-    "traffic": "7000 sold",
+    "query": "mini rechargeable bag sealer",
+    "category": "fashion",
+    "url": "https://www.aliexpress.com/item/3256812252359681.html",
+    "traffic": "475 sold",
     "eligible": true,
-    "observedAt": "2026-11-19T13:34:59.035Z",
+    "observedAt": "2026-11-20T13:16:10.641Z",
     "signals": [
       {
         "source": "aliexpress",
-        "title": "SK6812 RGBW Addressable Led Strip 5V SK6812 RGBW Led Strip Light 4 in 1 Similar WS2812B…",
-        "url": "https://www.aliexpress.com/item/2251832290002435.html",
-        "traffic": "7000 sold",
-        "score": 80.22580038825973
+        "title": "Mini 2 in 1 Rechargeable Bag Sealer, Heat Sealer With Cutter & Magnet, Portable Plastic…",
+        "url": "https://www.aliexpress.com/item/3256812252359681.html",
+        "traffic": "475 sold",
+        "score": 80.38803476360246
       }
     ]
   },
   {
-    "id": "t_07efc35774",
-    "title": "Beauty Care Tool Small Eyebrow Scissors and Nose Hair Scissors for Women and Men",
+    "id": "t_cd77f2681c",
+    "title": "Mini Cute Turtle Plush Dog Toy, Puppy Teething Toy, Dental Cleaning Chew Toy for Small…",
     "source": "aliexpress",
     "geo": "GLOBAL",
-    "score": 80.1,
+    "score": 79.49528427273833,
     "keywords": [
-      "beauty",
-      "care",
-      "tool",
-      "small",
-      "eyebrow",
-      "scissors",
-      "nose",
-      "hair"
+      "mini",
+      "cute",
+      "turtle",
+      "plush",
+      "dog",
+      "toy",
+      "puppy",
+      "teething"
     ],
-    "query": "beauty care tool small",
-    "category": "beauty",
-    "url": "https://www.aliexpress.com/item/3256808061724138.html",
-    "traffic": "10000 sold",
+    "query": "mini cute turtle plush",
+    "category": "pets",
+    "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005009274918045:12000048579129756&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+    "traffic": "5000 sold",
     "eligible": true,
-    "observedAt": "2026-11-19T13:34:59.035Z",
+    "observedAt": "2026-11-20T13:16:10.641Z",
     "signals": [
       {
         "source": "aliexpress",
-        "title": "Beauty Care Tool Small Eyebrow Scissors and Nose Hair Scissors for Women and Men",
-        "url": "https://www.aliexpress.com/item/3256808061724138.html",
-        "traffic": "10000 sold",
-        "score": 80.1
+        "title": "Mini Cute Turtle Plush Dog Toy, Puppy Teething Toy, Dental Cleaning Chew Toy for Small…",
+        "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005009274918045:12000048579129756&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+        "traffic": "5000 sold",
+        "score": 79.49528427273833
       }
     ]
   },
@@ -886,7 +895,7 @@
     "title": "Portable Multifunctional Household Cleaning Box, Mini Home Cleaner for Eyeglasses…",
     "source": "aliexpress",
     "geo": "GLOBAL",
-    "score": 79.2,
+    "score": 79.1,
     "keywords": [
       "portable",
       "multifunctional",
@@ -902,14 +911,14 @@
     "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005006995199617:12000038985531711&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
     "traffic": "10000 sold",
     "eligible": true,
-    "observedAt": "2026-11-19T13:34:59.035Z",
+    "observedAt": "2026-11-20T13:16:10.641Z",
     "signals": [
       {
         "source": "aliexpress",
         "title": "Portable Multifunctional Household Cleaning Box, Mini Home Cleaner for Eyeglasses…",
         "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005006995199617:12000038985531711&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
         "traffic": "10000 sold",
-        "score": 79.2
+        "score": 79.1
       }
     ]
   },
@@ -918,7 +927,7 @@
     "title": "NEW USB Sweeping Robot Vacuum Cleaner Mopping 3 In 1 Smart Wireless 1500Pa Dragging…",
     "source": "aliexpress",
     "geo": "GLOBAL",
-    "score": 78.4,
+    "score": 78.9,
     "keywords": [
       "usb",
       "sweeping",
@@ -934,302 +943,236 @@
     "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005007709645715:12000042075936441&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
     "traffic": "10000 sold",
     "eligible": true,
-    "observedAt": "2026-11-19T13:34:59.035Z",
+    "observedAt": "2026-11-20T13:16:10.641Z",
     "signals": [
       {
         "source": "aliexpress",
         "title": "NEW USB Sweeping Robot Vacuum Cleaner Mopping 3 In 1 Smart Wireless 1500Pa Dragging…",
         "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005007709645715:12000042075936441&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
         "traffic": "10000 sold",
-        "score": 78.4
+        "score": 78.9
       }
     ]
   },
   {
-    "id": "t_93df7ed2d6",
-    "title": "Sofirn Mini SC13 SST40 LED 1300lm Tactical 18350 Rechargeable Flashlight 6000K Keychain…",
+    "id": "t_748b77a031",
+    "title": "Car Cup Holder Auto Door Window Hanging Beverage Holder Portable Water Bottle Stand Car…",
+    "source": "aliexpress",
+    "geo": "GLOBAL",
+    "score": 78.60623544318105,
+    "keywords": [
+      "car",
+      "cup",
+      "holder",
+      "auto",
+      "door",
+      "window",
+      "hanging",
+      "beverage"
+    ],
+    "query": "car cup holder auto",
+    "category": "kitchen",
+    "url": "https://www.aliexpress.com/item/3256806663267225.html",
+    "traffic": "2000 sold",
+    "eligible": true,
+    "observedAt": "2026-11-20T13:16:10.641Z",
+    "signals": [
+      {
+        "source": "aliexpress",
+        "title": "Car Cup Holder Auto Door Window Hanging Beverage Holder Portable Water Bottle Stand Car…",
+        "url": "https://www.aliexpress.com/item/3256806663267225.html",
+        "traffic": "2000 sold",
+        "score": 78.60623544318105
+      }
+    ]
+  },
+  {
+    "id": "t_473208c763",
+    "title": "Gadgets Bottle Opener 1pcs Multifunctional Portable Beer Can Opener, Cap Cut Coke Bottle…",
     "source": "aliexpress",
     "geo": "GLOBAL",
     "score": 78.38632997712426,
     "keywords": [
-      "sofirn",
-      "mini",
-      "sc13",
-      "sst40",
-      "led",
-      "1300lm",
-      "tactical",
-      "rechargeable"
+      "gadgets",
+      "bottle",
+      "opener",
+      "1pcs",
+      "multifunctional",
+      "portable",
+      "beer",
+      "opener"
     ],
-    "query": "sofirn mini sc13 sst40",
-    "category": "tech",
-    "url": "https://www.aliexpress.com/item/3256809343740122.html",
+    "query": "gadgets bottle opener 1pcs",
+    "category": "kitchen",
+    "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005007485201881:12000040965207659&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
     "traffic": "3000 sold",
     "eligible": true,
-    "observedAt": "2026-11-19T13:34:59.035Z",
+    "observedAt": "2026-11-20T13:16:10.641Z",
     "signals": [
       {
         "source": "aliexpress",
-        "title": "Sofirn Mini SC13 SST40 LED 1300lm Tactical 18350 Rechargeable Flashlight 6000K Keychain…",
-        "url": "https://www.aliexpress.com/item/3256809343740122.html",
+        "title": "Gadgets Bottle Opener 1pcs Multifunctional Portable Beer Can Opener, Cap Cut Coke Bottle…",
+        "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005007485201881:12000040965207659&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
         "traffic": "3000 sold",
         "score": 78.38632997712426
       }
     ]
   },
   {
-    "id": "t_69ce559104",
-    "title": "Mini Spoon Scale Digital Kitchen Scale Electronic LCD Food Scale 0.1-500g Cooking Flour…",
+    "id": "t_ee552edc27",
+    "title": "45000RPM Professional Electric Nail Drill Machine, Portable Rechargeable Nail File for…",
     "source": "aliexpress",
     "geo": "GLOBAL",
-    "score": 78,
+    "score": 78.25876930527878,
+    "keywords": [
+      "45000rpm",
+      "professional",
+      "electric",
+      "nail",
+      "drill",
+      "machine",
+      "portable",
+      "rechargeable"
+    ],
+    "query": "45000rpm professional electric nail",
+    "category": "beauty",
+    "url": "https://www.aliexpress.com/item/3256813091638858.html",
+    "traffic": "204 sold",
+    "eligible": true,
+    "observedAt": "2026-11-20T13:16:10.641Z",
+    "signals": [
+      {
+        "source": "aliexpress",
+        "title": "45000RPM Professional Electric Nail Drill Machine, Portable Rechargeable Nail File for…",
+        "url": "https://www.aliexpress.com/item/3256813091638858.html",
+        "traffic": "204 sold",
+        "score": 78.25876930527878
+      }
+    ]
+  },
+  {
+    "id": "t_357220abca",
+    "title": "Mini USB Ultrasonic Humidifier Aromatherapy With Colorful LED Night Light For Office…",
+    "source": "aliexpress",
+    "geo": "GLOBAL",
+    "score": 78.0845191968783,
     "keywords": [
       "mini",
-      "spoon",
-      "scale",
-      "digital",
-      "kitchen",
-      "scale",
-      "electronic",
-      "lcd"
+      "usb",
+      "ultrasonic",
+      "humidifier",
+      "aromatherapy",
+      "colorful",
+      "led",
+      "night"
     ],
-    "query": "mini spoon scale digital",
-    "category": "kitchen",
-    "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005013266092911:12000060704024149&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
-    "traffic": "40000 sold",
+    "query": "mini usb ultrasonic humidifier",
+    "category": "tech",
+    "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005013066607006:12000060165033849&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+    "traffic": "655 sold",
     "eligible": true,
-    "observedAt": "2026-11-19T13:34:59.035Z",
+    "observedAt": "2026-11-20T13:16:10.641Z",
     "signals": [
       {
         "source": "aliexpress",
-        "title": "Mini Spoon Scale Digital Kitchen Scale Electronic LCD Food Scale 0.1-500g Cooking Flour…",
-        "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005013266092911:12000060704024149&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
-        "traffic": "40000 sold",
+        "title": "Mini USB Ultrasonic Humidifier Aromatherapy With Colorful LED Night Light For Office…",
+        "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005013066607006:12000060165033849&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+        "traffic": "655 sold",
+        "score": 78.0845191968783
+      }
+    ]
+  },
+  {
+    "id": "t_8a3cc69ec1",
+    "title": "comrades marathon kzn athletics dispute",
+    "source": "google-trends",
+    "geo": "ZA",
+    "score": 78,
+    "keywords": [
+      "comrades",
+      "marathon",
+      "kzn",
+      "athletics",
+      "dispute"
+    ],
+    "query": "running hydration belt",
+    "event": "go the distance",
+    "category": "fitness",
+    "url": "https://trends.google.com/trending/rss?geo=ZA",
+    "traffic": "100+",
+    "eligible": true,
+    "observedAt": "2026-11-20T13:16:10.828Z",
+    "signals": [
+      {
+        "source": "google-trends",
+        "title": "comrades marathon kzn athletics dispute",
+        "url": "https://trends.google.com/trending/rss?geo=ZA",
+        "traffic": "100+",
         "score": 78
       }
     ]
   },
   {
-    "id": "t_1979f9f8fe",
-    "title": "Aoifn Food Grades Plastic Microwave Egg Cooker Heat Resistant Kitchen Cooking Mold Egg…",
+    "id": "t_133a968469",
+    "title": "HOT Electric Milk Frother + Egg Beater Wireless Type-C Charging 3 Speeds Mini Handheld…",
     "source": "aliexpress",
     "geo": "GLOBAL",
     "score": 78,
     "keywords": [
-      "aoifn",
-      "food",
-      "grades",
-      "plastic",
-      "microwave",
+      "hot",
+      "electric",
+      "milk",
+      "frother",
       "egg",
-      "cooker",
-      "heat"
+      "beater",
+      "wireless",
+      "type"
     ],
-    "query": "aoifn food grades plastic",
-    "category": "kitchen",
-    "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005013278013105:12000060773619424&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
-    "traffic": "30000 sold",
+    "query": "hot electric milk frother",
+    "category": "tech",
+    "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005007037889730:12000039179101455&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+    "traffic": "20000 sold",
     "eligible": true,
-    "observedAt": "2026-11-19T13:34:59.035Z",
+    "observedAt": "2026-11-20T13:16:10.641Z",
     "signals": [
       {
         "source": "aliexpress",
-        "title": "Aoifn Food Grades Plastic Microwave Egg Cooker Heat Resistant Kitchen Cooking Mold Egg…",
-        "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005013278013105:12000060773619424&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
-        "traffic": "30000 sold",
+        "title": "HOT Electric Milk Frother + Egg Beater Wireless Type-C Charging 3 Speeds Mini Handheld…",
+        "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005007037889730:12000039179101455&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+        "traffic": "20000 sold",
         "score": 78
       }
     ]
   },
   {
-    "id": "t_e03a106906",
-    "title": "Four-Tube Pedal Tensioner Multi-Functional Household Fitness Equipment Yoga Abdominal…",
+    "id": "t_8e6e2b14f1",
+    "title": "Car Accessories Keychain Decoration Motorcycle Decoration Accessories and Car Keychain…",
     "source": "aliexpress",
     "geo": "GLOBAL",
-    "score": 78,
+    "score": 77.9157213520477,
     "keywords": [
-      "four",
-      "tube",
-      "pedal",
-      "tensioner",
-      "multi",
-      "functional",
-      "household",
-      "fitness"
-    ],
-    "query": "four tube pedal tensioner",
-    "category": "fitness",
-    "url": "https://www.aliexpress.com/item/3256811621368188.html",
-    "traffic": "10000 sold",
-    "eligible": true,
-    "observedAt": "2026-11-19T13:34:59.035Z",
-    "signals": [
-      {
-        "source": "aliexpress",
-        "title": "Four-Tube Pedal Tensioner Multi-Functional Household Fitness Equipment Yoga Abdominal…",
-        "url": "https://www.aliexpress.com/item/3256811621368188.html",
-        "traffic": "10000 sold",
-        "score": 78
-      }
-    ]
-  },
-  {
-    "id": "t_0c278f26b1",
-    "title": "Different Resistance Bands Yoga Band Fitness Exercise Training Hip Tension Band Leg…",
-    "source": "aliexpress",
-    "geo": "GLOBAL",
-    "score": 78,
-    "keywords": [
-      "different",
-      "resistance",
-      "bands",
-      "yoga",
-      "band",
-      "fitness",
-      "exercise",
-      "training"
-    ],
-    "query": "different resistance bands yoga",
-    "category": "fitness",
-    "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005007792835015:12000042219053346&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
-    "traffic": "10000 sold",
-    "eligible": true,
-    "observedAt": "2026-11-19T13:34:59.035Z",
-    "signals": [
-      {
-        "source": "aliexpress",
-        "title": "Different Resistance Bands Yoga Band Fitness Exercise Training Hip Tension Band Leg…",
-        "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005007792835015:12000042219053346&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
-        "traffic": "10000 sold",
-        "score": 78
-      }
-    ]
-  },
-  {
-    "id": "t_cee12b6107",
-    "title": "Pet Accessories Cleaning Products Pet Hair Remover Portable Washable Clothes Hair…",
-    "source": "aliexpress",
-    "geo": "GLOBAL",
-    "score": 78,
-    "keywords": [
-      "pet",
+      "car",
       "accessories",
-      "cleaning",
-      "products",
-      "pet",
-      "hair",
-      "remover",
-      "portable"
+      "keychain",
+      "decoration",
+      "motorcycle",
+      "decoration",
+      "accessories",
+      "car"
     ],
-    "query": "pet accessories cleaning products",
-    "category": "beauty",
-    "url": "https://www.aliexpress.com/item/3256811986760355.html",
-    "traffic": "50000 sold",
+    "query": "car accessories keychain decoration",
+    "category": "auto",
+    "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005009540835206:12000049410082594&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+    "traffic": "8000 sold",
     "eligible": true,
-    "observedAt": "2026-11-19T13:34:59.035Z",
+    "observedAt": "2026-11-20T13:16:10.641Z",
     "signals": [
       {
         "source": "aliexpress",
-        "title": "Pet Accessories Cleaning Products Pet Hair Remover Portable Washable Clothes Hair…",
-        "url": "https://www.aliexpress.com/item/3256811986760355.html",
-        "traffic": "50000 sold",
-        "score": 78
-      }
-    ]
-  },
-  {
-    "id": "t_96f41632a0",
-    "title": "Men Women Smart Watch 2.01'' Waterproof Fitness Sport Watch Answer Call Sleep Sport…",
-    "source": "aliexpress",
-    "geo": "GLOBAL",
-    "score": 77.50623544318105,
-    "keywords": [
-      "men",
-      "women",
-      "smart",
-      "watch",
-      "waterproof",
-      "fitness",
-      "sport",
-      "watch"
-    ],
-    "query": "men women smart watch",
-    "category": "fitness",
-    "url": "https://www.aliexpress.com/item/3256812227535001.html",
-    "traffic": "2000 sold",
-    "eligible": true,
-    "observedAt": "2026-11-19T13:34:59.035Z",
-    "signals": [
-      {
-        "source": "aliexpress",
-        "title": "Men Women Smart Watch 2.01'' Waterproof Fitness Sport Watch Answer Call Sleep Sport…",
-        "url": "https://www.aliexpress.com/item/3256812227535001.html",
-        "traffic": "2000 sold",
-        "score": 77.50623544318105
-      }
-    ]
-  },
-  {
-    "id": "t_cf5c763a06",
-    "title": "Kitchen Gadgets 3-in-1Hand-cranked Rotating Fruit/Vegetable Peeler Stainless Steel…",
-    "source": "aliexpress",
-    "geo": "GLOBAL",
-    "score": 77.50623544318105,
-    "keywords": [
-      "kitchen",
-      "gadgets",
-      "1hand",
-      "cranked",
-      "rotating",
-      "fruit",
-      "vegetable",
-      "peeler"
-    ],
-    "query": "kitchen gadgets 1hand cranked",
-    "category": "home",
-    "url": "https://www.aliexpress.com/item/3256808706926265.html",
-    "traffic": "2000 sold",
-    "eligible": true,
-    "observedAt": "2026-11-19T13:34:59.035Z",
-    "signals": [
-      {
-        "source": "aliexpress",
-        "title": "Kitchen Gadgets 3-in-1Hand-cranked Rotating Fruit/Vegetable Peeler Stainless Steel…",
-        "url": "https://www.aliexpress.com/item/3256808706926265.html",
-        "traffic": "2000 sold",
-        "score": 77.50623544318105
-      }
-    ]
-  },
-  {
-    "id": "t_f104eaac30",
-    "title": "Tool Eyelash Brush 100/200pcs Lip Wands Applicators Eyelashes Brushes Lipstick Brush…",
-    "source": "aliexpress",
-    "geo": "GLOBAL",
-    "score": 77.50623544318105,
-    "keywords": [
-      "tool",
-      "eyelash",
-      "brush",
-      "200pcs",
-      "lip",
-      "wands",
-      "applicators",
-      "eyelashes"
-    ],
-    "query": "tool eyelash brush 200pcs",
-    "category": "lifestyle",
-    "url": "https://www.aliexpress.com/item/3256808763195218.html",
-    "traffic": "2000 sold",
-    "eligible": true,
-    "observedAt": "2026-11-19T13:34:59.035Z",
-    "signals": [
-      {
-        "source": "aliexpress",
-        "title": "Tool Eyelash Brush 100/200pcs Lip Wands Applicators Eyelashes Brushes Lipstick Brush…",
-        "url": "https://www.aliexpress.com/item/3256808763195218.html",
-        "traffic": "2000 sold",
-        "score": 77.50623544318105
+        "title": "Car Accessories Keychain Decoration Motorcycle Decoration Accessories and Car Keychain…",
+        "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005009540835206:12000049410082594&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+        "traffic": "8000 sold",
+        "score": 77.9157213520477
       }
     ]
   },
@@ -1238,7 +1181,7 @@
     "title": "The must-have kitchen gadget in Lidl Ireland’s middle aisle with dinners ready in MINUTES & shoppers can save €20",
     "source": "google-news",
     "geo": "ZA",
-    "score": 63.72712805555555,
+    "score": 59.77936851851852,
     "keywords": [
       "must",
       "kitchen",
@@ -1253,13 +1196,72 @@
     "category": "tech",
     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNblB4OUk3Q3ZDa1pFOTRnRkRxNEpicFJLQUs3ZWh4VnExSlNXRFBaRDl2TVBxZ28wTnhfMm9MQlM3SFdHSE1xY1c3ZzRISDRHSjhmTXpyc19ycWZnN25kUXctVVl1RTRNRTgwM2NlNXpnRENSQ0ZZa2RFUVhtTTh4SlNxQ2ZKRjNRVWRCdGlJRHlKNWM?oc=5",
     "eligible": true,
-    "observedAt": "2026-11-19T13:35:00.134Z",
+    "observedAt": "2026-11-20T13:16:11.723Z",
     "signals": [
       {
         "source": "google-news",
         "title": "The must-have kitchen gadget in Lidl Ireland’s middle aisle with dinners ready in MINUTES & shoppers can save €20",
         "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNblB4OUk3Q3ZDa1pFOTRnRkRxNEpicFJLQUs3ZWh4VnExSlNXRFBaRDl2TVBxZ28wTnhfMm9MQlM3SFdHSE1xY1c3ZzRISDRHSjhmTXpyc19ycWZnN25kUXctVVl1RTRNRTgwM2NlNXpnRENSQ0ZZa2RFUVhtTTh4SlNxQ2ZKRjNRVWRCdGlJRHlKNWM?oc=5",
-        "score": 63.72712805555555
+        "score": 59.77936851851852
+      }
+    ]
+  },
+  {
+    "id": "t_216aea097b",
+    "title": "We tested more than a dozen viral Medicube products — these are the ones actually worth it",
+    "source": "google-news",
+    "geo": "ZA",
+    "score": 58.247424074074075,
+    "keywords": [
+      "tested",
+      "more",
+      "dozen",
+      "viral",
+      "medicube",
+      "products",
+      "these",
+      "ones"
+    ],
+    "query": "tested more dozen viral",
+    "category": "lifestyle",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBkT1NralB4YzNQSklyUVNfcVdBMDRCMG1FdXJQWERnaXpxRDlyZUlTYlVDSTNDS05HWFlad3ZVR1d3RFYzdXF0TXgxQkNNOU5XOEwwbUk3ZDBLSzRBTGI1NjlVXzBBTEdLdGY4dWxndkdla2hacGM4akQ0X0c?oc=5",
+    "eligible": true,
+    "observedAt": "2026-11-20T13:16:11.424Z",
+    "signals": [
+      {
+        "source": "google-news",
+        "title": "We tested more than a dozen viral Medicube products — these are the ones actually worth it",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBkT1NralB4YzNQSklyUVNfcVdBMDRCMG1FdXJQWERnaXpxRDlyZUlTYlVDSTNDS05HWFlad3ZVR1d3RFYzdXF0TXgxQkNNOU5XOEwwbUk3ZDBLSzRBTGI1NjlVXzBBTEdLdGY4dWxndkdla2hacGM4akQ0X0c?oc=5",
+        "score": 58.247424074074075
+      }
+    ]
+  },
+  {
+    "id": "t_d4e3b66ef4",
+    "title": "Local wellness brand launches all-in-one supplement for women",
+    "source": "google-news",
+    "geo": "ZA",
+    "score": 56.821822222222224,
+    "keywords": [
+      "local",
+      "wellness",
+      "brand",
+      "launches",
+      "one",
+      "supplement",
+      "women"
+    ],
+    "query": "local wellness brand launches",
+    "category": "beauty",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNC1YNm5peGxmZ2NibWJnX3J6Mm9GUE5VSzc3UzNfR3JJZHFoa0E5MzgxcnZUUFprQ2tqUkNEdU9lMGtXWF9scTdvSkxIUUFrOFpmNUxxQjBydjl0bUI1ZlpNQ2pmanpGMjF3bHZ1WHlQNkJvcFp4dUdTdng2REViaFBWUHpCSW1RZGlLRGlfY3pLRk1JVndMcE41UmU3ZTdNUG1pa1Y1R3pYUQ?oc=5",
+    "eligible": true,
+    "observedAt": "2026-11-20T13:16:11.966Z",
+    "signals": [
+      {
+        "source": "google-news",
+        "title": "Local wellness brand launches all-in-one supplement for women",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNC1YNm5peGxmZ2NibWJnX3J6Mm9GUE5VSzc3UzNfR3JJZHFoa0E5MzgxcnZUUFprQ2tqUkNEdU9lMGtXWF9scTdvSkxIUUFrOFpmNUxxQjBydjl0bUI1ZlpNQ2pmanpGMjF3bHZ1WHlQNkJvcFp4dUdTdng2REViaFBWUHpCSW1RZGlLRGlfY3pLRk1JVndMcE41UmU3ZTdNUG1pa1Y1R3pYUQ?oc=5",
+        "score": 56.821822222222224
       }
     ]
   },
@@ -1268,7 +1270,7 @@
     "title": "These Early Black Friday TikTok-Viral Amazon Deals Are Too Good to Gatekeep",
     "source": "google-news",
     "geo": "ZA",
-    "score": 63.58893361111111,
+    "score": 56.64117407407407,
     "keywords": [
       "these",
       "early",
@@ -1283,266 +1285,185 @@
     "category": "tech",
     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNWZKYm5BU1VXamNQZ3ZOeVMxNjhra0VqWmYtelUtZkJZV2gyYnNaUlpfclpTSktQdEp5M3RKZ0hvT1VnM3VvdGNHa0laZFVPZXhITndUbEFqRW8wNmhRTUFlMlhKSTJzN0kwbTVGWWZQQzEzaWxXZ0hLb2xYc1l0ZUdDTUREaDlVTXlpRXNnT09WemlwSUE?oc=5",
     "eligible": true,
-    "observedAt": "2026-11-19T13:34:59.468Z",
+    "observedAt": "2026-11-20T13:16:11.419Z",
     "signals": [
       {
         "source": "google-news",
         "title": "These Early Black Friday TikTok-Viral Amazon Deals Are Too Good to Gatekeep",
         "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNWZKYm5BU1VXamNQZ3ZOeVMxNjhra0VqWmYtelUtZkJZV2gyYnNaUlpfclpTSktQdEp5M3RKZ0hvT1VnM3VvdGNHa0laZFVPZXhITndUbEFqRW8wNmhRTUFlMlhKSTJzN0kwbTVGWWZQQzEzaWxXZ0hLb2xYc1l0ZUdDTUREaDlVTXlpRXNnT09WemlwSUE?oc=5",
-        "score": 60.58893361111111
-      },
-      {
-        "source": "google-news",
-        "title": "These Early Black Friday TikTok-Viral Amazon Deals Are Too Good to Gatekeep",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNWZKYm5BU1VXamNQZ3ZOeVMxNjhra0VqWmYtelUtZkJZV2gyYnNaUlpfclpTSktQdEp5M3RKZ0hvT1VnM3VvdGNHa0laZFVPZXhITndUbEFqRW8wNmhRTUFlMlhKSTJzN0kwbTVGWWZQQzEzaWxXZ0hLb2xYc1l0ZUdDTUREaDlVTXlpRXNnT09WemlwSUE?oc=5",
-        "score": 60.58893361111111
+        "score": 56.64117407407407
       }
     ],
     "event": "grab the deal before it goes"
   },
   {
-    "id": "t_5aa0dd0310",
-    "title": "Grocery delivery trends could expand SA’s paper bag market",
+    "id": "t_989c420545",
+    "title": "If You Have Trust Issues With Viral Products, These 37 Are Actually Worth The Hype",
     "source": "google-news",
     "geo": "ZA",
-    "score": 55.02421138888889,
+    "score": 56.541266666666665,
     "keywords": [
-      "grocery",
-      "delivery",
-      "trends",
-      "expand",
-      "paper",
-      "bag",
-      "market"
-    ],
-    "query": "grocery delivery trends expand",
-    "category": "fashion",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZE5DNEtBa0JqSEZHSkJiRnB2ZWVrZUNySm9JMExtekNNYnpPNUxBU0phcHNBOU5NdHhDaTlPSzJOU2IwekFtM1ZzVzNObWpDcjhnMVFxUkRTNzJvTkF1SmJ5NVBBcHYzMVNYVkFlV2gwSTRvN2xZeHBRaUVIU2tPeDNOby1yVUFwSlVvNF9qcG1wOFBITFhLWmQ0a0hXcW5Nb2VNeQ?oc=5",
-    "eligible": true,
-    "observedAt": "2026-11-19T13:35:00.394Z",
-    "signals": [
-      {
-        "source": "google-news",
-        "title": "Grocery delivery trends could expand SA’s paper bag market",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZE5DNEtBa0JqSEZHSkJiRnB2ZWVrZUNySm9JMExtekNNYnpPNUxBU0phcHNBOU5NdHhDaTlPSzJOU2IwekFtM1ZzVzNObWpDcjhnMVFxUkRTNzJvTkF1SmJ5NVBBcHYzMVNYVkFlV2gwSTRvN2xZeHBRaUVIU2tPeDNOby1yVUFwSlVvNF9qcG1wOFBITFhLWmQ0a0hXcW5Nb2VNeQ?oc=5",
-        "score": 55.02421138888889
-      }
-    ]
-  },
-  {
-    "id": "t_a5bd31e624",
-    "title": "12 Mini Gadgets That Can Save Space In Your Emergency Kit",
-    "source": "google-news",
-    "geo": "ZA",
-    "score": 52.6528225,
-    "keywords": [
-      "mini",
-      "gadgets",
-      "save",
-      "space",
-      "emergency",
-      "kit"
-    ],
-    "query": "mini gadgets save space",
-    "category": "lifestyle",
-    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1NdlBGbW1YUmJrY2ZLaUlaVS1fS0xfZFF6Z0kyN2RlY3JzRTU5T05aX0tySFJ4WnhBNnhKUEdKQWhrZTRHMEYyRlFtMU1TNmU2YzdrdXl6ZHVodFZyZ3hfX0swNnlrVHdsRHRYU0R3?oc=5",
-    "eligible": true,
-    "observedAt": "2026-11-19T13:35:00.132Z",
-    "signals": [
-      {
-        "source": "google-news",
-        "title": "12 Mini Gadgets That Can Save Space In Your Emergency Kit",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1NdlBGbW1YUmJrY2ZLaUlaVS1fS0xfZFF6Z0kyN2RlY3JzRTU5T05aX0tySFJ4WnhBNnhKUEdKQWhrZTRHMEYyRlFtMU1TNmU2YzdrdXl6ZHVodFZyZ3hfX0swNnlrVHdsRHRYU0R3?oc=5",
-        "score": 52.6528225
-      }
-    ]
-  },
-  {
-    "id": "t_fbde522f5a",
-    "title": "International fast food chain opens first store in popular Johannesburg shopping mall",
-    "source": "google-news",
-    "geo": "ZA",
-    "score": 52.58245212962963,
-    "keywords": [
-      "international",
-      "fast",
-      "food",
-      "chain",
-      "opens",
-      "first",
-      "store",
-      "popular"
-    ],
-    "query": "international fast food chain",
-    "category": "kitchen",
-    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPRjNlOWczUGNrcWNCeTBKMWk0X1VBMG1weVVtWng4Y2tfYmtPMUo2V2hTanowN2RiMnZHd2djVEpSTG0zVXhCYXJxdlNyaUN2SFVEN0J3Vm5DYk0xMFEzRXVlZG9TZTFVQW1FZnAxa0RlTWV2eTg0bElodFp2SFFvSHhkcHlQcEgwd1BJQmt2YURUcnpJeXUyaTVRQ09femJPVGpLZjlEOUlJdU12RTNiYVRxMVRySzB1VWpVUjZaMURVdEJFVmxXVXlVb21UQXM?oc=5",
-    "eligible": true,
-    "observedAt": "2026-11-19T13:35:00.393Z",
-    "signals": [
-      {
-        "source": "google-news",
-        "title": "International fast food chain opens first store in popular Johannesburg shopping mall",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPRjNlOWczUGNrcWNCeTBKMWk0X1VBMG1weVVtWng4Y2tfYmtPMUo2V2hTanowN2RiMnZHd2djVEpSTG0zVXhCYXJxdlNyaUN2SFVEN0J3Vm5DYk0xMFEzRXVlZG9TZTFVQW1FZnAxa0RlTWV2eTg0bElodFp2SFFvSHhkcHlQcEgwd1BJQmt2YURUcnpJeXUyaTVRQ09femJPVGpLZjlEOUlJdU12RTNiYVRxMVRySzB1VWpVUjZaMURVdEJFVmxXVXlVb21UQXM?oc=5",
-        "score": 52.58245212962963
-      }
-    ]
-  },
-  {
-    "id": "t_54069e3706",
-    "title": "The car gadget you hope to never need",
-    "source": "google-news",
-    "geo": "ZA",
-    "score": 50.736155833333335,
-    "keywords": [
-      "car",
-      "gadget",
-      "hope",
-      "never",
-      "need"
-    ],
-    "query": "car gadget hope never",
-    "category": "tech",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMFVBdU43Z0ZrTjlIM3o3MlRxTkw1ZHVOODhzcEFsODJkMzlPY0FkN3FmTE5sTG9hckRxWExDMGZhMjJLVmFOVFdPNE52TnN0cW04dm9wZDFmUXZFVFczUWFINFZWWTVUYi15LThJNi1wQm04REJrcTd1ZnhZeGZtdk1XNjlfVkViNUQ2dFpaM21JSE1rVnpPZXFjUTNpZndJWVZCYkJRdkRsemFWaVFKdw?oc=5",
-    "eligible": true,
-    "observedAt": "2026-11-19T13:35:00.132Z",
-    "signals": [
-      {
-        "source": "google-news",
-        "title": "The car gadget you hope to never need",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMFVBdU43Z0ZrTjlIM3o3MlRxTkw1ZHVOODhzcEFsODJkMzlPY0FkN3FmTE5sTG9hckRxWExDMGZhMjJLVmFOVFdPNE52TnN0cW04dm9wZDFmUXZFVFczUWFINFZWWTVUYi15LThJNi1wQm04REJrcTd1ZnhZeGZtdk1XNjlfVkViNUQ2dFpaM21JSE1rVnpPZXFjUTNpZndJWVZCYkJRdkRsemFWaVFKdw?oc=5",
-        "score": 50.736155833333335
-      }
-    ]
-  },
-  {
-    "id": "t_ad68da3ef5",
-    "title": "The Coolest Tech Gifts of the Year Are Here. These Gadgets Will Blow Gearheads Away.",
-    "source": "google-news",
-    "geo": "ZA",
-    "score": 46.333378055555556,
-    "keywords": [
-      "coolest",
-      "tech",
-      "gifts",
-      "year",
+      "trust",
+      "issues",
+      "viral",
+      "products",
       "these",
-      "gadgets",
-      "blow",
-      "gearheads"
+      "actually",
+      "worth",
+      "hype"
     ],
-    "query": "coolest tech gifts year",
-    "category": "tech",
-    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1CWnlJS3czczg1aGdxUW1hQjZNSjUtcklCRXNVWTdxc3NHY3I0RXUwQlpBTnZ0TDVuOXFNbVhsRVYzN29mVWNOWXE0RDZoRlo0MUNzR05RSTBoUmJ0VFRJc28yUFJhWlA5cFZ1dmVNNzZsVHJ2SkJkZFlB?oc=5",
+    "query": "trust issues viral products",
+    "category": "lifestyle",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5tSjdFY2JpQUNnY25jTzl5TE1IRmVxRC15VlRoUmZ3eFYtdHRCOVcyb0pRcVBQYko1NnlCdTl0NU1WOUwzUkdUd0J1OGo1WUhCZXAxR2Zfdlc5N1dIclctWXZXY3djQVR4QWFRZHVqMA?oc=5",
     "eligible": true,
-    "observedAt": "2026-11-19T13:35:00.132Z",
+    "observedAt": "2026-11-20T13:16:11.424Z",
     "signals": [
       {
         "source": "google-news",
-        "title": "The Coolest Tech Gifts of the Year Are Here. These Gadgets Will Blow Gearheads Away.",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1CWnlJS3czczg1aGdxUW1hQjZNSjUtcklCRXNVWTdxc3NHY3I0RXUwQlpBTnZ0TDVuOXFNbVhsRVYzN29mVWNOWXE0RDZoRlo0MUNzR05RSTBoUmJ0VFRJc28yUFJhWlA5cFZ1dmVNNzZsVHJ2SkJkZFlB?oc=5",
-        "score": 46.333378055555556
+        "title": "If You Have Trust Issues With Viral Products, These 37 Are Actually Worth The Hype",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5tSjdFY2JpQUNnY25jTzl5TE1IRmVxRC15VlRoUmZ3eFYtdHRCOVcyb0pRcVBQYko1NnlCdTl0NU1WOUwzUkdUd0J1OGo1WUhCZXAxR2Zfdlc5N1dIclctWXZXY3djQVR4QWFRZHVqMA?oc=5",
+        "score": 56.541266666666665
       }
     ]
   },
   {
-    "id": "t_6d975257d1",
-    "title": "sars",
+    "id": "t_c202c0d87c",
+    "title": "Must Read: Inside the Hidden Costs of a Viral Product, The Wave of Contemporary Brands Offering More Accessible Luxury",
+    "source": "google-news",
+    "geo": "ZA",
+    "score": 55.62172962962963,
+    "keywords": [
+      "must",
+      "read",
+      "inside",
+      "hidden",
+      "costs",
+      "viral",
+      "product",
+      "wave"
+    ],
+    "query": "must read inside hidden",
+    "category": "lifestyle",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5PVVZfSXN0U0VXYllOV2hyVElFYVE3MmRBamNhdGh1Y0RISno4c1pjZUUxNVNHUjFGMVU3ZmpIUXBqWG9xSEdacGtCZk54aVVzZEJoYWxPYlM1TUdZOGc2SW5seHUxakJ3cVE?oc=5",
+    "eligible": true,
+    "observedAt": "2026-11-20T13:16:11.419Z",
+    "signals": [
+      {
+        "source": "google-news",
+        "title": "Must Read: Inside the Hidden Costs of a Viral Product, The Wave of Contemporary Brands Offering More Accessible Luxury",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5PVVZfSXN0U0VXYllOV2hyVElFYVE3MmRBamNhdGh1Y0RISno4c1pjZUUxNVNHUjFGMVU3ZmpIUXBqWG9xSEdacGtCZk54aVVzZEJoYWxPYlM1TUdZOGc2SW5seHUxakJ3cVE?oc=5",
+        "score": 55.62172962962963
+      }
+    ]
+  },
+  {
+    "id": "t_152eeff11e",
+    "title": "Hairstyling Products Market To 2035: Premiumization and Clean Beauty Reshape Growth - News and Statistics",
+    "source": "google-news",
+    "geo": "ZA",
+    "score": 54.90251666666667,
+    "keywords": [
+      "hairstyling",
+      "products",
+      "market",
+      "premiumization",
+      "clean",
+      "beauty",
+      "reshape",
+      "growth"
+    ],
+    "query": "hairstyling products market premiumization",
+    "category": "beauty",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQM3dqWXZiNjNmOVczdUJvZnFlYzBYVHZqQ3lRdHFRU1ZvaWU5SEZuRnN2bEd2WHZmbWg4LWo3REo1TVlXRlRJd2Z1RWVVemlQTUp1RTVkeHBmUExIdlNFQTk5ZXlXUU83LURYWUZfc2F4WXhhQ3dKU1Y0NzlYck0zWWZNRWV2R01VUElkekxBNVFITGhkZTlVYVJMNF84TGlPR2h3ZDhxVnQwQno3MlY0WDFXb0hJNVFsVHJBT2dhRQ?oc=5",
+    "eligible": true,
+    "observedAt": "2026-11-20T13:16:11.967Z",
+    "signals": [
+      {
+        "source": "google-news",
+        "title": "Hairstyling Products Market To 2035: Premiumization and Clean Beauty Reshape Growth - News and Statistics",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQM3dqWXZiNjNmOVczdUJvZnFlYzBYVHZqQ3lRdHFRU1ZvaWU5SEZuRnN2bEd2WHZmbWg4LWo3REo1TVlXRlRJd2Z1RWVVemlQTUp1RTVkeHBmUExIdlNFQTk5ZXlXUU83LURYWUZfc2F4WXhhQ3dKU1Y0NzlYck0zWWZNRWV2R01VUElkekxBNVFITGhkZTlVYVJMNF84TGlPR2h3ZDhxVnQwQno3MlY0WDFXb0hJNVFsVHJBT2dhRQ?oc=5",
+        "score": 54.90251666666667
+      }
+    ]
+  },
+  {
+    "id": "t_2d5f156e16",
+    "title": "#BlackFriday | Forget the big splurge: South Africans are shopping to survive December",
+    "source": "google-news",
+    "geo": "ZA",
+    "score": 52.22094259259259,
+    "keywords": [
+      "blackfriday",
+      "forget",
+      "big",
+      "splurge",
+      "south",
+      "africans",
+      "shopping",
+      "survive"
+    ],
+    "query": "best tech deals",
+    "category": "tech",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZkQxWHZCaVJWMFZjZ1g1QUFqNjRfV1BPeXdMOHFfcG1fUm1VSVJXZERuTHdKNFlJNUdzOEs1dEI4ZGs4T0NaOGcwelphSzFMaVVCRDhyVDM1aWZEQ29PZkN1VUdXUElZQVFxUktYc3E2LU9WbXMwMG1HU3o2UzBsS0FkUWxRLW5XdXZzNnFydXlpVEp0aTIxejk3Q2tKM3Z1TjgwdjR4STFyT1VVVVBBWVNwc1RyUQ?oc=5",
+    "eligible": true,
+    "observedAt": "2026-11-20T13:16:11.965Z",
+    "signals": [
+      {
+        "source": "google-news",
+        "title": "#BlackFriday | Forget the big splurge: South Africans are shopping to survive December",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZkQxWHZCaVJWMFZjZ1g1QUFqNjRfV1BPeXdMOHFfcG1fUm1VSVJXZERuTHdKNFlJNUdzOEs1dEI4ZGs4T0NaOGcwelphSzFMaVVCRDhyVDM1aWZEQ29PZkN1VUdXUElZQVFxUktYc3E2LU9WbXMwMG1HU3o2UzBsS0FkUWxRLW5XdXZzNnFydXlpVEp0aTIxejk3Q2tKM3Z1TjgwdjR4STFyT1VVVVBBWVNwc1RyUQ?oc=5",
+        "score": 52.22094259259259
+      }
+    ],
+    "event": "grab the deal before it goes"
+  },
+  {
+    "id": "t_c20d16a4b4",
+    "title": "fernando da cruz",
     "source": "google-trends",
     "geo": "ZA",
-    "score": 84.79588001734407,
+    "score": 83.20411998265593,
     "keywords": [
-      "sars"
+      "fernando",
+      "cruz"
     ],
-    "query": "sars",
-    "event": "SARS coming after anyone doing business with government",
+    "query": "fernando da cruz",
+    "event": "Chiefs have to raise their game for semifinal says coach",
     "category": "lifestyle",
     "url": "https://trends.google.com/trending/rss?geo=ZA",
-    "traffic": "5000+",
+    "traffic": "2000+",
     "eligible": false,
-    "observedAt": "2026-11-19T13:34:59.196Z",
+    "observedAt": "2026-11-20T13:16:10.828Z",
     "signals": [
       {
         "source": "google-trends",
-        "title": "sars",
+        "title": "fernando da cruz",
         "url": "https://trends.google.com/trending/rss?geo=ZA",
-        "traffic": "5000+",
-        "score": 84.79588001734407
+        "traffic": "2000+",
+        "score": 83.20411998265593
       }
     ]
   },
   {
-    "id": "t_20f72f730e",
-    "title": "rugbypass",
-    "source": "google-trends",
-    "geo": "ZA",
-    "score": 82,
-    "keywords": [
-      "rugbypass"
-    ],
-    "query": "rugbypass",
-    "event": "Les Bleus welcome back Jalibert",
-    "category": "lifestyle",
-    "url": "https://trends.google.com/trending/rss?geo=ZA",
-    "traffic": "1000+",
-    "eligible": false,
-    "observedAt": "2026-11-19T13:34:59.196Z",
-    "signals": [
-      {
-        "source": "google-trends",
-        "title": "rugbypass",
-        "url": "https://trends.google.com/trending/rss?geo=ZA",
-        "traffic": "1000+",
-        "score": 82
-      }
-    ]
-  },
-  {
-    "id": "t_8e23616174",
-    "title": "interest",
-    "source": "google-trends",
-    "geo": "ZA",
-    "score": 82,
-    "keywords": [
-      "interest"
-    ],
-    "query": "interest",
-    "event": "LIVESTREAM | Reserve Bank announces repo rate decision",
-    "category": "lifestyle",
-    "url": "https://trends.google.com/trending/rss?geo=ZA",
-    "traffic": "1000+",
-    "eligible": false,
-    "observedAt": "2026-11-19T13:34:59.196Z",
-    "signals": [
-      {
-        "source": "google-trends",
-        "title": "interest",
-        "url": "https://trends.google.com/trending/rss?geo=ZA",
-        "traffic": "1000+",
-        "score": 82
-      }
-    ]
-  },
-  {
-    "id": "t_f0a68d4080",
-    "title": "justin marshall",
+    "id": "t_5a5a8cd635",
+    "title": "durban",
     "source": "google-trends",
     "geo": "ZA",
     "score": 80.79588001734407,
     "keywords": [
-      "justin",
-      "marshall"
+      "durban"
     ],
-    "query": "justin marshall",
-    "event": "Videos",
+    "query": "durban",
+    "event": "Worsening medicine shortages leave Cape Town’s neglected patients waiting in desperation",
     "category": "lifestyle",
     "url": "https://trends.google.com/trending/rss?geo=ZA",
     "traffic": "500+",
     "eligible": false,
-    "observedAt": "2026-11-19T13:34:59.196Z",
+    "observedAt": "2026-11-20T13:16:10.828Z",
     "signals": [
       {
         "source": "google-trends",
-        "title": "justin marshall",
+        "title": "durban",
         "url": "https://trends.google.com/trending/rss?geo=ZA",
         "traffic": "500+",
         "score": 80.79588001734407
@@ -1550,26 +1471,26 @@
     ]
   },
   {
-    "id": "t_a16ddedcdd",
-    "title": "hlompho kekana",
+    "id": "t_ae8b5e130d",
+    "title": "india a vs nepal",
     "source": "google-trends",
     "geo": "ZA",
     "score": 80.79588001734407,
     "keywords": [
-      "hlompho",
-      "kekana"
+      "india",
+      "nepal"
     ],
-    "query": "hlompho kekana",
-    "event": "Mamelodi Sundowns urged by Hlompho Kekana to block out the noise ahead of Kaizer Chiefs clash: 'Just one draw turns into a funeral'",
+    "query": "india a vs nepal",
+    "event": "India A vs Nepal Live Score: IND A (220/3 in 39.5 ov), Kushagra hits brilliant century, Tilak fluent",
     "category": "lifestyle",
     "url": "https://trends.google.com/trending/rss?geo=ZA",
     "traffic": "500+",
     "eligible": false,
-    "observedAt": "2026-11-19T13:34:59.196Z",
+    "observedAt": "2026-11-20T13:16:10.828Z",
     "signals": [
       {
         "source": "google-trends",
-        "title": "hlompho kekana",
+        "title": "india a vs nepal",
         "url": "https://trends.google.com/trending/rss?geo=ZA",
         "traffic": "500+",
         "score": 80.79588001734407
@@ -1577,57 +1498,26 @@
     ]
   },
   {
-    "id": "t_fdfbebde04",
-    "title": "1Pc Self‑Starting Wrist Gyro Ball Power Trainer Forearm Exerciser for Wrist Arm Finger…",
-    "source": "aliexpress",
-    "geo": "GLOBAL",
-    "score": 80.5,
-    "keywords": [
-      "1pc",
-      "self",
-      "starting",
-      "wrist",
-      "gyro",
-      "ball",
-      "power",
-      "trainer"
-    ],
-    "query": "1pc self starting wrist",
-    "category": "lifestyle",
-    "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005006861776340:12000038545774257&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
-    "traffic": "10000 sold",
-    "eligible": false,
-    "observedAt": "2026-11-19T13:34:59.035Z",
-    "signals": [
-      {
-        "source": "aliexpress",
-        "title": "1Pc Self‑Starting Wrist Gyro Ball Power Trainer Forearm Exerciser for Wrist Arm Finger…",
-        "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005006861776340:12000038545774257&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
-        "traffic": "10000 sold",
-        "score": 80.5
-      }
-    ]
-  },
-  {
-    "id": "t_caf0d98779",
-    "title": "drug",
+    "id": "t_12ce424ec1",
+    "title": "pakistan a vs uae",
     "source": "google-trends",
     "geo": "ZA",
     "score": 79.20411998265593,
     "keywords": [
-      "drug"
+      "pakistan",
+      "uae"
     ],
-    "query": "drug",
-    "event": "Hawks, SAPS uncover R100 million clandestine drug lab in Umvoti, KZN",
+    "query": "pakistan a vs uae",
+    "event": "Pakistan Shaheens begin ACC Men’s Asia Cup Rising Stars campaign against UAE on Friday",
     "category": "lifestyle",
     "url": "https://trends.google.com/trending/rss?geo=ZA",
     "traffic": "200+",
     "eligible": false,
-    "observedAt": "2026-11-19T13:34:59.196Z",
+    "observedAt": "2026-11-20T13:16:10.828Z",
     "signals": [
       {
         "source": "google-trends",
-        "title": "drug",
+        "title": "pakistan a vs uae",
         "url": "https://trends.google.com/trending/rss?geo=ZA",
         "traffic": "200+",
         "score": 79.20411998265593
@@ -1635,25 +1525,26 @@
     ]
   },
   {
-    "id": "t_c10e8cec8c",
-    "title": "market",
+    "id": "t_14d028e3d9",
+    "title": "mobland episode 10",
     "source": "google-trends",
     "geo": "ZA",
     "score": 78,
     "keywords": [
-      "market"
+      "mobland",
+      "episode"
     ],
-    "query": "market",
-    "event": "Financial Services Roundup: Market Talk",
+    "query": "mobland episode 10",
+    "event": "‘MobLand’ Season 2 Ending Explained – If You Want Loyalty, Get A Dog",
     "category": "lifestyle",
     "url": "https://trends.google.com/trending/rss?geo=ZA",
     "traffic": "100+",
     "eligible": false,
-    "observedAt": "2026-11-19T13:34:59.196Z",
+    "observedAt": "2026-11-20T13:16:10.828Z",
     "signals": [
       {
         "source": "google-trends",
-        "title": "market",
+        "title": "mobland episode 10",
         "url": "https://trends.google.com/trending/rss?geo=ZA",
         "traffic": "100+",
         "score": 78
@@ -1661,26 +1552,28 @@
     ]
   },
   {
-    "id": "t_29e9c2c05e",
-    "title": "aiden markram",
+    "id": "t_a516506d06",
+    "title": "2027 platter wine guide winners",
     "source": "google-trends",
     "geo": "ZA",
     "score": 78,
     "keywords": [
-      "aiden",
-      "markram"
+      "platter",
+      "wine",
+      "guide",
+      "winners"
     ],
-    "query": "aiden markram",
-    "event": "Ball by Ball Commentary & Live Score - SA vs BAN, 1st Test",
+    "query": "2027 platter wine guide winners",
+    "event": "Diemersdal Does it Again: Durbanville Estate named Platter’s Top-performing Winery 2nd Year in a Row",
     "category": "lifestyle",
     "url": "https://trends.google.com/trending/rss?geo=ZA",
     "traffic": "100+",
     "eligible": false,
-    "observedAt": "2026-11-19T13:34:59.196Z",
+    "observedAt": "2026-11-20T13:16:10.828Z",
     "signals": [
       {
         "source": "google-trends",
-        "title": "aiden markram",
+        "title": "2027 platter wine guide winners",
         "url": "https://trends.google.com/trending/rss?geo=ZA",
         "traffic": "100+",
         "score": 78
@@ -1688,32 +1581,66 @@
     ]
   },
   {
-    "id": "t_f9c982b184",
-    "title": "The Gadget Guy shares must-have tech essentials for holiday travel",
-    "source": "google-news",
-    "geo": "ZA",
-    "score": 57.60722064814815,
+    "id": "t_7afc4fcfa1",
+    "title": "3D Nose Shadow Brush Facial Contour Makeup Brush Soft head blush Highlight Korean…",
+    "source": "aliexpress",
+    "geo": "GLOBAL",
+    "score": 78,
     "keywords": [
-      "gadget",
-      "guy",
-      "shares",
-      "must",
-      "tech",
-      "essentials",
-      "holiday",
-      "travel"
+      "nose",
+      "shadow",
+      "brush",
+      "facial",
+      "contour",
+      "makeup",
+      "brush",
+      "soft"
     ],
-    "query": "gadget guy shares must",
-    "category": "tech",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUFB1dzBrTkctTDRVR3ZUckJEbkVXaDAwVm5KczhwTjczVTEzQjE0VUZqV2hJU19ieWdzRWplUkU3VmlHZ2gtSnZmRlRndGRucFZUSktxZy1maXFPdnpZN2QyZXFvMlg0ZDFrcTlYOHd0UHdXSmFfLWV3ZFpZZE5nckNWUjRlOVNOdWpoZVFRWFB1SVlhVkpzU0UtdnFCS29XeGFYVWowYk5CQWhRMDZuV3FMcU1FXzVtMlktcHBpRQ?oc=5",
+    "query": "nose shadow brush facial",
+    "category": "beauty",
+    "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005007938094211:12000042937820478&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+    "traffic": "10000 sold",
     "eligible": false,
-    "observedAt": "2026-11-19T13:35:00.134Z",
+    "observedAt": "2026-11-20T13:16:10.641Z",
     "signals": [
       {
-        "source": "google-news",
-        "title": "The Gadget Guy shares must-have tech essentials for holiday travel",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUFB1dzBrTkctTDRVR3ZUckJEbkVXaDAwVm5KczhwTjczVTEzQjE0VUZqV2hJU19ieWdzRWplUkU3VmlHZ2gtSnZmRlRndGRucFZUSktxZy1maXFPdnpZN2QyZXFvMlg0ZDFrcTlYOHd0UHdXSmFfLWV3ZFpZZE5nckNWUjRlOVNOdWpoZVFRWFB1SVlhVkpzU0UtdnFCS29XeGFYVWowYk5CQWhRMDZuV3FMcU1FXzVtMlktcHBpRQ?oc=5",
-        "score": 57.60722064814815
+        "source": "aliexpress",
+        "title": "3D Nose Shadow Brush Facial Contour Makeup Brush Soft head blush Highlight Korean…",
+        "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005007938094211:12000042937820478&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+        "traffic": "10000 sold",
+        "score": 78
+      }
+    ]
+  },
+  {
+    "id": "t_32515a9352",
+    "title": "4Pcs Silicone Door Lock Cover Protective Sticker, Shock Absorber Anti-Scratch Guard for…",
+    "source": "aliexpress",
+    "geo": "GLOBAL",
+    "score": 78,
+    "keywords": [
+      "4pcs",
+      "silicone",
+      "door",
+      "lock",
+      "cover",
+      "protective",
+      "sticker",
+      "shock"
+    ],
+    "query": "4pcs silicone door lock",
+    "category": "lifestyle",
+    "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005012263136160:12000057910980572&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+    "traffic": "10000 sold",
+    "eligible": false,
+    "observedAt": "2026-11-20T13:16:10.641Z",
+    "signals": [
+      {
+        "source": "aliexpress",
+        "title": "4Pcs Silicone Door Lock Cover Protective Sticker, Shock Absorber Anti-Scratch Guard for…",
+        "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005012263136160:12000057910980572&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+        "traffic": "10000 sold",
+        "score": 78
       }
     ]
   },
@@ -1722,7 +1649,7 @@
     "title": "Nigerian defence company buys stake in South African firm which owns popular panic button app",
     "source": "google-news",
     "geo": "ZA",
-    "score": 56.707868796296296,
+    "score": 52.76010925925926,
     "keywords": [
       "nigerian",
       "defence",
@@ -1737,13 +1664,13 @@
     "category": "lifestyle",
     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNanFVVHFsRFFGRDdVVlJpcnFmak5jWmIzaEtBM0NEVTdhbFFpSGdESEVlUHN4VXpXRUVYQWZBZWw5VTFEZm53TENwdFRhQkNrc3kwZG5JX0pUSmpVb1VkX3E4Mjl2c1hTcTBiMUEybXpxVzA5bGt6SngyeG9TQjhxNXhOaUFXTmZELUZoTTc1aThoX19hdU5RZXVXQk1kZHpaUGZsVWpIVHdCZlU1UEFkQXlPemN1dXVzRmRpdm1mbk1yNmhLUmNTX1hZVmNlV3VtOWJhUlRlclRqeUV4LVE?oc=5",
     "eligible": false,
-    "observedAt": "2026-11-19T13:35:00.393Z",
+    "observedAt": "2026-11-20T13:16:11.965Z",
     "signals": [
       {
         "source": "google-news",
         "title": "Nigerian defence company buys stake in South African firm which owns popular panic button app",
         "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNanFVVHFsRFFGRDdVVlJpcnFmak5jWmIzaEtBM0NEVTdhbFFpSGdESEVlUHN4VXpXRUVYQWZBZWw5VTFEZm53TENwdFRhQkNrc3kwZG5JX0pUSmpVb1VkX3E4Mjl2c1hTcTBiMUEybXpxVzA5bGt6SngyeG9TQjhxNXhOaUFXTmZELUZoTTc1aThoX19hdU5RZXVXQk1kZHpaUGZsVWpIVHdCZlU1UEFkQXlPemN1dXVzRmRpdm1mbk1yNmhLUmNTX1hZVmNlV3VtOWJhUlRlclRqeUV4LVE?oc=5",
-        "score": 56.707868796296296
+        "score": 52.76010925925926
       }
     ]
   },
@@ -1752,7 +1679,7 @@
     "title": "Why consumer validation has become a commercial advantage",
     "source": "google-news",
     "geo": "ZA",
-    "score": 56.35300768518518,
+    "score": 52.516451851851855,
     "keywords": [
       "consumer",
       "validation",
@@ -1764,13 +1691,13 @@
     "category": "lifestyle",
     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWjNpQnlWZjJJa0UxM29YTEJ3SnhfZDlHMW1TZGV6NXFUR1BVNVBBX09LSzRGRjVQQkFfVDE2VGxvanNKYUU5U3FwcXVyMkxqdmRDY004ZDd1M2t1WEk4bkoxTUc0Z2gxYzRteUpRZEQ5dXQ3SEh1azV6RzZmMkw1QUFGTWNwQkszSWRjNHZtWkNPdmJBNWhKa1RhSVZ0ZnFUSGM0dA?oc=5",
     "eligible": false,
-    "observedAt": "2026-11-19T13:35:00.393Z",
+    "observedAt": "2026-11-20T13:16:11.965Z",
     "signals": [
       {
         "source": "google-news",
         "title": "Why consumer validation has become a commercial advantage",
         "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWjNpQnlWZjJJa0UxM29YTEJ3SnhfZDlHMW1TZGV6NXFUR1BVNVBBX09LSzRGRjVQQkFfVDE2VGxvanNKYUU5U3FwcXVyMkxqdmRDY004ZDd1M2t1WEk4bkoxTUc0Z2gxYzRteUpRZEQ5dXQ3SEh1azV6RzZmMkw1QUFGTWNwQkszSWRjNHZtWkNPdmJBNWhKa1RhSVZ0ZnFUSGM0dA?oc=5",
-        "score": 56.35300768518518
+        "score": 52.516451851851855
       }
     ]
   },
@@ -1779,7 +1706,7 @@
     "title": "Jolly Meats responds after NRCS raid sees meat products removed from shelves",
     "source": "google-news",
     "geo": "ZA",
-    "score": 55.969766944444444,
+    "score": 52.02200740740741,
     "keywords": [
       "jolly",
       "meats",
@@ -1794,13 +1721,13 @@
     "category": "lifestyle",
     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcFhiV0dldkVLRFdPd2V1SnVDRFd0aTZIS1BjSDAxS2d0VHM4enZMSzNlc0w4bnY4Yk5DMjNmYWw1SUJDVnFaTHBFVXVXZWRiTlRQNnpZSWJwQWY3STJOSjFrNFdvRDFQcHI5OWhFVml6dUJfdUtpY181WW82OWVtMTA4TTJJWUVVakpIQ3BVTlZOR1R5NGVELXd6V0NXY21oM2NIUTl6MUJxMUxTM0JjSFBxUzFpZjlqVFNVZVUxclJ1Zw?oc=5",
     "eligible": false,
-    "observedAt": "2026-11-19T13:35:00.394Z",
+    "observedAt": "2026-11-20T13:16:11.967Z",
     "signals": [
       {
         "source": "google-news",
         "title": "Jolly Meats responds after NRCS raid sees meat products removed from shelves",
         "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcFhiV0dldkVLRFdPd2V1SnVDRFd0aTZIS1BjSDAxS2d0VHM4enZMSzNlc0w4bnY4Yk5DMjNmYWw1SUJDVnFaTHBFVXVXZWRiTlRQNnpZSWJwQWY3STJOSjFrNFdvRDFQcHI5OWhFVml6dUJfdUtpY181WW82OWVtMTA4TTJJWUVVakpIQ3BVTlZOR1R5NGVELXd6V0NXY21oM2NIUTl6MUJxMUxTM0JjSFBxUzFpZjlqVFNVZVUxclJ1Zw?oc=5",
-        "score": 55.969766944444444
+        "score": 52.02200740740741
       }
     ]
   },
@@ -1809,7 +1736,7 @@
     "title": "Luxury carmaker slashes prices on its most popular SUV by R129,000",
     "source": "google-news",
     "geo": "ZA",
-    "score": 55.83300768518519,
+    "score": 51.88524814814815,
     "keywords": [
       "luxury",
       "carmaker",
@@ -1824,13 +1751,13 @@
     "category": "lifestyle",
     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSXd5cTFiYVBHSURsREMxRXRzalI2RHF3MUFPS0lNZzg2MjZJVGYzbnZ1OFNuTlNDQXhNbHNfTlhFVGxQWkMxNk90Q3pIVXo1X2FXeXJ6Y3dzU3JkNmtWa2kyT2tJWGMxOEVzSmtRUENXYlhXaEhzMDVUczBNRnBBZTVVTHhTV0QtRWpFVFpNNzJqeHB5ZmY4Q3Fod2Njd25DTDh4aEk0emM2Zw?oc=5",
     "eligible": false,
-    "observedAt": "2026-11-19T13:35:00.395Z",
+    "observedAt": "2026-11-20T13:16:11.967Z",
     "signals": [
       {
         "source": "google-news",
         "title": "Luxury carmaker slashes prices on its most popular SUV by R129,000",
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSXd5cTFiYVBHSURsREMxRXRzalI2RHF3MUFPS0lNZzg2MjZJVGYzbnZ1OFNuTlNDQXhNbHNfTlhFVGxQWkMxNk90Q3pIVXo1X2FXeXJ6Y3dzU3JkNmtWa2kyT2tJWGMxOEVzSmtRUENXYlhXaEhzMDVUczBNRnBBZTVVTHhTV0QtRWpFVFpNNzJqeHB5ZmY4Q3Fod2Njd25DTDh4aEk0emM2Zw?oc=5",
-        "score": 55.83300768518519
+        "score": 51.88524814814815
       }
     ]
   },
@@ -1839,7 +1766,7 @@
     "title": "The Hidden Cost of a Hit Product",
     "source": "google-news",
     "geo": "ZA",
-    "score": 55.6528225,
+    "score": 51.70506296296296,
     "keywords": [
       "hidden",
       "cost",
@@ -1850,13 +1777,67 @@
     "category": "lifestyle",
     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0zcVRmZDJ3OWt2Q3hYZDd2NU82MlFPUDd6eExUeklTMjViZDhqMTBqS0N6aV9sdXA5VEdFM0ZnQlQxOVhOWG5NOERQYndrUUVXX0ZCczl4bUhaWHdBb3RtZjB3bkVKZWhPTmR5M09SWQ?oc=5",
     "eligible": false,
-    "observedAt": "2026-11-19T13:34:59.777Z",
+    "observedAt": "2026-11-20T13:16:11.419Z",
     "signals": [
       {
         "source": "google-news",
         "title": "The Hidden Cost of a Hit Product",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0zcVRmZDJ3OWt2Q3hYZDd2NU82MlFPUDd6eExUeklTMjViZDhqMTBqS0N6aV9sdXA5VEdFM0ZnQlQxOVhOWG5NOERQYndrUUVXX0ZCczl4bUhaWHdBb3RtZjB3bkVKZWhPTmR5M09SWQ?oc=5",
-        "score": 55.6528225
+        "score": 51.70506296296296
+      }
+    ]
+  },
+  {
+    "id": "t_1822644912",
+    "title": "Cricut, IPSY, Dell Technologies | 11/17/26",
+    "source": "google-news",
+    "geo": "ZA",
+    "score": 45.780062962962965,
+    "keywords": [
+      "cricut",
+      "ipsy",
+      "dell",
+      "technologies"
+    ],
+    "query": "Cricut, IPSY, Dell Technologies",
+    "category": "lifestyle",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA3WEtHSGhnRjBYVXBuazR4ZVFVOUlOc3l0V3hDQWtpXzRmN1dPc2hvOXB2UXA3UDZnd2haWWNtX1I2VTRrT2xwQl8yeGw3NHBfamgxWW9yRGk4VG1ZOGN1TkFlSTMtZU92NWxSR1F5Wm55YTc1YTJSODdnM1E?oc=5",
+    "eligible": false,
+    "observedAt": "2026-11-20T13:16:11.723Z",
+    "signals": [
+      {
+        "source": "google-news",
+        "title": "Cricut, IPSY, Dell Technologies | 11/17/26",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA3WEtHSGhnRjBYVXBuazR4ZVFVOUlOc3l0V3hDQWtpXzRmN1dPc2hvOXB2UXA3UDZnd2haWWNtX1I2VTRrT2xwQl8yeGw3NHBfamgxWW9yRGk4VG1ZOGN1TkFlSTMtZU92NWxSR1F5Wm55YTc1YTJSODdnM1E?oc=5",
+        "score": 45.780062962962965
+      }
+    ]
+  },
+  {
+    "id": "t_f9e8f252d5",
+    "title": "Agentic AI Automation: Four Use Cases and Benefits",
+    "source": "google-news",
+    "geo": "ZA",
+    "score": 45.69770185185185,
+    "keywords": [
+      "agentic",
+      "automation",
+      "four",
+      "use",
+      "cases",
+      "benefits"
+    ],
+    "query": "agentic automation four use",
+    "category": "lifestyle",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE14UXhYTzZxcnFsd2I4dmtSN0QtazBJQmZTSjRpMFpVR3JkTDBLZXEwanlHb25tRXJuTHlSZTRIeElQX3ZVYWhBY0NDTEIwMFBiTkVEVFlicWExZ1U4ZjRBQ0xXYw?oc=5",
+    "eligible": false,
+    "observedAt": "2026-11-20T13:16:11.966Z",
+    "signals": [
+      {
+        "source": "google-news",
+        "title": "Agentic AI Automation: Four Use Cases and Benefits",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE14UXhYTzZxcnFsd2I4dmtSN0QtazBJQmZTSjRpMFpVR3JkTDBLZXEwanlHb25tRXJuTHlSZTRIeElQX3ZVYWhBY0NDTEIwMFBiTkVEVFlicWExZ1U4ZjRBQ0xXYw?oc=5",
+        "score": 45.69770185185185
       }
     ]
   }

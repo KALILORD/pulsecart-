@@ -1,0 +1,122 @@
+{
+  "generatedAt": "2026-11-20T13:16:21.725Z",
+  "trend": {
+    "id": "t_eda4a7caaa",
+    "title": "rassie erasmus springboks ireland test",
+    "source": "google-trends",
+    "geo": "ZA",
+    "score": 83.20411998265593,
+    "keywords": [
+      "rassie",
+      "erasmus",
+      "springboks",
+      "ireland",
+      "test"
+    ],
+    "query": "supporter scarf and fan gear",
+    "event": "show your colours",
+    "category": "fashion",
+    "url": "https://trends.google.com/trending/rss?geo=ZA",
+    "traffic": "2000+",
+    "eligible": true,
+    "observedAt": "2026-11-20T13:16:10.828Z",
+    "signals": [
+      {
+        "source": "google-trends",
+        "title": "rassie erasmus springboks ireland test",
+        "url": "https://trends.google.com/trending/rss?geo=ZA",
+        "traffic": "2000+",
+        "score": 83.20411998265593
+      }
+    ]
+  },
+  "offers": [
+    {
+      "supplier": "AliExpress",
+      "title": "1 Piece Women's 3-in-1 Winter Bear Ear Hat, Scarf, and Face Mask - Soft Plush Fleece for Warmth and Wind Protection, Elastic Ear Protection Headwear, Suitable for Cycling, Commuting, Outdoor Travel, and Cold Weather Wear - 1 Piece Warm Neck Mask",
+      "url": "https://www.aliexpress.com/item/3256813002866306.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S1254fb62bc384f8db6c886cb3c3316c3l.jpg"
+      ],
+      "costZar": 75,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "Autumn Winter Neck Cover for Warmth Soft Cotton Protective Neck Cover Scarf Home Neck Support with Warm Paste Pocket Gadget",
+      "url": "https://www.aliexpress.com/item/3256813335644943.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S5816794b437948c6a0fbac39e4355138A.jpg"
+      ],
+      "costZar": 19,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "TESM Double Sided HD Printed Football Scarf Fan Cheer Scarf Matches and Parties Supporter Decorative Scarf",
+      "url": "https://www.aliexpress.com/item/3256813357290313.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S5dc7e33d75634a46a4624397643f2837K.jpg"
+      ],
+      "costZar": 19,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "VBOSi Posture Corrector VBOSi Adjustable Back Support Posture Corrector for Men And Women",
+      "url": "https://www.aliexpress.com/item/3256810189479389.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S582882d977604d93b158aa0f5748d847P.jpg"
+      ],
+      "costZar": 188,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    }
+  ],
+  "chosen": {
+    "supplier": "AliExpress",
+    "title": "Autumn Winter Neck Cover for Warmth Soft Cotton Protective Neck Cover Scarf Home Neck Support with Warm Paste Pocket Gadget",
+    "url": "https://www.aliexpress.com/item/3256813335644943.html",
+    "images": [
+      "https://ae-pic-a1.aliexpress-media.com/kf/S5816794b437948c6a0fbac39e4355138A.jpg"
+    ],
+    "costZar": 19,
+    "shippingZar": 65,
+    "deliveryDays": [
+      10,
+      18
+    ],
+    "inStock": true,
+    "confidence": "high",
+    "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+  },
+  "decision": "Saved as draft (high confidence). Verify supplier and image before publishing.",
+  "localLeads": []
+}
