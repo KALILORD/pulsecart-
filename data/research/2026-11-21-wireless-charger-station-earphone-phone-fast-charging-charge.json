@@ -1,0 +1,124 @@
+{
+  "generatedAt": "2026-11-21T12:50:55.901Z",
+  "trend": {
+    "id": "t_96e4a7b738",
+    "title": "Wireless Charger Station Earphone Phone Fast Charging Charger Holder For iPhone 16 15 14…",
+    "source": "aliexpress",
+    "geo": "GLOBAL",
+    "score": 81.79528427273833,
+    "keywords": [
+      "wireless",
+      "charger",
+      "station",
+      "earphone",
+      "phone",
+      "fast",
+      "charging",
+      "charger"
+    ],
+    "query": "wireless charger station earphone",
+    "category": "tech",
+    "url": "https://www.aliexpress.com/item/3256807799349774.html",
+    "traffic": "5000 sold",
+    "eligible": true,
+    "observedAt": "2026-11-21T12:50:44.152Z",
+    "signals": [
+      {
+        "source": "aliexpress",
+        "title": "Wireless Charger Station Earphone Phone Fast Charging Charger Holder For iPhone 16 15 14…",
+        "url": "https://www.aliexpress.com/item/3256807799349774.html",
+        "traffic": "5000 sold",
+        "score": 81.79528427273833
+      }
+    ]
+  },
+  "offers": [
+    {
+      "supplier": "AliExpress",
+      "title": "7-in-1 Wireless Charger Station 15W Fast Charging Type C Port Multi-Function Devices for iPhone 17 16 15 14 Samsung Airpods iPad",
+      "url": "https://www.aliexpress.com/item/3256810551234386.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/Sa445dbff74d648d694ee6174c70e4712Y.jpg"
+      ],
+      "costZar": 366,
+      "shippingZar": 0,
+      "deliveryDays": [
+        7,
+        14
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "Wireless Charger Station Earphone Phone Fast Charging Charger Holder For iPhone 16 15 14 13 Pro Max Samsung S24 S23 Xiaomi",
+      "url": "https://www.aliexpress.com/item/3256807799349774.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S04a0ddac60434e69897bd1b4ba0b239bZ.jpg"
+      ],
+      "costZar": 19,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "3 in 1 Night Light Wireless Charger Stand For iPhone 17 16 15 14 13 12 Apple Watch Airpods Pro Foldable Fast Charging Station",
+      "url": "https://www.aliexpress.com/item/3256809343576315.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S0dae75a37cad4cbdaddfcff6efd4da4cK.jpg"
+      ],
+      "costZar": 68,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "Wireless Charger Station Magnetic Bonola Magnetic 3 in 1 Wireless Charger for iPhone 18Pro/17/16/15/14 30W Wireless Charging Station for Apple Watch/AirPods Pro",
+      "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005005088914219:12000031604557733&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S6e4b198756cb4ab6912d17a321ae76c5o.png"
+      ],
+      "costZar": 425,
+      "shippingZar": 0,
+      "deliveryDays": [
+        7,
+        14
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    }
+  ],
+  "chosen": {
+    "supplier": "AliExpress",
+    "title": "Wireless Charger Station Earphone Phone Fast Charging Charger Holder For iPhone 16 15 14 13 Pro Max Samsung S24 S23 Xiaomi",
+    "url": "https://www.aliexpress.com/item/3256807799349774.html",
+    "images": [
+      "https://ae-pic-a1.aliexpress-media.com/kf/S04a0ddac60434e69897bd1b4ba0b239bZ.jpg"
+    ],
+    "costZar": 19,
+    "shippingZar": 65,
+    "deliveryDays": [
+      10,
+      18
+    ],
+    "inStock": true,
+    "confidence": "high",
+    "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+  },
+  "decision": "Saved as draft (high confidence). Verify supplier and image before publishing.",
+  "localLeads": []
+}

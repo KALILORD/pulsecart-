@@ -1,0 +1,124 @@
+{
+  "generatedAt": "2026-11-21T12:50:55.901Z",
+  "trend": {
+    "id": "t_889e098f0c",
+    "title": "1/3PCS Ice Face Roller Stainless Steel Gua Sha Board Set Facial Massager Face Massage…",
+    "source": "aliexpress",
+    "geo": "GLOBAL",
+    "score": 81.38632997712426,
+    "keywords": [
+      "3pcs",
+      "ice",
+      "face",
+      "roller",
+      "stainless",
+      "steel",
+      "gua",
+      "sha"
+    ],
+    "query": "3pcs ice face roller",
+    "category": "beauty",
+    "url": "https://www.aliexpress.com/item/3256808847207429.html",
+    "traffic": "3000 sold",
+    "eligible": true,
+    "observedAt": "2026-11-21T12:50:44.152Z",
+    "signals": [
+      {
+        "source": "aliexpress",
+        "title": "1/3PCS Ice Face Roller Stainless Steel Gua Sha Board Set Facial Massager Face Massage…",
+        "url": "https://www.aliexpress.com/item/3256808847207429.html",
+        "traffic": "3000 sold",
+        "score": 81.38632997712426
+      }
+    ]
+  },
+  "offers": [
+    {
+      "supplier": "AliExpress",
+      "title": "1/2/3pcs Ice Face Roller Facial Skincare Ice Roller Set,Facial Roller GuaSha FaceTool Set,Face Massage Roller Lifting Contouring",
+      "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005009960363129:12000050697511631&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/Sd1d0a22723bc49e6b78fd255acbb0e897.png"
+      ],
+      "costZar": 6,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "1/3PCS Ice Face Roller Stainless Steel Gua Sha Board Set Facial Massager Face Massage Roller Face Lifting Beauty Skin Care Tools",
+      "url": "https://www.aliexpress.com/item/3256808847207429.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S3689407e96354e248baf9b91916ca521X.jpg"
+      ],
+      "costZar": 19,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "1/3pcs Ice Face Roller Facial Skincare Ice Roller Stainless Steel Facial Roller Gua Sha Tool Reusable Silicone Ice Facial Roller",
+      "url": "https://www.aliexpress.com/item/3256808604318715.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S72f05bdc97434978afda44a2706d6e71K.jpg"
+      ],
+      "costZar": 19,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "Ice Face Roller 1/2/3pcs Ice Face Roller Facial Skincare Ice Roller Facial Roller GuaSha Face Tool Set Face Massage Roller Lifting Contouring",
+      "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005010697655724:12000053226620047&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S5321796d5fa34d2d97c98c3fa15cd9e9W.png"
+      ],
+      "costZar": 6,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    }
+  ],
+  "chosen": {
+    "supplier": "AliExpress",
+    "title": "1/2/3pcs Ice Face Roller Facial Skincare Ice Roller Set,Facial Roller GuaSha FaceTool Set,Face Massage Roller Lifting Contouring",
+    "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005009960363129:12000050697511631&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+    "images": [
+      "https://ae-pic-a1.aliexpress-media.com/kf/Sd1d0a22723bc49e6b78fd255acbb0e897.png"
+    ],
+    "costZar": 6,
+    "shippingZar": 65,
+    "deliveryDays": [
+      10,
+      18
+    ],
+    "inStock": true,
+    "confidence": "high",
+    "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+  },
+  "decision": "Saved as draft (high confidence). Verify supplier and image before publishing.",
+  "localLeads": []
+}

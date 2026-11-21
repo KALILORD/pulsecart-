@@ -1,0 +1,124 @@
+{
+  "generatedAt": "2026-11-21T12:50:55.901Z",
+  "trend": {
+    "id": "t_15aaa1fc16",
+    "title": "Makeup Brush Kit Soft 8pcs Synthetic Hair Make Up Brushes Foundation Blush Eyeshadow…",
+    "source": "aliexpress",
+    "geo": "GLOBAL",
+    "score": 83.5,
+    "keywords": [
+      "makeup",
+      "brush",
+      "kit",
+      "soft",
+      "8pcs",
+      "synthetic",
+      "hair",
+      "brushes"
+    ],
+    "query": "makeup brush kit soft",
+    "category": "beauty",
+    "url": "https://www.aliexpress.com/item/3256810420306295.html",
+    "traffic": "10000 sold",
+    "eligible": true,
+    "observedAt": "2026-11-21T12:50:44.152Z",
+    "signals": [
+      {
+        "source": "aliexpress",
+        "title": "Makeup Brush Kit Soft 8pcs Synthetic Hair Make Up Brushes Foundation Blush Eyeshadow…",
+        "url": "https://www.aliexpress.com/item/3256810420306295.html",
+        "traffic": "10000 sold",
+        "score": 83.5
+      }
+    ]
+  },
+  "offers": [
+    {
+      "supplier": "AliExpress",
+      "title": "5Pcs Pink Makeup Brush Set, Soft Synthetic Hair Professional Cosmetic Brushes, Portable Easy Storage Makeup Brushes Kit for Daily Makeup",
+      "url": "https://www.aliexpress.com/item/3256811494165653.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S1e0692db85c4447ab2fbb572ba561064a.jpg"
+      ],
+      "costZar": 100,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "8pcs Makeup Brush Kit Soft Synthetic Hair Make Up Brushes Foundation Blush Eyeshadow Cosmetic Makeup Tools",
+      "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005007038404433:12000039180280161&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/Sb9ce76b4924c45c5925251cd3bdcf1d3e.jpg"
+      ],
+      "costZar": 6,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "Makeup Brush Set Soft Fluffy Professiona Cosmetic Foundation Powder Eyeshadow Kabuki Blending Make Up Brush Beauty Tool Makeup",
+      "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005012986748239:12000059958732665&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S322337184d9c45a1b510bbe7d2a57f2cd.jpg"
+      ],
+      "costZar": 6,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "Makeup Brush Cleaner Electric Makeup Brush Cleaner Machine",
+      "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005007391910851:12000040560095233&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S4520c9cdd7e34cb0ab60a5aa26f060eaj.png"
+      ],
+      "costZar": 76,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    }
+  ],
+  "chosen": {
+    "supplier": "AliExpress",
+    "title": "8pcs Makeup Brush Kit Soft Synthetic Hair Make Up Brushes Foundation Blush Eyeshadow Cosmetic Makeup Tools",
+    "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005007038404433:12000039180280161&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+    "images": [
+      "https://ae-pic-a1.aliexpress-media.com/kf/Sb9ce76b4924c45c5925251cd3bdcf1d3e.jpg"
+    ],
+    "costZar": 6,
+    "shippingZar": 65,
+    "deliveryDays": [
+      10,
+      18
+    ],
+    "inStock": true,
+    "confidence": "high",
+    "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+  },
+  "decision": "Saved as draft (high confidence). Verify supplier and image before publishing.",
+  "localLeads": []
+}
