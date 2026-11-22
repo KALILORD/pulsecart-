@@ -1,0 +1,124 @@
+{
+  "generatedAt": "2026-11-22T12:43:13.344Z",
+  "trend": {
+    "id": "t_102994e797",
+    "title": "2-in-1 Glass Oil Dispenser & Sprayer - 16oz/470ml Leakproof Olive Oil Sprayer Bottle for…",
+    "source": "aliexpress",
+    "geo": "GLOBAL",
+    "score": 81.8,
+    "keywords": [
+      "glass",
+      "oil",
+      "dispenser",
+      "sprayer",
+      "16oz",
+      "470ml",
+      "leakproof",
+      "olive"
+    ],
+    "query": "2-in-1 Glass Oil Dispenser & Sprayer",
+    "category": "kitchen",
+    "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005009030983170:12000047646779953&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+    "traffic": "10000 sold",
+    "eligible": true,
+    "observedAt": "2026-11-22T12:43:02.338Z",
+    "signals": [
+      {
+        "source": "aliexpress",
+        "title": "2-in-1 Glass Oil Dispenser & Sprayer - 16oz/470ml Leakproof Olive Oil Sprayer Bottle for…",
+        "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005009030983170:12000047646779953&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+        "traffic": "10000 sold",
+        "score": 81.8
+      }
+    ]
+  },
+  "offers": [
+    {
+      "supplier": "AliExpress",
+      "title": "Oil Sprayer For Cooking, 2 In 1 Oil Dispenser And Oil Sprayer Kitchen Gadgets-16oz Glass Oil Spray Bottle, Mist Olive Oil Dispenser For Kitchen,Air Fryer,Salad, Grill",
+      "url": "https://www.aliexpress.com/item/3256813347508626.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/Scc7b182bcad149ba9776d4784656d453N.jpg"
+      ],
+      "costZar": 180,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "2 in 1 Oil Sprayer Bottle, Glass Oil Sprayer for Cooking, Pour & Spray Dual Use Olive Oil Bottle with Handle, Kitchen Gadget for Air Fryer BBQ Salad",
+      "url": "https://www.aliexpress.com/item/3256813234711761.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S6e9d56b1e6d142e9983499ba32f65b7fU.jpg"
+      ],
+      "costZar": 285,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "2 in 1 Glass Oil Sprayer & Dispenser, 16oz/470ml Olive Cooking, Air Fryer, and Salad, for Kitchen Gadgets and Air Fryer Accessories, W/Stickers (Black)",
+      "url": "https://www.aliexpress.com/item/3256812984666538.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S8dd1c105a7a043d795f20dc2643a2589V.jpg"
+      ],
+      "costZar": 264,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "Glass Oil Sprayer 2-in-1 Glass Oil Sprayer & Dispenser, 16oz Leakproof Olive Oil Bottle for Cooking, Air Fryer, Salad, BBQ",
+      "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005009973751680:12000050732132096&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/Sb90e86f25ee64d8bb87bcf59bd78b1e7E.jpg"
+      ],
+      "costZar": 58,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    }
+  ],
+  "chosen": {
+    "supplier": "AliExpress",
+    "title": "Glass Oil Sprayer 2-in-1 Glass Oil Sprayer & Dispenser, 16oz Leakproof Olive Oil Bottle for Cooking, Air Fryer, Salad, BBQ",
+    "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005009973751680:12000050732132096&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+    "images": [
+      "https://ae-pic-a1.aliexpress-media.com/kf/Sb90e86f25ee64d8bb87bcf59bd78b1e7E.jpg"
+    ],
+    "costZar": 58,
+    "shippingZar": 65,
+    "deliveryDays": [
+      10,
+      18
+    ],
+    "inStock": true,
+    "confidence": "high",
+    "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+  },
+  "decision": "Saved as draft (high confidence). Verify supplier and image before publishing.",
+  "localLeads": []
+}

@@ -1,0 +1,124 @@
+{
+  "generatedAt": "2026-11-22T12:43:13.344Z",
+  "trend": {
+    "id": "t_8d54fcbfa9",
+    "title": "Super Bright MINI COB Keychain Flashlight Charging Lamp Camping Lights with Magnet 4…",
+    "source": "aliexpress",
+    "geo": "GLOBAL",
+    "score": 81,
+    "keywords": [
+      "super",
+      "bright",
+      "mini",
+      "cob",
+      "keychain",
+      "flashlight",
+      "charging",
+      "lamp"
+    ],
+    "query": "super bright mini cob",
+    "category": "home",
+    "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005007096946645:12000039391477309&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+    "traffic": "10000 sold",
+    "eligible": true,
+    "observedAt": "2026-11-22T12:43:02.338Z",
+    "signals": [
+      {
+        "source": "aliexpress",
+        "title": "Super Bright MINI COB Keychain Flashlight Charging Lamp Camping Lights with Magnet 4…",
+        "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005007096946645:12000039391477309&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+        "traffic": "10000 sold",
+        "score": 81
+      }
+    ]
+  },
+  "offers": [
+    {
+      "supplier": "AliExpress",
+      "title": "Super Bright MINI COB Keychain Flashlight Charging Lamp Camping Lights with Magnet 4 Lighting Modes for Camping Home",
+      "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005007096946645:12000039391477309&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/Sdcb0fc5c9d884e8ca1c119c6da86f0fed.jpg"
+      ],
+      "costZar": 6,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "Flashlight Mini Keychain Light COB Work Light USB Rechargeable Lamp with 90° Foldable Side Lights Super Bright Portable Lanterns",
+      "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005007345296150:12000040354297785&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S0d0c10674677435cbbeff78004bbb0cd0.jpg"
+      ],
+      "costZar": 6,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "MINI USB Rechargeable LED Flashlight Portable Tail Magnet Flashlight Super Bright Camping Lantern Side COB Emergency Light",
+      "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005007805526624:12000061670382664&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/Sac1fd7d6bd3c4de7a60ac39691d71468R.jpg"
+      ],
+      "costZar": 93,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "COB LED Strip Light UL Listed COB LED Strip Light 320 480 LEDs/m 16.4ft High Density Flexible Tape Ribbon 3000-6500K RA90 Led Lights DC12V 24V",
+      "url": "https://www.aliexpress.com/item/3256803092999189.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S2b5f6bcec4294c9086652c722e46e325O.jpg"
+      ],
+      "costZar": 19,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    }
+  ],
+  "chosen": {
+    "supplier": "AliExpress",
+    "title": "Super Bright MINI COB Keychain Flashlight Charging Lamp Camping Lights with Magnet 4 Lighting Modes for Camping Home",
+    "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005007096946645:12000039391477309&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+    "images": [
+      "https://ae-pic-a1.aliexpress-media.com/kf/Sdcb0fc5c9d884e8ca1c119c6da86f0fed.jpg"
+    ],
+    "costZar": 6,
+    "shippingZar": 65,
+    "deliveryDays": [
+      10,
+      18
+    ],
+    "inStock": true,
+    "confidence": "high",
+    "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+  },
+  "decision": "Saved as draft (high confidence). Verify supplier and image before publishing.",
+  "localLeads": []
+}

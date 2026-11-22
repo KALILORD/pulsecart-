@@ -1,0 +1,124 @@
+{
+  "generatedAt": "2026-11-22T12:43:13.344Z",
+  "trend": {
+    "id": "t_e269977c2e",
+    "title": "Multifunctional Portable Highlighting Light Type-c Fast Charging Large Capacity Battery…",
+    "source": "aliexpress",
+    "geo": "GLOBAL",
+    "score": 81.32580038825972,
+    "keywords": [
+      "multifunctional",
+      "portable",
+      "highlighting",
+      "light",
+      "type",
+      "fast",
+      "charging",
+      "large"
+    ],
+    "query": "multifunctional portable highlighting light",
+    "category": "home",
+    "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005006727569844:12000038107498995&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+    "traffic": "7000 sold",
+    "eligible": true,
+    "observedAt": "2026-11-22T12:43:02.338Z",
+    "signals": [
+      {
+        "source": "aliexpress",
+        "title": "Multifunctional Portable Highlighting Light Type-c Fast Charging Large Capacity Battery…",
+        "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005006727569844:12000038107498995&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+        "traffic": "7000 sold",
+        "score": 81.32580038825972
+      }
+    ]
+  },
+  "offers": [
+    {
+      "supplier": "AliExpress",
+      "title": "Multifunctional Portable Highlighting Light Type-c Fast Charging Large Capacity Battery Life Keychain Lamp COB Flashlight",
+      "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005006982353624:12000038933865251&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/Scf07b3e852674a0b853550398943aa86u.jpg"
+      ],
+      "costZar": 63,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "Multifunctional COB Flashlight Rechargeable Portable Mini LED Working Light Outdoor Camping Torch",
+      "url": "https://www.aliexpress.com/item/3256810190169486.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S738e3cc304164452ab15baed57b8cabcs.jpg"
+      ],
+      "costZar": 145,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "Wurkkos HD03 Clip-On Light 680LM USB-C Rechargeable Pocket Flashlight Mini Spotlight/Work Light Portable Everyday RGB Flashlight (with Magnetic Attachment) Direct Shipping from Local Warehouse",
+      "url": "https://www.aliexpress.com/item/3256813065194677.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S2ae8781fe9d14ce9b0c61300a77568bev.jpg"
+      ],
+      "costZar": 247,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "Multifunctional Ajustable Angle LED Flashlight Outdoors Mini Work Light Portable Magnet USB Rechargeable Camping Light",
+      "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005012058485870:12000057400203912&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S8b7325c0280b4d9c9aba509f45741358D.jpg"
+      ],
+      "costZar": 58,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    }
+  ],
+  "chosen": {
+    "supplier": "AliExpress",
+    "title": "Multifunctional Ajustable Angle LED Flashlight Outdoors Mini Work Light Portable Magnet USB Rechargeable Camping Light",
+    "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005012058485870:12000057400203912&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+    "images": [
+      "https://ae-pic-a1.aliexpress-media.com/kf/S8b7325c0280b4d9c9aba509f45741358D.jpg"
+    ],
+    "costZar": 58,
+    "shippingZar": 65,
+    "deliveryDays": [
+      10,
+      18
+    ],
+    "inStock": true,
+    "confidence": "high",
+    "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+  },
+  "decision": "Saved as draft (high confidence). Verify supplier and image before publishing.",
+  "localLeads": []
+}

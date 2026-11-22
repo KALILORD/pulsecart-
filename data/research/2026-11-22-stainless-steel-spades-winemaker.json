@@ -1,0 +1,53 @@
+{
+  "generatedAt": "2026-11-22T12:43:13.344Z",
+  "trend": {
+    "id": "t_50337daeed",
+    "title": "Stainless Steel Spades A Winemaker Bottle Opener Playing Cards Bottle Opener Credit Card…",
+    "source": "aliexpress",
+    "geo": "GLOBAL",
+    "score": 81,
+    "keywords": [
+      "stainless",
+      "steel",
+      "spades",
+      "winemaker",
+      "bottle",
+      "opener",
+      "playing",
+      "cards"
+    ],
+    "query": "stainless steel spades winemaker",
+    "category": "kitchen",
+    "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005007454647659:12000040826718446&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+    "traffic": "20000 sold",
+    "eligible": true,
+    "observedAt": "2026-11-22T12:43:02.338Z",
+    "signals": [
+      {
+        "source": "aliexpress",
+        "title": "Stainless Steel Spades A Winemaker Bottle Opener Playing Cards Bottle Opener Credit Card…",
+        "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005007454647659:12000040826718446&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+        "traffic": "20000 sold",
+        "score": 81
+      }
+    ]
+  },
+  "offers": [],
+  "chosen": {
+    "supplier": "Estimated — verify supplier",
+    "title": "stainless steel spades winemaker",
+    "url": "",
+    "images": [],
+    "costZar": 260,
+    "shippingZar": 65,
+    "deliveryDays": [
+      10,
+      18
+    ],
+    "inStock": true,
+    "confidence": "low",
+    "notes": "No verifiable supplier price found automatically. Confirm a supplier, landed cost, and image before publishing."
+  },
+  "decision": "Saved as draft (low confidence). Verify supplier and image before publishing.",
+  "localLeads": []
+}
