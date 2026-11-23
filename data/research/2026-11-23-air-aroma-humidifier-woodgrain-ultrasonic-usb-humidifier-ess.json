@@ -1,0 +1,131 @@
+{
+  "generatedAt": "2026-11-23T15:00:11.363Z",
+  "trend": {
+    "id": "t_18ba447a3f",
+    "title": "Humidifier Electric Aroma Air Diffuser Wood Ultrasonic Air Humidifier Essential Oil…",
+    "source": "aliexpress",
+    "geo": "GLOBAL",
+    "score": 83.39528427273834,
+    "keywords": [
+      "humidifier",
+      "electric",
+      "aroma",
+      "air",
+      "diffuser",
+      "wood",
+      "ultrasonic",
+      "air"
+    ],
+    "query": "humidifier electric aroma air",
+    "category": "home",
+    "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005010044084952:12000050930646242&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+    "traffic": "5000 sold",
+    "eligible": true,
+    "observedAt": "2026-11-23T14:59:59.420Z",
+    "signals": [
+      {
+        "source": "aliexpress",
+        "title": "Humidifier Electric Aroma Air Diffuser Wood Ultrasonic Air Humidifier Essential Oil…",
+        "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005010044084952:12000050930646242&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+        "traffic": "5000 sold",
+        "score": 80.39528427273834
+      },
+      {
+        "source": "aliexpress",
+        "title": "Humidifier Electric Air Aroma Diffuser Wood Ultrasonic Air Humidifier Essential Oil…",
+        "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005007061357157:12000039273476528&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+        "traffic": "2000 sold",
+        "score": 79.20623544318106
+      }
+    ]
+  },
+  "offers": [
+    {
+      "supplier": "AliExpress",
+      "title": "Air Aroma Humidifier Woodgrain Ultrasonic USB Humidifier Essential Oil Diffuser Home Fragrance Air Purifier with Night Light",
+      "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005006860887900:12000038542660590&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S6a0f49b4f469482db845695f357f199eq.jpg"
+      ],
+      "costZar": 198,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "Home Dual Nozzle Electric Aroma Diffuser Electric Fragrance Indoor Air Freshener Humidifier Aromatherapy Device Battery 4000Ah",
+      "url": "https://www.aliexpress.com/item/3256811804650697.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S9e771a7d0b18408daec46011d94cff199.jpg"
+      ],
+      "costZar": 744,
+      "shippingZar": 0,
+      "deliveryDays": [
+        7,
+        14
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "New Clock Air Humidifier Home Remote Control Colorful Lamp Usb Charg Essential Oil Spray Aroma Diffuser Alarm Clock Humidifiers",
+      "url": "https://www.aliexpress.com/item/3256810126691288.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S89b7222cde004b03b7fd737494cd1b4dI.jpg"
+      ],
+      "costZar": 371,
+      "shippingZar": 0,
+      "deliveryDays": [
+        7,
+        14
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "340ml Cactus Air Humidifier Rechargeable Portable Aromatherapy Essential Oil Diffuser Battery Humidificador",
+      "url": "https://www.aliexpress.com/item/3256804925575454.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S6452230c11604bae8878b7896426534eY.jpg"
+      ],
+      "costZar": 288,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    }
+  ],
+  "chosen": {
+    "supplier": "AliExpress",
+    "title": "Air Aroma Humidifier Woodgrain Ultrasonic USB Humidifier Essential Oil Diffuser Home Fragrance Air Purifier with Night Light",
+    "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005006860887900:12000038542660590&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+    "images": [
+      "https://ae-pic-a1.aliexpress-media.com/kf/S6a0f49b4f469482db845695f357f199eq.jpg"
+    ],
+    "costZar": 198,
+    "shippingZar": 65,
+    "deliveryDays": [
+      10,
+      18
+    ],
+    "inStock": true,
+    "confidence": "high",
+    "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+  },
+  "decision": "Saved as draft (high confidence). Verify supplier and image before publishing.",
+  "localLeads": []
+}

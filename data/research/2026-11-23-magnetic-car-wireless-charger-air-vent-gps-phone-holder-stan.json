@@ -1,0 +1,124 @@
+{
+  "generatedAt": "2026-11-23T15:00:11.363Z",
+  "trend": {
+    "id": "t_6a1e8df579",
+    "title": "3 in 1 Wireless Charger Stand Magnetic Foldable Wireless Charging Station for iPhone 16…",
+    "source": "aliexpress",
+    "geo": "GLOBAL",
+    "score": 83.21084275689499,
+    "keywords": [
+      "wireless",
+      "charger",
+      "stand",
+      "magnetic",
+      "foldable",
+      "wireless",
+      "charging",
+      "station"
+    ],
+    "query": "wireless charger stand magnetic",
+    "category": "tech",
+    "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005007477075067:12000040910823355&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+    "traffic": "4000 sold",
+    "eligible": true,
+    "observedAt": "2026-11-23T14:59:59.420Z",
+    "signals": [
+      {
+        "source": "aliexpress",
+        "title": "3 in 1 Wireless Charger Stand Magnetic Foldable Wireless Charging Station for iPhone 16…",
+        "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005007477075067:12000040910823355&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+        "traffic": "4000 sold",
+        "score": 83.21084275689499
+      }
+    ]
+  },
+  "offers": [
+    {
+      "supplier": "AliExpress",
+      "title": "Magnetic Car Wireless Charger Air Vent GPS Phone Holder Stand For Magsafe iPhone 17 16 15 14 13 12 Pro Max Cell Fast Charging",
+      "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005011668315609:12000056197488203&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/Sf1a94ab5bf38415ca4184e30f7f68096C.png"
+      ],
+      "costZar": 6,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "30W Magnetic Car Wireless Chargers Air Vent Clip Phone Holder for iPhone16 15 14 13 12 Pro Max Macsafe Car Charger Fast Charging",
+      "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005009835251165:12000050315102842&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/Sd459c6e9697e41b5bd6232f9cdbcbeebV.png"
+      ],
+      "costZar": 84,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "Wireless Charger Stand Magnetic Essager 3 in 1 Magnetic Wireless Charger Qi2.2 25W Fast Charging Stand For iPhone 17 16 Pro Max Apple",
+      "url": "https://www.aliexpress.com/item/3256812196775142.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/Seac25e40a10942c18d0db3b0a403ee37q.jpg"
+      ],
+      "costZar": 546,
+      "shippingZar": 0,
+      "deliveryDays": [
+        7,
+        14
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "Designed for BMW 3 Series e90 2005-2008-2011 Phone Holder Car Magnetic Mount Smart Sensing Wireless Charging One-Touch Release",
+      "url": "https://www.aliexpress.com/item/3256813100636620.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S009dfa725e88405d90f144b901e5649eg.jpg"
+      ],
+      "costZar": 19,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    }
+  ],
+  "chosen": {
+    "supplier": "AliExpress",
+    "title": "Magnetic Car Wireless Charger Air Vent GPS Phone Holder Stand For Magsafe iPhone 17 16 15 14 13 12 Pro Max Cell Fast Charging",
+    "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005011668315609:12000056197488203&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+    "images": [
+      "https://ae-pic-a1.aliexpress-media.com/kf/Sf1a94ab5bf38415ca4184e30f7f68096C.png"
+    ],
+    "costZar": 6,
+    "shippingZar": 65,
+    "deliveryDays": [
+      10,
+      18
+    ],
+    "inStock": true,
+    "confidence": "high",
+    "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+  },
+  "decision": "Saved as draft (high confidence). Verify supplier and image before publishing.",
+  "localLeads": []
+}

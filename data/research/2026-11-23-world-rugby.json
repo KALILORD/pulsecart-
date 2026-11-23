@@ -1,0 +1,48 @@
+{
+  "generatedAt": "2026-11-23T15:00:11.363Z",
+  "trend": {
+    "id": "t_c1ff0d9273",
+    "title": "world rugby",
+    "source": "google-trends",
+    "geo": "ZA",
+    "score": 82,
+    "keywords": [
+      "world",
+      "rugby"
+    ],
+    "query": "world rugby",
+    "event": "World Rugby Awards 2026 men’s nominees announced",
+    "category": "fashion",
+    "url": "https://trends.google.com/trending/rss?geo=ZA",
+    "traffic": "1000+",
+    "eligible": true,
+    "observedAt": "2026-11-23T14:59:59.902Z",
+    "signals": [
+      {
+        "source": "google-trends",
+        "title": "world rugby",
+        "url": "https://trends.google.com/trending/rss?geo=ZA",
+        "traffic": "1000+",
+        "score": 82
+      }
+    ]
+  },
+  "offers": [],
+  "chosen": {
+    "supplier": "Estimated — verify supplier",
+    "title": "world rugby",
+    "url": "",
+    "images": [],
+    "costZar": 250,
+    "shippingZar": 65,
+    "deliveryDays": [
+      10,
+      18
+    ],
+    "inStock": true,
+    "confidence": "low",
+    "notes": "No verifiable supplier price found automatically. Confirm a supplier, landed cost, and image before publishing."
+  },
+  "decision": "Saved as draft (low confidence). Verify supplier and image before publishing.",
+  "localLeads": []
+}

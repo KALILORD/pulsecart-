@@ -1,0 +1,67 @@
+{
+  "id": "p_ce7aa1777b",
+  "slug": "world-rugby",
+  "title": "World Rugby",
+  "tagline": "The fashion & accessories pick everyone is asking about.",
+  "description": [
+    "\"world rugby\" is everywhere right now. It is the World Rugby Awards 2026 men’s nominees announced moment everyone is talking about. This is the product at the centre of it.",
+    "A practical upgrade for everyday fashion & accessories — easy to use, easy to store, and priced for South Africa. We check the supplier, the landed cost, and the delivery window before it goes live.",
+    "Delivered nationwide in an estimated 7-14 working days. Backed by our 7-day returns policy."
+  ],
+  "bullets": [
+    "Easy to style with what you already own",
+    "Comfortable enough for all-day wear",
+    "Durable materials and clean finishing",
+    "A small detail that lifts the whole look",
+    "Sized and quality-checked before dispatch"
+  ],
+  "priceZar": 692.99,
+  "currency": "ZAR",
+  "images": [],
+  "category": "fashion",
+  "tags": [
+    "Fashion & Accessories",
+    "world",
+    "rugby",
+    "South Africa",
+    "trending"
+  ],
+  "trend": {
+    "id": "t_c1ff0d9273",
+    "title": "world rugby",
+    "source": "google-trends",
+    "score": 82,
+    "event": "World Rugby Awards 2026 men’s nominees announced"
+  },
+  "supplier": {
+    "supplier": "Estimated — verify supplier",
+    "title": "world rugby",
+    "url": "",
+    "images": [],
+    "costZar": 250,
+    "shippingZar": 65,
+    "deliveryDays": [
+      10,
+      18
+    ],
+    "inStock": true,
+    "confidence": "low",
+    "notes": "No verifiable supplier price found automatically. Confirm a supplier, landed cost, and image before publishing.",
+    "checkedAt": "2026-11-23T15:00:11.363Z"
+  },
+  "seo": {
+    "title": "World Rugby | PulseCart",
+    "description": "World Rugby — trending in South Africa. What's trending. Delivered. Delivered nationwide.",
+    "keywords": [
+      "World Rugby",
+      "Fashion & Accessories",
+      "South Africa",
+      "trending",
+      "world",
+      "rugby"
+    ]
+  },
+  "status": "draft",
+  "createdAt": "2026-11-23T15:00:11.363Z",
+  "updatedAt": "2026-11-23T15:00:15.062Z"
+}
