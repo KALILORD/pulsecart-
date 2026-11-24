@@ -1,0 +1,51 @@
+{
+  "generatedAt": "2026-11-24T15:00:54.445Z",
+  "trend": {
+    "id": "t_84325c10dc",
+    "title": "bma lebombo port vehicle interception",
+    "source": "google-trends",
+    "geo": "ZA",
+    "score": 79.20411998265593,
+    "keywords": [
+      "bma",
+      "lebombo",
+      "port",
+      "vehicle",
+      "interception"
+    ],
+    "query": "bma lebombo port vehicle interception",
+    "event": "BMA intercepts two high-value vehicles at Lebombo Port of Entry",
+    "category": "auto",
+    "url": "https://trends.google.com/trending/rss?geo=ZA",
+    "traffic": "200+",
+    "eligible": true,
+    "observedAt": "2026-11-24T15:00:40.927Z",
+    "signals": [
+      {
+        "source": "google-trends",
+        "title": "bma lebombo port vehicle interception",
+        "url": "https://trends.google.com/trending/rss?geo=ZA",
+        "traffic": "200+",
+        "score": 79.20411998265593
+      }
+    ]
+  },
+  "offers": [],
+  "chosen": {
+    "supplier": "Estimated — verify supplier",
+    "title": "bma lebombo port vehicle interception",
+    "url": "",
+    "images": [],
+    "costZar": 265,
+    "shippingZar": 65,
+    "deliveryDays": [
+      10,
+      18
+    ],
+    "inStock": true,
+    "confidence": "low",
+    "notes": "No verifiable supplier price found automatically. Confirm a supplier, landed cost, and image before publishing."
+  },
+  "decision": "Saved as draft (low confidence). Verify supplier and image before publishing.",
+  "localLeads": []
+}

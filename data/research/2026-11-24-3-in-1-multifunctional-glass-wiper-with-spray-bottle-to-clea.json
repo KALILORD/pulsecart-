@@ -1,0 +1,124 @@
+{
+  "generatedAt": "2026-11-24T15:00:54.445Z",
+  "trend": {
+    "id": "t_cdb1f506ed",
+    "title": "Portable Multifunctional Household Cleaning Box, Mini Home Cleaner for Eyeglasses…",
+    "source": "aliexpress",
+    "geo": "GLOBAL",
+    "score": 79.1,
+    "keywords": [
+      "portable",
+      "multifunctional",
+      "household",
+      "cleaning",
+      "box",
+      "mini",
+      "home",
+      "cleaner"
+    ],
+    "query": "portable multifunctional household cleaning",
+    "category": "home",
+    "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005006995199617:12000038985531711&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+    "traffic": "10000 sold",
+    "eligible": true,
+    "observedAt": "2026-11-24T15:00:40.640Z",
+    "signals": [
+      {
+        "source": "aliexpress",
+        "title": "Portable Multifunctional Household Cleaning Box, Mini Home Cleaner for Eyeglasses…",
+        "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005006995199617:12000038985531711&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+        "traffic": "10000 sold",
+        "score": 79.1
+      }
+    ]
+  },
+  "offers": [
+    {
+      "supplier": "AliExpress",
+      "title": "Portable Multifunctional Household Cleaning Box, Mini Home Cleaner for Eyeglasses, Watches, Rings, Necklaces & Jewelry",
+      "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005006995199617:12000038985531711&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S5212f7a6c3f84db590566ec0982d8efan.png"
+      ],
+      "costZar": 94,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "USB Rechargeable Powerful Cordless Vacuum Cleaner, Household Handheld Vacuum Cleaner, With Both Blowing And Suction Functions, Mini And Portable. Suitable For Cleaning Dust, Snack Crumbs, Hair, And Applicable To Sofas, Carpets, Desktops, And Stairs.",
+      "url": "https://www.aliexpress.com/item/3256813444101162.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/Ac546dd80e12b47afaac1980135f87d094.png"
+      ],
+      "costZar": 39,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "3-in-1 Multifunctional Glass Wiper with Spray Bottle to Clean the Floor and Scrub Household Car Cleaning Tools",
+      "url": "https://www.aliexpress.com/item/3256812686765854.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/Sac9b8c755fa14d9ab3cda0c466ecf911a.png"
+      ],
+      "costZar": 19,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "Portable Household Cleaning Mini Vacuum 9000Pa Wireless Car Vacuum Cleaner USB Charging 1200mAh Portable Cleaning Appliance Mini Wet and Dry Vacuum Cleaner Household",
+      "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005008818611165:12000046801227518&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/Sa7f34a9bab3e47978af1bcb17ed1a524p.png"
+      ],
+      "costZar": 90,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    }
+  ],
+  "chosen": {
+    "supplier": "AliExpress",
+    "title": "3-in-1 Multifunctional Glass Wiper with Spray Bottle to Clean the Floor and Scrub Household Car Cleaning Tools",
+    "url": "https://www.aliexpress.com/item/3256812686765854.html",
+    "images": [
+      "https://ae-pic-a1.aliexpress-media.com/kf/Sac9b8c755fa14d9ab3cda0c466ecf911a.png"
+    ],
+    "costZar": 19,
+    "shippingZar": 65,
+    "deliveryDays": [
+      10,
+      18
+    ],
+    "inStock": true,
+    "confidence": "high",
+    "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+  },
+  "decision": "Saved as draft (high confidence). Verify supplier and image before publishing.",
+  "localLeads": []
+}

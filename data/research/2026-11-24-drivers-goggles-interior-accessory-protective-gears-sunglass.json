@@ -1,0 +1,124 @@
+{
+  "generatedAt": "2026-11-24T15:00:54.445Z",
+  "trend": {
+    "id": "t_50b42dfdb2",
+    "title": "Car-mounted Glasses Car Sunshade Holder Eye Frame for Magnetic Attachment Sunglasses Sun…",
+    "source": "aliexpress",
+    "geo": "GLOBAL",
+    "score": 81,
+    "keywords": [
+      "car",
+      "mounted",
+      "glasses",
+      "car",
+      "sunshade",
+      "holder",
+      "eye",
+      "frame"
+    ],
+    "query": "car mounted glasses car",
+    "category": "fashion",
+    "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005010088941659:12000051098555784&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+    "traffic": "50000 sold",
+    "eligible": true,
+    "observedAt": "2026-11-24T15:00:40.640Z",
+    "signals": [
+      {
+        "source": "aliexpress",
+        "title": "Car-mounted Glasses Car Sunshade Holder Eye Frame for Magnetic Attachment Sunglasses Sun…",
+        "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005010088941659:12000051098555784&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+        "traffic": "50000 sold",
+        "score": 81
+      }
+    ]
+  },
+  "offers": [
+    {
+      "supplier": "AliExpress",
+      "title": "Drivers Goggles Interior Accessory Protective Gears Sunglasses Night Vision Glasses Anti Glare Car Driving Glasses 2024 NEW",
+      "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005006727705420:12000038107658661&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/Sc50153519d1946dcaf4d38f260dfd745s.jpg"
+      ],
+      "costZar": 23,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "car sun visor glasses holder multifunctional vehicle sunglasses clip auto interior sun glasses storage box for card organizer",
+      "url": "https://www.aliexpress.com/item/3256813467362065.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S2888a2e5bd90435e87beec1b62130aa4k.jpg"
+      ],
+      "costZar": 136,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "Car Sun Visor Glasses Clip Holder Stable - Sunglasses Hanger & Card Ticket Organizer, Universal Auto Interior Accessories",
+      "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005012014014554:12000057272445720&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S6f447ccc911148f3bda450db042aa7b61.jpg"
+      ],
+      "costZar": 23,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "Night Vision Sunglasses Car Night Driving Glasses Driver Goggles Unisex Sun Glasses UV Protection Sunglasses Eyewear",
+      "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005012177032618:12000057698048973&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/Sded2b43f438341b7997e8cd1e2ee4db1U.jpg"
+      ],
+      "costZar": 23,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    }
+  ],
+  "chosen": {
+    "supplier": "AliExpress",
+    "title": "Drivers Goggles Interior Accessory Protective Gears Sunglasses Night Vision Glasses Anti Glare Car Driving Glasses 2024 NEW",
+    "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005006727705420:12000038107658661&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+    "images": [
+      "https://ae-pic-a1.aliexpress-media.com/kf/Sc50153519d1946dcaf4d38f260dfd745s.jpg"
+    ],
+    "costZar": 23,
+    "shippingZar": 65,
+    "deliveryDays": [
+      10,
+      18
+    ],
+    "inStock": true,
+    "confidence": "high",
+    "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+  },
+  "decision": "Saved as draft (high confidence). Verify supplier and image before publishing.",
+  "localLeads": []
+}

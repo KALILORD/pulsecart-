@@ -1,0 +1,53 @@
+{
+  "generatedAt": "2026-11-24T15:00:54.445Z",
+  "trend": {
+    "id": "t_ee58e54ed9",
+    "title": "SOFIRN ST10 1000LM EDC Flashlight USB C 14500 Rechargeable with Red Light 660NM Magnetic…",
+    "source": "aliexpress",
+    "geo": "GLOBAL",
+    "score": 78.81084275689498,
+    "keywords": [
+      "sofirn",
+      "st10",
+      "1000lm",
+      "edc",
+      "flashlight",
+      "usb",
+      "rechargeable",
+      "red"
+    ],
+    "query": "sofirn st10 1000lm edc",
+    "category": "tech",
+    "url": "https://www.aliexpress.com/item/3256812824707275.html",
+    "traffic": "4000 sold",
+    "eligible": true,
+    "observedAt": "2026-11-24T15:00:40.640Z",
+    "signals": [
+      {
+        "source": "aliexpress",
+        "title": "SOFIRN ST10 1000LM EDC Flashlight USB C 14500 Rechargeable with Red Light 660NM Magnetic…",
+        "url": "https://www.aliexpress.com/item/3256812824707275.html",
+        "traffic": "4000 sold",
+        "score": 78.81084275689498
+      }
+    ]
+  },
+  "offers": [],
+  "chosen": {
+    "supplier": "Estimated — verify supplier",
+    "title": "sofirn st10 1000lm edc",
+    "url": "",
+    "images": [],
+    "costZar": 255,
+    "shippingZar": 65,
+    "deliveryDays": [
+      10,
+      18
+    ],
+    "inStock": true,
+    "confidence": "low",
+    "notes": "No verifiable supplier price found automatically. Confirm a supplier, landed cost, and image before publishing."
+  },
+  "decision": "Saved as draft (low confidence). Verify supplier and image before publishing.",
+  "localLeads": []
+}
