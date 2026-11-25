@@ -1,0 +1,124 @@
+{
+  "generatedAt": "2026-11-25T14:40:37.083Z",
+  "trend": {
+    "id": "t_9b7b327ee1",
+    "title": "Cloud Prime Electric Facial Pore Cleaner Pimple Adsorbent Rechargeable Blackhead Reduce…",
+    "source": "aliexpress",
+    "geo": "GLOBAL",
+    "score": 85.01084275689499,
+    "keywords": [
+      "cloud",
+      "prime",
+      "electric",
+      "facial",
+      "pore",
+      "cleaner",
+      "pimple",
+      "adsorbent"
+    ],
+    "query": "cloud prime electric facial",
+    "category": "beauty",
+    "url": "https://www.aliexpress.com/item/3256811494611794.html",
+    "traffic": "4000 sold",
+    "eligible": true,
+    "observedAt": "2026-11-25T14:40:26.365Z",
+    "signals": [
+      {
+        "source": "aliexpress",
+        "title": "Cloud Prime Electric Facial Pore Cleaner Pimple Adsorbent Rechargeable Blackhead Reduce…",
+        "url": "https://www.aliexpress.com/item/3256811494611794.html",
+        "traffic": "4000 sold",
+        "score": 85.01084275689499
+      }
+    ]
+  },
+  "offers": [
+    {
+      "supplier": "AliExpress",
+      "title": "Cloud Prime Electric Facial Pore Cleaner Pimple Adsorbent Rechargeable Blackhead Reduce Tool 3 Suction Power, 5 Probes For Christmas And New Year Gifts",
+      "url": "https://www.aliexpress.com/item/3256811494611794.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S1103b0ecec714d7681d98b5263f003e9W.jpg"
+      ],
+      "costZar": 19,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "Cloud Prime 4 in 1 Electric Facial Massager Can Vibrate and Lift The Facial Skin in 4 Adjustable Modes Women Beauty Instrument Skin Care Tool For Christmas And New Year Gifts",
+      "url": "https://www.aliexpress.com/item/3256813316592104.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S9955effc119e4b61ae4dcca8c062b5efm.jpg"
+      ],
+      "costZar": 39,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "Cloud Prime 7 In 1 Facial And Neck Beauty Device 7 Modes LED Facial Skin Massager, 3 Adjustable Strengths Skincare Massage Tool With Vibration For Christmas And New Year Gifts",
+      "url": "https://www.aliexpress.com/item/3256813019118234.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S55f04d541ee947809281ca417b19f518v.jpg"
+      ],
+      "costZar": 19,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "Cloud Prime 4 in 1 Electric Facial Massager Can Vibrate and Lift The Facial Skin in 4 Adjustable Modes Women Beauty Instrument Skin Care Tool For Christmas And New Year Gifts",
+      "url": "https://www.aliexpress.com/item/3256813164881368.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S9955effc119e4b61ae4dcca8c062b5efm.jpg"
+      ],
+      "costZar": 238,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    }
+  ],
+  "chosen": {
+    "supplier": "AliExpress",
+    "title": "Cloud Prime Electric Facial Pore Cleaner Pimple Adsorbent Rechargeable Blackhead Reduce Tool 3 Suction Power, 5 Probes For Christmas And New Year Gifts",
+    "url": "https://www.aliexpress.com/item/3256811494611794.html",
+    "images": [
+      "https://ae-pic-a1.aliexpress-media.com/kf/S1103b0ecec714d7681d98b5263f003e9W.jpg"
+    ],
+    "costZar": 19,
+    "shippingZar": 65,
+    "deliveryDays": [
+      10,
+      18
+    ],
+    "inStock": true,
+    "confidence": "high",
+    "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+  },
+  "decision": "Saved as draft (high confidence). Verify supplier and image before publishing.",
+  "localLeads": []
+}

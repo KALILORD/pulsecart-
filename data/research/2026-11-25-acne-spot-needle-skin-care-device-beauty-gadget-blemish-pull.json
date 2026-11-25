@@ -1,0 +1,124 @@
+{
+  "generatedAt": "2026-11-25T14:40:37.083Z",
+  "trend": {
+    "id": "t_fe813168ca",
+    "title": "Acne Spot Needle Skin Care Device Beauty Gadget Blemish Puller Eliminator Needle Kit for…",
+    "source": "aliexpress",
+    "geo": "GLOBAL",
+    "score": 89,
+    "keywords": [
+      "acne",
+      "spot",
+      "needle",
+      "skin",
+      "care",
+      "device",
+      "beauty",
+      "gadget"
+    ],
+    "query": "acne spot needle skin",
+    "category": "beauty",
+    "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005007169710887:12000039685960289&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+    "traffic": "10000 sold",
+    "eligible": true,
+    "observedAt": "2026-11-25T14:40:26.365Z",
+    "signals": [
+      {
+        "source": "aliexpress",
+        "title": "Acne Spot Needle Skin Care Device Beauty Gadget Blemish Puller Eliminator Needle Kit for…",
+        "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005007169710887:12000039685960289&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+        "traffic": "10000 sold",
+        "score": 89
+      }
+    ]
+  },
+  "offers": [
+    {
+      "supplier": "AliExpress",
+      "title": "Acne Spot Needle Skin Care Device Beauty Gadget Blemish Puller Eliminator Needle Kit for Spots Blackhead Cleansing",
+      "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005007169710887:12000039685960289&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/Seae57f1a2edf4cc6867cb6e3062f72fep.jpg"
+      ],
+      "costZar": 6,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "8 PCS Stainless Steel Acne Clip, Cell Clip, Blackhead Clip, Acne Needle, Beauty Salon Acne Needle, Acne Needle Tool",
+      "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005006860909874:12000038542694090&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S27a543d786674a5ca01fad8c72f70974R.png"
+      ],
+      "costZar": 6,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "Stainless Steel Acne Needle Set for Removing Blackheads and Extracting Pimples, Cell Clip, Acne Needle, and Pimple Clip 4-Piece Set",
+      "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005012058481206:12000057399901492&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S2eebb897ba0a4dc98da79c37b905847bG.jpg"
+      ],
+      "costZar": 6,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "Acne Needles Skin 4-15Pcs Ingrown Hair Tweezers Acne Blackhead Removal Needles Black Dots Cleaner Deep Cleansing Pore Cleaner Face Skin Care Tools",
+      "url": "https://www.aliexpress.com/item/3256812579754579.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/Sebbe7475a7d241b0a4d04d2fb7cde848p.png"
+      ],
+      "costZar": 19,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    }
+  ],
+  "chosen": {
+    "supplier": "AliExpress",
+    "title": "Acne Spot Needle Skin Care Device Beauty Gadget Blemish Puller Eliminator Needle Kit for Spots Blackhead Cleansing",
+    "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005007169710887:12000039685960289&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+    "images": [
+      "https://ae-pic-a1.aliexpress-media.com/kf/Seae57f1a2edf4cc6867cb6e3062f72fep.jpg"
+    ],
+    "costZar": 6,
+    "shippingZar": 65,
+    "deliveryDays": [
+      10,
+      18
+    ],
+    "inStock": true,
+    "confidence": "high",
+    "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+  },
+  "decision": "Saved as draft (high confidence). Verify supplier and image before publishing.",
+  "localLeads": []
+}

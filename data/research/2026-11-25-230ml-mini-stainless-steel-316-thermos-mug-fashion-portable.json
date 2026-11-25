@@ -1,0 +1,124 @@
+{
+  "generatedAt": "2026-11-25T14:40:37.083Z",
+  "trend": {
+    "id": "t_50105bcf58",
+    "title": "230ml Mini Stainless Steel 316 Thermos Mug Fashion Portable Pocket Vacuum Flask Coffee…",
+    "source": "aliexpress",
+    "geo": "GLOBAL",
+    "score": 82.49528427273833,
+    "keywords": [
+      "230ml",
+      "mini",
+      "stainless",
+      "steel",
+      "thermos",
+      "mug",
+      "fashion",
+      "portable"
+    ],
+    "query": "230ml mini stainless steel",
+    "category": "kitchen",
+    "url": "https://www.aliexpress.com/item/3256807742563288.html",
+    "traffic": "5000 sold",
+    "eligible": true,
+    "observedAt": "2026-11-25T14:40:26.365Z",
+    "signals": [
+      {
+        "source": "aliexpress",
+        "title": "230ml Mini Stainless Steel 316 Thermos Mug Fashion Portable Pocket Vacuum Flask Coffee…",
+        "url": "https://www.aliexpress.com/item/3256807742563288.html",
+        "traffic": "5000 sold",
+        "score": 82.49528427273833
+      }
+    ]
+  },
+  "offers": [
+    {
+      "supplier": "AliExpress",
+      "title": "230ml Mini Stainless Steel 316 Thermos Mug Fashion Portable Pocket Vacuum Flask Coffee Tea Thermal Water Bottle Tumbler",
+      "url": "https://www.aliexpress.com/item/3256807742563288.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S28f02c15bdd749faa0cd056c8ff90af9W.jpg"
+      ],
+      "costZar": 19,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "230ml Mini Thermos Bottle Coffee Vacuum Flasks Cup Small Capacity Portable Stainless Steel Travel Drink Water Bottle Thermoses",
+      "url": "https://www.aliexpress.com/item/3256808004125741.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S0a3a5218023b4a8cab867c67ad08d1d9G.jpg"
+      ],
+      "costZar": 19,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "304 Stainless Steel Insulated Cup Leak-Proof 230ml Coffee Mug Chinese Style Temperature Display Vacuum Pocket Cup Outdoor",
+      "url": "https://www.aliexpress.com/item/3256810518220072.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S22420bc584304543aa13e3212f6dae67s.jpg"
+      ],
+      "costZar": 19,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "304 Stainless Steel Horse Year Insulated Cup Leak-Proof Chinese Style Thermal Water Bottle 230ml Temperature Display Coffee Mug",
+      "url": "https://www.aliexpress.com/item/3256810506837011.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S27ffd09da65b4e65a22c25843badc90aN.jpg"
+      ],
+      "costZar": 19,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    }
+  ],
+  "chosen": {
+    "supplier": "AliExpress",
+    "title": "230ml Mini Stainless Steel 316 Thermos Mug Fashion Portable Pocket Vacuum Flask Coffee Tea Thermal Water Bottle Tumbler",
+    "url": "https://www.aliexpress.com/item/3256807742563288.html",
+    "images": [
+      "https://ae-pic-a1.aliexpress-media.com/kf/S28f02c15bdd749faa0cd056c8ff90af9W.jpg"
+    ],
+    "costZar": 19,
+    "shippingZar": 65,
+    "deliveryDays": [
+      10,
+      18
+    ],
+    "inStock": true,
+    "confidence": "high",
+    "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+  },
+  "decision": "Saved as draft (high confidence). Verify supplier and image before publishing.",
+  "localLeads": []
+}

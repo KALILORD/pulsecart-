@@ -1,0 +1,53 @@
+{
+  "generatedAt": "2026-11-25T14:40:37.083Z",
+  "trend": {
+    "id": "t_abfa289511",
+    "title": "HTMCK 7 Color LED Light Therapy Face Mask | At-Home Photon Beauty Mask, Skin Renewal…",
+    "source": "aliexpress",
+    "geo": "GLOBAL",
+    "score": 82.4,
+    "keywords": [
+      "htmck",
+      "color",
+      "led",
+      "light",
+      "therapy",
+      "face",
+      "mask",
+      "home"
+    ],
+    "query": "htmck color led light",
+    "category": "home",
+    "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005006678225060:12000037991616555&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+    "traffic": "10000 sold",
+    "eligible": true,
+    "observedAt": "2026-11-25T14:40:26.365Z",
+    "signals": [
+      {
+        "source": "aliexpress",
+        "title": "HTMCK 7 Color LED Light Therapy Face Mask | At-Home Photon Beauty Mask, Skin Renewal…",
+        "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005006678225060:12000037991616555&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+        "traffic": "10000 sold",
+        "score": 82.4
+      }
+    ]
+  },
+  "offers": [],
+  "chosen": {
+    "supplier": "Estimated — verify supplier",
+    "title": "htmck color led light",
+    "url": "",
+    "images": [],
+    "costZar": 230,
+    "shippingZar": 65,
+    "deliveryDays": [
+      10,
+      18
+    ],
+    "inStock": true,
+    "confidence": "low",
+    "notes": "No verifiable supplier price found automatically. Confirm a supplier, landed cost, and image before publishing."
+  },
+  "decision": "Saved as draft (low confidence). Verify supplier and image before publishing.",
+  "localLeads": []
+}
