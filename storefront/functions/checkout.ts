@@ -26,10 +26,17 @@ interface OrderPayload {
 }
 
 interface Env {
+  // Ozow (primary — instant EFT, no card needed)
+  OZOW_SITE_CODE?: string;
+  OZOW_API_KEY?: string;
+  OZOW_PRIVATE_KEY?: string;
+  OZOW_IS_TEST?: string;
+  // PayFast (fallback)
   PAYFAST_MERCHANT_ID?: string;
   PAYFAST_MERCHANT_KEY?: string;
   PAYFAST_PASSPHRASE?: string;
   PAYFAST_SANDBOX?: string;
+  // Paystack (fallback)
   PAYSTACK_SECRET_KEY?: string;
 }
 
@@ -48,11 +55,9 @@ function json(data: unknown, status = 200): Response {
 /**
  * Cloudflare Pages Function: POST /api/checkout
  *
- * Receives a validated checkout order, creates a payment intent with the
- * configured gateway (PayFast or Paystack), and returns a payment URL.
- *
- * The customer is redirected to the gateway's secure hosted page — no
- * WhatsApp or email links are sent to the customer.
+ * Creates a hosted payment request with the configured gateway and returns the
+ * secure payment URL. Ozow (instant EFT) is preferred; PayFast and Paystack are
+ * supported as fallbacks. Keys stay server-side — the buyer never sees them.
  */
 export async function onRequestPost(context: PagesContext) {
   try {
@@ -70,32 +75,43 @@ export async function onRequestPost(context: PagesContext) {
     }
 
     const env = context.env as unknown as Env;
-    const { PAYFAST_MERCHANT_ID, PAYFAST_MERCHANT_KEY, PAYSTACK_SECRET_KEY } =
-      env;
 
-    // --- Payment gateway selection ---
-    // Prefer PayFast for South Africa (ZAR), fallback to Paystack.
-    if (PAYFAST_MERCHANT_ID && PAYFAST_MERCHANT_KEY) {
+    // --- 1. Ozow (primary) ---
+    if (env.OZOW_SITE_CODE && env.OZOW_API_KEY && env.OZOW_PRIVATE_KEY) {
+      return await createOzowPayment(context, payload, {
+        siteCode: env.OZOW_SITE_CODE,
+        apiKey: env.OZOW_API_KEY,
+        privateKey: env.OZOW_PRIVATE_KEY,
+        isTest: env.OZOW_IS_TEST === "true",
+      });
+    }
+
+    // --- 2. PayFast (fallback) ---
+    if (env.PAYFAST_MERCHANT_ID && env.PAYFAST_MERCHANT_KEY) {
       return await createPayFastPayment(context, payload, {
-        merchantId: PAYFAST_MERCHANT_ID,
-        merchantKey: PAYFAST_MERCHANT_KEY,
+        merchantId: env.PAYFAST_MERCHANT_ID,
+        merchantKey: env.PAYFAST_MERCHANT_KEY,
         passphrase: env.PAYFAST_PASSPHRASE,
         sandbox: env.PAYFAST_SANDBOX === "true",
       });
     }
 
-    if (PAYSTACK_SECRET_KEY) {
-      return await createPaystackPayment(context, payload, PAYSTACK_SECRET_KEY);
+    // --- 3. Paystack (fallback) ---
+    if (env.PAYSTACK_SECRET_KEY) {
+      return await createPaystackPayment(
+        context,
+        payload,
+        env.PAYSTACK_SECRET_KEY,
+      );
     }
 
-    // --- No gateway configured ---
-    // In development, return a mock success so the flow can be tested.
+    // --- No gateway configured (dev only) ---
     return json(
       {
         success: true,
         orderId: `pc_${Date.now()}`,
         message:
-          "Order received. No payment gateway configured — add PAYFAST_MERCHANT_ID or PAYSTACK_SECRET_KEY to enable automatic payments.",
+          "Order received. No gateway configured — add OZOW_* variables to enable payments.",
       },
       200,
     );
@@ -106,6 +122,105 @@ export async function onRequestPost(context: PagesContext) {
     );
   }
 }
+
+/* -------------------------------------------------------------------------- */
+/*  Ozow — instant EFT (Pay by Bank)                                           */
+/* -------------------------------------------------------------------------- */
+
+async function createOzowPayment(
+  context: PagesContext,
+  payload: OrderPayload,
+  config: {
+    siteCode: string;
+    apiKey: string;
+    privateKey: string;
+    isTest: boolean;
+  },
+) {
+  const origin = new URL(context.request.url).origin;
+  const reference = `pc_${Date.now()}`;
+
+  // Ozow hash fields must be concatenated in this exact order, with values only.
+  // Amount must have exactly two decimals. Booleans must be "true"/"false".
+  const fields: Array<string | number | boolean> = [
+    config.siteCode,
+    "ZA",
+    "ZAR",
+    payload.total.toFixed(2),
+    reference,
+    reference.replace(/[^a-zA-Z0-9 -]/g, "").slice(0, 30) || "PULSECART",
+    payload.customer.name,
+    `${origin}/checkout/cancel`,
+    `${origin}/checkout/error`,
+    `${origin}/checkout/success`,
+    `${origin}/api/ozow/notify`,
+    config.isTest ? "true" : "false",
+  ];
+
+  const concatenated = fields.map((field) => String(field)).join("") + config.privateKey;
+  const hashCheck = await sha512Hex(concatenated.toLowerCase());
+
+  const response = await fetch("https://api.ozow.com/postpaymentrequest", {
+    method: "POST",
+    headers: {
+      ApiKey: config.apiKey,
+      "Content-Type": "application/json",
+      Accept: "application/json",
+    },
+    body: JSON.stringify({
+      siteCode: config.siteCode,
+      countryCode: "ZA",
+      currencyCode: "ZAR",
+      amount: payload.total.toFixed(2),
+      transactionReference: reference,
+      bankReference: reference.replace(/[^a-zA-Z0-9 -]/g, "").slice(0, 30) || "PULSECART",
+      customer: payload.customer.name,
+      cancelUrl: `${origin}/checkout/cancel`,
+      errorUrl: `${origin}/checkout/error`,
+      successUrl: `${origin}/checkout/success`,
+      notifyUrl: `${origin}/api/ozow/notify`,
+      isTest: config.isTest,
+      hashCheck,
+    }),
+  });
+
+  const data = (await response.json()) as {
+    paymentRequestId?: string;
+    url?: string | null;
+    errorMessage?: string | null;
+  };
+
+  // Ozow returns HTTP 200 even for rejected requests — check for a URL.
+  if (!data.url || data.errorMessage) {
+    return json(
+      { error: data.errorMessage || "Ozow payment request was rejected." },
+      400,
+    );
+  }
+
+  return json(
+    {
+      success: true,
+      paymentUrl: data.url,
+      orderId: reference,
+      gateway: "ozow",
+    },
+    200,
+  );
+}
+
+/** SHA-512 hash, returned as a lowercase hex string (Ozow hashCheck format). */
+async function sha512Hex(input: string): Promise<string> {
+  const data = new TextEncoder().encode(input);
+  const digest = await crypto.subtle.digest("SHA-512", data);
+  return Array.from(new Uint8Array(digest))
+    .map((byte) => byte.toString(16).padStart(2, "0"))
+    .join("");
+}
+
+/* -------------------------------------------------------------------------- */
+/*  PayFast (fallback)                                                         */
+/* -------------------------------------------------------------------------- */
 
 async function createPayFastPayment(
   context: PagesContext,
@@ -141,15 +256,8 @@ async function createPayFastPayment(
     custom_str2: payload.customer.notes || "",
   };
 
-  // PayFast requires an MD5 signature. It is computed server-side so the
-  // buyer never sees the merchant key or passphrase.
   const signature = computePayFastSignature(payfastPayload, config.passphrase);
-
-  // Redirect the customer to PayFast's secure hosted payment page.
-  const params = new URLSearchParams({
-    ...payfastPayload,
-    signature,
-  });
+  const params = new URLSearchParams({ ...payfastPayload, signature });
 
   return json(
     {
@@ -161,6 +269,10 @@ async function createPayFastPayment(
     200,
   );
 }
+
+/* -------------------------------------------------------------------------- */
+/*  Paystack (fallback)                                                        */
+/* -------------------------------------------------------------------------- */
 
 async function createPaystackPayment(
   context: PagesContext,
@@ -177,7 +289,7 @@ async function createPaystackPayment(
     },
     body: JSON.stringify({
       email: payload.customer.email,
-      amount: Math.round(payload.total * 100), // Paystack uses kobo/cents
+      amount: Math.round(payload.total * 100),
       currency: "ZAR",
       reference: `pc_${Date.now()}`,
       callback_url: `${origin}/checkout/success`,
@@ -190,9 +302,13 @@ async function createPaystackPayment(
     }),
   });
 
-  const data = await response.json();
+  const data = (await response.json()) as {
+    status?: boolean;
+    message?: string;
+    data?: { authorization_url?: string; reference?: string };
+  };
 
-  if (!data.status) {
+  if (!data.status || !data.data?.authorization_url) {
     return json(
       { error: data.message || "Paystack initialization failed." },
       400,
@@ -210,8 +326,10 @@ async function createPaystackPayment(
   );
 }
 
-// PayFast expects the parameter string to mirror PHP's urlencode():
-// spaces become "+", and characters JavaScript leaves unencoded must also be percent-encoded.
+/* -------------------------------------------------------------------------- */
+/*  PayFast signature helpers                                                  */
+/* -------------------------------------------------------------------------- */
+
 function pfEncode(value: string): string {
   return encodeURIComponent(value.trim())
     .replace(/%20/g, "+")
@@ -222,8 +340,6 @@ function computePayFastSignature(
   params: Record<string, string>,
   passphrase?: string,
 ): string {
-  // Parameters are hashed in the order they appear, exactly like the official
-  // PayFast integration examples.
   const lines = Object.entries(params)
     .filter(([key, value]) => key !== "signature" && value !== "")
     .map(([key, value]) => `${key}=${pfEncode(value)}`);
