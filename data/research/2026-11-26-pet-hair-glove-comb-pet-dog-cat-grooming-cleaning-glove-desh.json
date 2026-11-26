@@ -1,0 +1,124 @@
+{
+  "generatedAt": "2026-11-26T14:04:19.984Z",
+  "trend": {
+    "id": "t_5cc1735d54",
+    "title": "Cat Hair Brush Pet Removal Gloves Double-Sided Pet Grooming Gloves Kitten Cleaning Tool…",
+    "source": "aliexpress",
+    "geo": "GLOBAL",
+    "score": 81,
+    "keywords": [
+      "cat",
+      "hair",
+      "brush",
+      "pet",
+      "removal",
+      "gloves",
+      "double",
+      "sided"
+    ],
+    "query": "cat hair brush pet",
+    "category": "pets",
+    "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005009806969082:12000050236623668&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+    "traffic": "20000 sold",
+    "eligible": true,
+    "observedAt": "2026-11-26T14:04:08.442Z",
+    "signals": [
+      {
+        "source": "aliexpress",
+        "title": "Cat Hair Brush Pet Removal Gloves Double-Sided Pet Grooming Gloves Kitten Cleaning Tool…",
+        "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005009806969082:12000050236623668&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+        "traffic": "20000 sold",
+        "score": 81
+      }
+    ]
+  },
+  "offers": [
+    {
+      "supplier": "AliExpress",
+      "title": "Pet Hair Glove Comb Pet Dog Cat Grooming Cleaning Glove Deshedding Hair Remover Massage Brush Animal Supplies Cat Accessories",
+      "url": "https://www.aliexpress.com/item/3256813153406971.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S21618d797002453991540410e36beb291.png"
+      ],
+      "costZar": 19,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "Cat Hair Brush Pet Removal Gloves Double-Sided Pet Grooming Gloves Kitten Cleaning Tool Dog Deshedding Brush Pet Supplies",
+      "url": "https://www.aliexpress.com/item/3256811628935182.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S2d242691622147b4ba455dfba4775763j.jpg"
+      ],
+      "costZar": 19,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "Pet Dog Brush Cat Comb Self Cleaning Pet Hair Remover Brush For Dogs Cats Grooming Tools Pets Dematting Comb Dogs Accessories",
+      "url": "https://www.aliexpress.com/item/3256806824137450.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/Sef52a2013c00471b918540881163ace7S.png"
+      ],
+      "costZar": 19,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "Cats Hair Brush Pet Reusable Double-Sided Pet Hair Removal Tool Anti-Static Pet Grooming Comb for Cats Dogs Soft Brush for Long Hair Pet Accessories",
+      "url": "https://www.aliexpress.com/item/3256813478212853.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S33728f589e5f46009aeae2fed2a1c517w.jpg"
+      ],
+      "costZar": 273,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    }
+  ],
+  "chosen": {
+    "supplier": "AliExpress",
+    "title": "Pet Hair Glove Comb Pet Dog Cat Grooming Cleaning Glove Deshedding Hair Remover Massage Brush Animal Supplies Cat Accessories",
+    "url": "https://www.aliexpress.com/item/3256813153406971.html",
+    "images": [
+      "https://ae-pic-a1.aliexpress-media.com/kf/S21618d797002453991540410e36beb291.png"
+    ],
+    "costZar": 19,
+    "shippingZar": 65,
+    "deliveryDays": [
+      10,
+      18
+    ],
+    "inStock": true,
+    "confidence": "high",
+    "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+  },
+  "decision": "Saved as draft (high confidence). Verify supplier and image before publishing.",
+  "localLeads": []
+}

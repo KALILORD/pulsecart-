@@ -1,0 +1,124 @@
+{
+  "generatedAt": "2026-11-26T14:04:19.984Z",
+  "trend": {
+    "id": "t_8a798354e1",
+    "title": "2026 2-in-1 Glass Oil Dispenser Sprayer 16oz Leakproof Olive Oil Bottle for Cooking Air…",
+    "source": "aliexpress",
+    "geo": "GLOBAL",
+    "score": 82.01084275689499,
+    "keywords": [
+      "glass",
+      "oil",
+      "dispenser",
+      "sprayer",
+      "16oz",
+      "leakproof",
+      "olive",
+      "oil"
+    ],
+    "query": "glass oil dispenser sprayer",
+    "category": "kitchen",
+    "url": "https://www.aliexpress.com/item/3256812621769900.html",
+    "traffic": "4000 sold",
+    "eligible": true,
+    "observedAt": "2026-11-26T14:04:08.442Z",
+    "signals": [
+      {
+        "source": "aliexpress",
+        "title": "2026 2-in-1 Glass Oil Dispenser Sprayer 16oz Leakproof Olive Oil Bottle for Cooking Air…",
+        "url": "https://www.aliexpress.com/item/3256812621769900.html",
+        "traffic": "4000 sold",
+        "score": 82.01084275689499
+      }
+    ]
+  },
+  "offers": [
+    {
+      "supplier": "AliExpress",
+      "title": "Glass Oil Sprayer for Air Fryer – 2-in-1 Olive Oil Dispenser Bottle Fine Mist Cooking Sprayer, Leakproof Refillable Oil Mister",
+      "url": "https://www.aliexpress.com/item/3256812402578560.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S91e87d0deaf34b24af04845d4f692003m.png"
+      ],
+      "costZar": 170,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "2-in-1 470ml Light Blocking Brown Oil Sprayer for Cooking Olive Oil Dispenser Bottle for Kitchen Oil Bottle Seasoning Tools",
+      "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005009278234071:12000048587588237&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S3d45418202e24e69b2d2d279e3b908c6D.jpg"
+      ],
+      "costZar": 59,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "2in1 Oil Spray Bottle 500ml High Borosilicate Glass Cooking Oil Dispensers Olive Oil Sprayer Mister for Air Fryer Salad Baking",
+      "url": "https://www.aliexpress.com/item/3256812740061286.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S8f9785128e1a458e83938813799906160.jpg"
+      ],
+      "costZar": 19,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "Glass Oil Sprayer Green Olive Oil Dispenser,Sprayer for Cooking 2 in 1- Spray and Pour,Dark Green Glass Oil Bottlewith Stickers,16oz/470ml Oil Sprayer",
+      "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005009923686317:12000050588921192&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S5778423cb6c047c6b4e6bfdd5252683eK.png"
+      ],
+      "costZar": 105,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    }
+  ],
+  "chosen": {
+    "supplier": "AliExpress",
+    "title": "2in1 Oil Spray Bottle 500ml High Borosilicate Glass Cooking Oil Dispensers Olive Oil Sprayer Mister for Air Fryer Salad Baking",
+    "url": "https://www.aliexpress.com/item/3256812740061286.html",
+    "images": [
+      "https://ae-pic-a1.aliexpress-media.com/kf/S8f9785128e1a458e83938813799906160.jpg"
+    ],
+    "costZar": 19,
+    "shippingZar": 65,
+    "deliveryDays": [
+      10,
+      18
+    ],
+    "inStock": true,
+    "confidence": "high",
+    "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+  },
+  "decision": "Saved as draft (high confidence). Verify supplier and image before publishing.",
+  "localLeads": []
+}

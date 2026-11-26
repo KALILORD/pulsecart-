@@ -1,0 +1,124 @@
+{
+  "generatedAt": "2026-11-26T14:04:19.984Z",
+  "trend": {
+    "id": "t_3249432e11",
+    "title": "2 In 1 Sealer Cutter Multifunctional Mini Bag Sealer Portable Resealer Machine Handheld…",
+    "source": "aliexpress",
+    "geo": "GLOBAL",
+    "score": 82.01084275689499,
+    "keywords": [
+      "sealer",
+      "cutter",
+      "multifunctional",
+      "mini",
+      "bag",
+      "sealer",
+      "portable",
+      "resealer"
+    ],
+    "query": "sealer cutter multifunctional mini",
+    "category": "fashion",
+    "url": "https://www.aliexpress.com/item/3256812341300558.html",
+    "traffic": "4000 sold",
+    "eligible": true,
+    "observedAt": "2026-11-26T14:04:08.442Z",
+    "signals": [
+      {
+        "source": "aliexpress",
+        "title": "2 In 1 Sealer Cutter Multifunctional Mini Bag Sealer Portable Resealer Machine Handheld…",
+        "url": "https://www.aliexpress.com/item/3256812341300558.html",
+        "traffic": "4000 sold",
+        "score": 82.01084275689499
+      }
+    ]
+  },
+  "offers": [
+    {
+      "supplier": "AliExpress",
+      "title": "Mini 2 in 1 Rechargeable Bag Sealer, Heat Sealer With Cutter & Magnet, Portable Plastic Snack Bag Resealer Machine For Food Storage, USB Rechargeable Kitchen Sealing Tool",
+      "url": "https://www.aliexpress.com/item/3256812252359681.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S845bdec4b4eb4121bde7b80d6069e74aZ.jpg"
+      ],
+      "costZar": 19,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "2 In 1 Sealer Cutter Multifunctional Mini Bag Sealer Portable Resealer Machine Handheld Bag Sealing Machine for Plastic Bags",
+      "url": "https://www.aliexpress.com/item/3256812341300558.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S6c33f38f5fe0474cb5eaba15555322ffF.jpg"
+      ],
+      "costZar": 19,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "Portable Magnetic 2 In 1 Sealer Cutter,Multifunctional Mini Bag Sealer,Handheld Resealer Machine&Opening Machine for Plastic Bag",
+      "url": "https://www.aliexpress.com/item/3256813213534197.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S981e61e76440455bbddfbc584fa6afd2U.jpg"
+      ],
+      "costZar": 19,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "Sealer Mini Plastic Bag Sealer Mini Heat Bag Sealing Machine 2 in 1 Heat Bag Sealer Food Packaging Sealing Machine Portable Bags Sealer",
+      "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005009186418258:12000048233617485&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/Sb09b0aa40f834604bfffa802d00d6b13C.png"
+      ],
+      "costZar": 302,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    }
+  ],
+  "chosen": {
+    "supplier": "AliExpress",
+    "title": "Mini 2 in 1 Rechargeable Bag Sealer, Heat Sealer With Cutter & Magnet, Portable Plastic Snack Bag Resealer Machine For Food Storage, USB Rechargeable Kitchen Sealing Tool",
+    "url": "https://www.aliexpress.com/item/3256812252359681.html",
+    "images": [
+      "https://ae-pic-a1.aliexpress-media.com/kf/S845bdec4b4eb4121bde7b80d6069e74aZ.jpg"
+    ],
+    "costZar": 19,
+    "shippingZar": 65,
+    "deliveryDays": [
+      10,
+      18
+    ],
+    "inStock": true,
+    "confidence": "high",
+    "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+  },
+  "decision": "Saved as draft (high confidence). Verify supplier and image before publishing.",
+  "localLeads": []
+}
