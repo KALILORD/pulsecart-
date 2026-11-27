@@ -1,0 +1,124 @@
+{
+  "generatedAt": "2026-11-27T14:02:37.182Z",
+  "trend": {
+    "id": "t_845ee370ce",
+    "title": "Beauty Diode Laser Anti-Beauty Machine 4 Wavelengths 1470nm 980nm 635nm 450nm Anti…",
+    "source": "aliexpress",
+    "geo": "GLOBAL",
+    "score": 81,
+    "keywords": [
+      "beauty",
+      "diode",
+      "laser",
+      "anti",
+      "beauty",
+      "machine",
+      "wavelengths",
+      "1470nm"
+    ],
+    "query": "beauty diode laser anti",
+    "category": "beauty",
+    "url": "https://www.aliexpress.com/item/3256810350268515.html",
+    "traffic": "10000 sold",
+    "eligible": true,
+    "observedAt": "2026-11-27T14:02:24.733Z",
+    "signals": [
+      {
+        "source": "aliexpress",
+        "title": "Beauty Diode Laser Anti-Beauty Machine 4 Wavelengths 1470nm 980nm 635nm 450nm Anti…",
+        "url": "https://www.aliexpress.com/item/3256810350268515.html",
+        "traffic": "10000 sold",
+        "score": 81
+      }
+    ]
+  },
+  "offers": [
+    {
+      "supplier": "AliExpress",
+      "title": "4 Wavelengths 1470nm 980nm 635nm 450nm Anti Beauty Equipment for Fat Reduction Beauty Tech Devices Beauty Tech Home Devices",
+      "url": "https://www.aliexpress.com/item/3256810350268515.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S3ffbd7bbb13548028a94475a4bd00e2a1.png"
+      ],
+      "costZar": 12810,
+      "shippingZar": 0,
+      "deliveryDays": [
+        7,
+        14
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "808nm Diode Laser Hair Removal Machine Soprano Titanium Tech 4000W Ice Cooling 4 Wavelengths 755/808/940/1064nm Permanent Painless Hair Reduction All Skin Tones Salon-Grade Beauty Equipment Safe Effective for All Body Areas Spa Use",
+      "url": "https://www.aliexpress.com/item/3256812071070891.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S0dbb807f5a354907bdf78fb0557b4321m.jpg"
+      ],
+      "costZar": 16549,
+      "shippingZar": 0,
+      "deliveryDays": [
+        7,
+        14
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "1470nm 980nm Diode Laser Machine Fat Removal Body Slimming Anti Cellulite Device Lase Treatment Wholesalers",
+      "url": "https://www.aliexpress.com/item/3256813115004633.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S6f356c8c36ce4aab97ca2383d9384763Y.jpeg"
+      ],
+      "costZar": 14059,
+      "shippingZar": 0,
+      "deliveryDays": [
+        7,
+        14
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "Diode Laser Black Friday Sale Newly Upgraded 2IN1 Diode Laser Machine 6 Waves FAC Ice Cooling Painless Hair Remover Pico Tattoo Fading Salon",
+      "url": "https://www.aliexpress.com/item/3256812619891687.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S2e39add8ade14175a54fe7070db3e3174.png"
+      ],
+      "costZar": 9135,
+      "shippingZar": 0,
+      "deliveryDays": [
+        7,
+        14
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    }
+  ],
+  "chosen": {
+    "supplier": "AliExpress",
+    "title": "Diode Laser Black Friday Sale Newly Upgraded 2IN1 Diode Laser Machine 6 Waves FAC Ice Cooling Painless Hair Remover Pico Tattoo Fading Salon",
+    "url": "https://www.aliexpress.com/item/3256812619891687.html",
+    "images": [
+      "https://ae-pic-a1.aliexpress-media.com/kf/S2e39add8ade14175a54fe7070db3e3174.png"
+    ],
+    "costZar": 9135,
+    "shippingZar": 0,
+    "deliveryDays": [
+      7,
+      14
+    ],
+    "inStock": true,
+    "confidence": "high",
+    "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+  },
+  "decision": "Saved as draft (high confidence). Verify supplier and image before publishing.",
+  "localLeads": []
+}

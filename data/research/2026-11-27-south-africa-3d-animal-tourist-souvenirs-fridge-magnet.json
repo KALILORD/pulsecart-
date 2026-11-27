@@ -1,0 +1,122 @@
+{
+  "generatedAt": "2026-11-27T14:02:37.182Z",
+  "trend": {
+    "id": "t_f9df5823f5",
+    "title": "south africa petrol price decrease",
+    "source": "google-trends",
+    "geo": "ZA",
+    "score": 85.20411998265593,
+    "keywords": [
+      "south",
+      "africa",
+      "petrol",
+      "price",
+      "decrease"
+    ],
+    "query": "south africa petrol price decrease",
+    "event": "Festive cheer as petrol set for big cut of nearly R4 per litre",
+    "category": "lifestyle",
+    "url": "https://trends.google.com/trending/rss?geo=ZA",
+    "traffic": "2000+",
+    "eligible": true,
+    "observedAt": "2026-11-27T14:02:24.956Z",
+    "signals": [
+      {
+        "source": "google-trends",
+        "title": "south africa petrol price decrease",
+        "url": "https://trends.google.com/trending/rss?geo=ZA",
+        "traffic": "2000+",
+        "score": 85.20411998265593
+      }
+    ]
+  },
+  "offers": [
+    {
+      "supplier": "AliExpress",
+      "title": "South Africa 3D Animal Tourist Souvenirs Fridge Magnet Refrigerator Sticker Africa's Big Five Resin Painted Crafts Gift Idea",
+      "url": "https://www.aliexpress.com/item/2255801144286915.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/Sc90903e47e7149c2986bbd48ece20579e.jpg"
+      ],
+      "costZar": 19,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "For Motorcycle Scooters Tractor Truck Garden Tools Inline Gas Petrol Fuel Filters Universal RV Inline Fuel Gas Line Metal Cover",
+      "url": "https://www.aliexpress.com/item/3256813064173969.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S3e730f1f14b143d0802fc0f8fd534d9bi.jpg"
+      ],
+      "costZar": 19,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "Africa, South Africa, Lion, Grassland, 3D Stereoscopic, Tourism Souvenirs, Resin Painting, Decoration Home, Refrigerator Magnet",
+      "url": "https://www.aliexpress.com/item/3256810546608643.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/Sa493d375c7ab455da76e9938acc8b000a.jpg"
+      ],
+      "costZar": 19,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "8mm 5/16\" Universal Washable Fuel Filter Motorcycle Inline Petrol Diesel Filter Excellent Filtering Performance For Petrol",
+      "url": "https://www.aliexpress.com/item/3256805324967894.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S80bbf63ccaea495995273498d7af606br.jpeg"
+      ],
+      "costZar": 19,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    }
+  ],
+  "chosen": {
+    "supplier": "AliExpress",
+    "title": "South Africa 3D Animal Tourist Souvenirs Fridge Magnet Refrigerator Sticker Africa's Big Five Resin Painted Crafts Gift Idea",
+    "url": "https://www.aliexpress.com/item/2255801144286915.html",
+    "images": [
+      "https://ae-pic-a1.aliexpress-media.com/kf/Sc90903e47e7149c2986bbd48ece20579e.jpg"
+    ],
+    "costZar": 19,
+    "shippingZar": 65,
+    "deliveryDays": [
+      10,
+      18
+    ],
+    "inStock": true,
+    "confidence": "high",
+    "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+  },
+  "decision": "Saved as draft (high confidence). Verify supplier and image before publishing.",
+  "localLeads": []
+}

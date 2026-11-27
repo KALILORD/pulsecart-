@@ -1,0 +1,53 @@
+{
+  "generatedAt": "2026-11-27T14:02:37.182Z",
+  "trend": {
+    "id": "t_e547f25ea5",
+    "title": "HONSUN Humidifier for Bedroom & Office, Wood Grain Essential Oil Diffuser with 7 Color…",
+    "source": "aliexpress",
+    "geo": "GLOBAL",
+    "score": 80.9546755355169,
+    "keywords": [
+      "honsun",
+      "humidifier",
+      "bedroom",
+      "office",
+      "wood",
+      "grain",
+      "essential",
+      "oil"
+    ],
+    "query": "honsun humidifier bedroom office",
+    "category": "home",
+    "url": "https://www.aliexpress.com/item/3256813059561050.html",
+    "traffic": "245 sold",
+    "eligible": true,
+    "observedAt": "2026-11-27T14:02:24.733Z",
+    "signals": [
+      {
+        "source": "aliexpress",
+        "title": "HONSUN Humidifier for Bedroom & Office, Wood Grain Essential Oil Diffuser with 7 Color…",
+        "url": "https://www.aliexpress.com/item/3256813059561050.html",
+        "traffic": "245 sold",
+        "score": 80.9546755355169
+      }
+    ]
+  },
+  "offers": [],
+  "chosen": {
+    "supplier": "Estimated — verify supplier",
+    "title": "honsun humidifier bedroom office",
+    "url": "",
+    "images": [],
+    "costZar": 230,
+    "shippingZar": 65,
+    "deliveryDays": [
+      10,
+      18
+    ],
+    "inStock": true,
+    "confidence": "low",
+    "notes": "No verifiable supplier price found automatically. Confirm a supplier, landed cost, and image before publishing."
+  },
+  "decision": "Saved as draft (low confidence). Verify supplier and image before publishing.",
+  "localLeads": []
+}
