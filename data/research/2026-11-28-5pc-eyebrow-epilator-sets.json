@@ -1,0 +1,53 @@
+{
+  "generatedAt": "2026-11-28T13:20:03.188Z",
+  "trend": {
+    "id": "t_4d645ea9f8",
+    "title": "5pc Eyebrow Epilator Sets for Women Makeup Beauty Eyebrows Hair Removal Styling Tool…",
+    "source": "aliexpress",
+    "geo": "GLOBAL",
+    "score": 79.89111813383047,
+    "keywords": [
+      "5pc",
+      "eyebrow",
+      "epilator",
+      "sets",
+      "women",
+      "makeup",
+      "beauty",
+      "eyebrows"
+    ],
+    "query": "5pc eyebrow epilator sets",
+    "category": "beauty",
+    "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005012011189140:12000057272431568&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+    "traffic": "6000 sold",
+    "eligible": true,
+    "observedAt": "2026-11-28T13:19:52.196Z",
+    "signals": [
+      {
+        "source": "aliexpress",
+        "title": "5pc Eyebrow Epilator Sets for Women Makeup Beauty Eyebrows Hair Removal Styling Tool…",
+        "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005012011189140:12000057272431568&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+        "traffic": "6000 sold",
+        "score": 79.89111813383047
+      }
+    ]
+  },
+  "offers": [],
+  "chosen": {
+    "supplier": "Estimated — verify supplier",
+    "title": "5pc eyebrow epilator sets",
+    "url": "",
+    "images": [],
+    "costZar": 220,
+    "shippingZar": 65,
+    "deliveryDays": [
+      10,
+      18
+    ],
+    "inStock": true,
+    "confidence": "low",
+    "notes": "No verifiable supplier price found automatically. Confirm a supplier, landed cost, and image before publishing."
+  },
+  "decision": "Saved as draft (low confidence). Verify supplier and image before publishing.",
+  "localLeads": []
+}

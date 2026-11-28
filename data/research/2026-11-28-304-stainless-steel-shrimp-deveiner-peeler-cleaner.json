@@ -1,0 +1,124 @@
+{
+  "generatedAt": "2026-11-28T13:20:03.188Z",
+  "trend": {
+    "id": "t_4e09af3f28",
+    "title": "Stainless Steel Shrimp Deveined Device - Ergonomic Fishbone Design，Easy Shell…",
+    "source": "aliexpress",
+    "geo": "GLOBAL",
+    "score": 83.1,
+    "keywords": [
+      "stainless",
+      "steel",
+      "shrimp",
+      "deveined",
+      "device",
+      "ergonomic",
+      "fishbone",
+      "design"
+    ],
+    "query": "Stainless Steel Shrimp Deveined Device",
+    "category": "lifestyle",
+    "url": "https://www.aliexpress.com/item/3256806851915656.html",
+    "traffic": "10000 sold",
+    "eligible": true,
+    "observedAt": "2026-11-28T13:19:52.196Z",
+    "signals": [
+      {
+        "source": "aliexpress",
+        "title": "Stainless Steel Shrimp Deveined Device - Ergonomic Fishbone Design，Easy Shell…",
+        "url": "https://www.aliexpress.com/item/3256806851915656.html",
+        "traffic": "10000 sold",
+        "score": 83.1
+      }
+    ]
+  },
+  "offers": [
+    {
+      "supplier": "AliExpress",
+      "title": "Stainless Steel Shrimp Deveined Device - Ergonomic Fishbone Design，Easy Shell Removal，Kitchen Seafood Preparation Gadget",
+      "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005008715738497:12000046364150290&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S2677d7520e0049c5a1a9edb25e94640cM.jpg"
+      ],
+      "costZar": 23,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "304 Stainless Steel Shrimp Deveiner / Peeler / Cleaner",
+      "url": "https://www.aliexpress.com/item/3256808606631066.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S2fc7df5ab737447f917d0b635b289a63N.jpg"
+      ],
+      "costZar": 19,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "Stainless Steel Shrimp Peeler Multifunctional Shrimp Line Remover Manual Fruit Jujube Corer Lobster Sheller Peeler Seafood Tool",
+      "url": "https://www.aliexpress.com/item/3256808262630588.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S01831578b1784cbd990ef89b4c72ed3aM.jpg"
+      ],
+      "costZar": 19,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "Stainless Steel Shrimp Cage PD Fishing Gear Stainless Steel Large Shrimp Cage Southern Oil Nesting Cage Bait Cage Olive Shaped Boat Fishing Deep Sea",
+      "url": "https://www.aliexpress.com/item/3256806678084248.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S4d375f35cf9b4ef1ab114e6834a5a48aF.jpg"
+      ],
+      "costZar": 19,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    }
+  ],
+  "chosen": {
+    "supplier": "AliExpress",
+    "title": "304 Stainless Steel Shrimp Deveiner / Peeler / Cleaner",
+    "url": "https://www.aliexpress.com/item/3256808606631066.html",
+    "images": [
+      "https://ae-pic-a1.aliexpress-media.com/kf/S2fc7df5ab737447f917d0b635b289a63N.jpg"
+    ],
+    "costZar": 19,
+    "shippingZar": 65,
+    "deliveryDays": [
+      10,
+      18
+    ],
+    "inStock": true,
+    "confidence": "high",
+    "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+  },
+  "decision": "Saved as draft (high confidence). Verify supplier and image before publishing.",
+  "localLeads": []
+}

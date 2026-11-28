@@ -1,0 +1,124 @@
+{
+  "generatedAt": "2026-11-28T13:20:03.188Z",
+  "trend": {
+    "id": "t_79fac96e74",
+    "title": "Silicone Jaw Exerciser Facial Toner & Jawline Fitness Ball Neck Toning Equipment Facial…",
+    "source": "aliexpress",
+    "geo": "GLOBAL",
+    "score": 81,
+    "keywords": [
+      "silicone",
+      "jaw",
+      "exerciser",
+      "facial",
+      "toner",
+      "jawline",
+      "fitness",
+      "ball"
+    ],
+    "query": "silicone jaw exerciser facial",
+    "category": "fitness",
+    "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005007096797809:12000061724657341&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+    "traffic": "10000 sold",
+    "eligible": true,
+    "observedAt": "2026-11-28T13:19:52.196Z",
+    "signals": [
+      {
+        "source": "aliexpress",
+        "title": "Silicone Jaw Exerciser Facial Toner & Jawline Fitness Ball Neck Toning Equipment Facial…",
+        "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005007096797809:12000061724657341&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+        "traffic": "10000 sold",
+        "score": 81
+      }
+    ]
+  },
+  "offers": [
+    {
+      "supplier": "AliExpress",
+      "title": "2PCS Silicone Jaw Exerciser Facial Toner Jawline Fitness Ball Neck Toning Equipment Facial Beauty Tool Double Chin Exerciser",
+      "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005006861107120:12000038542454947&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S077e1c9a8ca84e24b8df7268211c42d7C.jpg"
+      ],
+      "costZar": 6,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "Silicone Jaw Line Exerciser Facial Toner Chew Ball Neck Muscle Trainer Fitness Jawline Chewer Chin And Cheek Exercise Tool",
+      "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005007987747413:12000043169332284&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/Sbecd314777d3437687f8c4f9b8e1445aP.jpg"
+      ],
+      "costZar": 23,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "3 Pieces Set Food-Grade Silica Gel Jaw Exerciser with Lanyards Jawline Chew Bite Breaker for Face Fitness And Masseter Training",
+      "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005009460544266:12000049174327927&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/Se28acffa52254796a8e6bf00ef1b847cU.jpg"
+      ],
+      "costZar": 6,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "Silicone Jawline Exerciser Ball Premium Silica Gel Jaw Muscle Toner Cheekbone Trainer for Men Women Facial Fitness Gym Equipment",
+      "url": "https://www.aliexpress.com/item/3256811805234944.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/Se68f6c9db5e34f62bf61c236bc818491q.jpg"
+      ],
+      "costZar": 19,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    }
+  ],
+  "chosen": {
+    "supplier": "AliExpress",
+    "title": "2PCS Silicone Jaw Exerciser Facial Toner Jawline Fitness Ball Neck Toning Equipment Facial Beauty Tool Double Chin Exerciser",
+    "url": "https://www.aliexpress.com/ssr/300000512/BundleDeals2?productIds=1005006861107120:12000038542454947&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct",
+    "images": [
+      "https://ae-pic-a1.aliexpress-media.com/kf/S077e1c9a8ca84e24b8df7268211c42d7C.jpg"
+    ],
+    "costZar": 6,
+    "shippingZar": 65,
+    "deliveryDays": [
+      10,
+      18
+    ],
+    "inStock": true,
+    "confidence": "high",
+    "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+  },
+  "decision": "Saved as draft (high confidence). Verify supplier and image before publishing.",
+  "localLeads": []
+}

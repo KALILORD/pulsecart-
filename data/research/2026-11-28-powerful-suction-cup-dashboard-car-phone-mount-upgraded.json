@@ -1,0 +1,124 @@
+{
+  "generatedAt": "2026-11-28T13:20:03.188Z",
+  "trend": {
+    "id": "t_2f40453258",
+    "title": "[Powerful Suction Cup] Dashboard Car Phone Mount, Upgraded Hands-free Phone Holder…",
+    "source": "aliexpress",
+    "geo": "GLOBAL",
+    "score": 83.00217038739659,
+    "keywords": [
+      "powerful",
+      "suction",
+      "cup",
+      "dashboard",
+      "car",
+      "phone",
+      "mount",
+      "upgraded"
+    ],
+    "query": "powerful suction cup dashboard",
+    "category": "tech",
+    "url": "https://www.aliexpress.com/item/3256811755817929.html",
+    "traffic": "1000 sold",
+    "eligible": true,
+    "observedAt": "2026-11-28T13:19:52.196Z",
+    "signals": [
+      {
+        "source": "aliexpress",
+        "title": "[Powerful Suction Cup] Dashboard Car Phone Mount, Upgraded Hands-free Phone Holder…",
+        "url": "https://www.aliexpress.com/item/3256811755817929.html",
+        "traffic": "1000 sold",
+        "score": 83.00217038739659
+      }
+    ]
+  },
+  "offers": [
+    {
+      "supplier": "AliExpress",
+      "title": "[Powerful Suction Cup] Dashboard Car Phone Mount, Upgraded Hands-free Phone Holder, Sturdy Base Smartphone Car Mount, Universal Dashboard Car Mount Compatible With All Smartphones, Best Gift for Family and Friends",
+      "url": "https://www.aliexpress.com/item/3256811755817929.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/Sd8cbf0364fef446c88feeec88dbbacfcY.png"
+      ],
+      "costZar": 19,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "Magnetic Suction Cup Car Phone Mount for MagSafe, 360° Adjustable Foldable Portable Car Holder, Pocket Size for Dashboard Windshield",
+      "url": "https://www.aliexpress.com/item/3256812072258674.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S5f1b2b480fd34bf6942bf3a6a20aebcbe.jpg"
+      ],
+      "costZar": 136,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "Baseus Car Phone Holder Sucker for Dashboard Windshield Mobile Car Cell Phone Holder Clamp For iPhone Pro Xiaomi Huawei Samsung",
+      "url": "https://www.aliexpress.com/item/3256805646743140.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/S8e2c625aab774e7bb0b8e92ff05f8aedn.jpg"
+      ],
+      "costZar": 78,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    },
+    {
+      "supplier": "AliExpress",
+      "title": "Suction Cup Vacuum Car Mount 2026 New Vacuum Magnetic Phone Holder for Car - Suction Cup Phone Mount for MagSafe, 360° Rotatable Portable Strong Magnet Stand",
+      "url": "https://www.aliexpress.com/item/3256811754431981.html",
+      "images": [
+        "https://ae-pic-a1.aliexpress-media.com/kf/Sc0978626a4cf4efe9cd006824eff97aag.jpg"
+      ],
+      "costZar": 61,
+      "shippingZar": 65,
+      "deliveryDays": [
+        10,
+        18
+      ],
+      "inStock": true,
+      "confidence": "high",
+      "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+    }
+  ],
+  "chosen": {
+    "supplier": "AliExpress",
+    "title": "[Powerful Suction Cup] Dashboard Car Phone Mount, Upgraded Hands-free Phone Holder, Sturdy Base Smartphone Car Mount, Universal Dashboard Car Mount Compatible With All Smartphones, Best Gift for Family and Friends",
+    "url": "https://www.aliexpress.com/item/3256811755817929.html",
+    "images": [
+      "https://ae-pic-a1.aliexpress-media.com/kf/Sd8cbf0364fef446c88feeec88dbbacfcY.png"
+    ],
+    "costZar": 19,
+    "shippingZar": 65,
+    "deliveryDays": [
+      10,
+      18
+    ],
+    "inStock": true,
+    "confidence": "high",
+    "notes": "Auto-discovered from public product data. Re-check price and stock before dispatch."
+  },
+  "decision": "Saved as draft (high confidence). Verify supplier and image before publishing.",
+  "localLeads": []
+}
